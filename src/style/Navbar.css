@@ -1,0 +1,36 @@
+.custom-navbar {
+    background-color: #141414;
+    padding: 0.8rem 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  .navbar-brand {
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    color: #f5c518 !important; /* giallo ispirato a IMDb */
+  }
+  
+  .navbar-brand:hover {
+    color: #ffda63 !important;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link {
+    color: #eaeaea !important;
+    margin-left: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #f5c518 !important;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  
