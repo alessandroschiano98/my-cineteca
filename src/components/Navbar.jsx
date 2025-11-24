@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark custom-navbar">
       <div className="container">
         <a className="navbar-brand fw-bold" href="#">
-           My Cineteca
+           myCineteca
         </a>
 
         <button

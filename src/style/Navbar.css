@@ -7,7 +7,7 @@
   .navbar-brand {
     font-size: 1.4rem;
     letter-spacing: 1px;
-    color: #f5c518 !important; /* giallo ispirato a IMDb */
+    color: #f5c518 !important; 
   }
   
   .navbar-brand:hover {

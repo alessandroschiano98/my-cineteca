@@ -1,3 +1,5 @@
+
+
 .movie-card {
     border: none;
     border-radius: 15px;
@@ -16,8 +18,9 @@
   }
   
   .card-title {
-    font-weight: 600;
+    font-weight: 700;
     color: #222;
+    
   }
 
   
