@@ -7,13 +7,13 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark custom-navbar">
       <div className="container">
         <a className="navbar-brand fw-bold" href="#">
-           myCineteca
+          myCineteca
         </a>
 
         <button
           className="navbar-toggler"
           type="button"
-          data-bs-toggle="collapse"
+          data-bs-  toggle="collapse"
           data-bs-target="#navbarNav"
           aria-controls="navbarNav"
           aria-expanded="false"

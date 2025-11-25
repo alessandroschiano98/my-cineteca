@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "./components/MovieCard";
 import Navbar from "./components/Navbar";
-import { movies } from "./data/movies";
+import { movies } from "./data/MoviesList";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./style/Navbar.css";
 import "./style/MovieCard.css";
@@ -13,10 +13,10 @@ function App() {
     <>
       <Navbar />
       <div className="container py-4">
-        <h2 className="text-center mb-4 text-white">
-          Questa è la lista dei miei film preferiti
+        <h2 className="welcometitle">
+         Benvenuto, qui troverai tutti film che ho meticolosamente selezionato e diversificato per genere secondo il mio gusto.
         </h2>
-
+{/* GENERI FILM */}
         {movies.map((genre) => (
           <div key={genre.name} className="mb-5">
             <h3 className="text-white mb-3">{genre.name}</h3>
