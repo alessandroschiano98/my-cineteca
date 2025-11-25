@@ -1,0 +1,37 @@
+.home-genres-list {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .genre-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .genre-list li {
+    margin: 12px 0;
+  }
+  
+  .genre-list a {
+    display: block;
+    padding: 14px 20px;
+    background: #1f1f1f;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    transition: 0.3s ease;
+    text-align: center;
+  }
+  
+  .genre-list a:hover {
+    background: #d63384;
+    transform: scale(1.05);
+  }
+
+  .scegligenere {
+    color: white;
+    margin-bottom: 4rem;
+    align-text: center;
+  }
+  

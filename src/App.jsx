@@ -1,40 +1,27 @@
 import React from "react";
-import Card from "./components/MovieCard";
+import { Routes, Route } from "react-router-dom";
+
 import Navbar from "./components/Navbar";
-import { movies } from "./data/MoviesList";
+
+import Home from "./pages/Home.jsx";
+import Genres from "./pages/Genres.jsx";
+import Movies from "./pages/Movies.jsx";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./style/Navbar.css";
 import "./style/MovieCard.css";
-
-
+import "./style/Home.css";
 
 function App() {
   return (
     <>
       <Navbar />
-      <div className="container py-4">
-        <h2 className="welcometitle">
-         Benvenuto, qui troverai tutti film che ho meticolosamente selezionato e diversificato per genere secondo il mio gusto.
-        </h2>
-{/* GENERI FILM */}
-        {movies.map((genre) => (
-          <div key={genre.name} className="mb-5">
-            <h3 className="text-white mb-3">{genre.name}</h3>
-            <div className="row">
-              {genre.movies.map((film) => (
-                <Card
-                  key={film.id}
-                  title={film.title}
-                  year={film.year}
-                  actors={film.actors}
-                  director={film.director}
-                  imgURL={film.poster}
-                />
-              ))}
-            </div>
-          </div>
-        ))}
-      </div>
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/genres/:genreName" element={<Genres />} />
+        <Route path="/movies" element={<Movies />} />
+      </Routes>
     </>
   );
 }
