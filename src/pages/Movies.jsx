@@ -3,7 +3,6 @@ import Card from "../components/MovieCard";
 import { movies } from "../data/MoviesList";
 import "../style/MovieCard.css";
 import "../style/Movies.css";
-import "../style/Custom.css";
 
 function Movies() {
   const [selectedGenre, setSelectedGenre] = useState("All");
@@ -39,6 +38,7 @@ function Movies() {
 
       <div className="row">
         {filteredMovies.map((film) => (
+          
           <Card
             key={film.id}
             title={film.title}
@@ -51,6 +51,8 @@ function Movies() {
       </div>
     </div>
   );
+
+  
 }
 
 export default Movies;
