@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="container py-5">
       <h2 className="scegligenere">
-        Scegli un genere per iniziare 
+        Scegli un genere per iniziare
       </h2>
 
       <ul className="genre-list">
@@ -16,7 +16,14 @@ function Home() {
           </li>
         ))}
       </ul>
+
+      <div class="scrollText">
+        <span class="scroll-text">
+          La lista dei film viene aggiornata periodicalmente ◕‿◕
+        </span>
+      </div>
     </div>
+
   );
 }
 

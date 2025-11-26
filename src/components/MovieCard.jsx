@@ -14,7 +14,7 @@ function Card({ title, year, actors, director, imgURL }) {
             <h6 className="fw-bold">♦ Attori principali:</h6>
             <ul className="list-unstyled mb-2">
               {actors.map((actor, index) => (
-                <li key={index}>◊ {actor}</li>
+                <li key={index}>{actor}</li>
               ))}
             </ul>
             <h6 className="fw-bold">♦ Regia:</h6>

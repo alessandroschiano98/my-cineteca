@@ -1,6 +1,7 @@
 .home-genres-list {
     max-width: 500px;
     margin: 0 auto;
+    
   }
   
   .genre-list {
@@ -32,6 +33,40 @@
   .scegligenere {
     color: white;
     margin-bottom: 4rem;
-    align-text: center;
+    text-align: center;
+    max-width: auto;       
+    overflow: hidden;       
+    background-color: black;
+    padding: 10px;
+    position: relative;
+
+  }
+  
+  
+  .scrollText {
+    color: #ffc107;
+    margin-bottom: 4rem;
+    text-align: center;
+    max-width: auto;       
+    overflow: hidden;        
+    background-color: black;
+    font-weight: 800;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .scroll-text {
+    display: inline-block;
+    white-space: nowrap;        
+    animation: scroll 10s linear infinite;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(100%);  /
+    }
+    100% {
+      transform: translateX(-100%); 
+    }
   }
   

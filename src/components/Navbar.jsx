@@ -8,7 +8,6 @@ function Navbar() {
         <Link className="navbar-brand fw-bold" to="/">
           My Cineteca
         </Link>
-
         <button
           className="navbar-toggler"
           type="button"
