@@ -24,7 +24,7 @@ function Home() {
       {/* TESTO SCORREVOLE */}
       <div className="scrollText fade-in delay-2">
         <span className="scroll-text">
-          La lista dei film viene aggiornata periodicalmente ◕‿◕
+          La lista dei film viene aggiornata periodicamente ◕‿◕
         </span>
       </div>
 
