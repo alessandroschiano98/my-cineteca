@@ -1,6 +1,7 @@
 import React from "react";
 import { movies } from "../data/MoviesGenre";
 import { Link } from "react-router-dom";
+import AboutSection from "../components/About";
 import "../style/Home.css";
 
 function Home() {
@@ -22,11 +23,14 @@ function Home() {
       </ul>
 
       {/* TESTO SCORREVOLE */}
-      <div className="scrollText fade-in delay-2">
+      <div className="scrollText fade-in delay">
         <span className="scroll-text">
           La lista dei film viene aggiornata periodicamente ◕‿◕
         </span>
       </div>
+
+      {/* COS' E? */}
+      <AboutSection />
 
     </div>
   );

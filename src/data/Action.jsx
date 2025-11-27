@@ -74,7 +74,7 @@ export const action = {
       director: "Ridley Scott"
     },
     {
-      title: "Casino Royale",
+      title: "007: Casino Royale",
       slug: "action-007-casino-royale-2006",
       year: 2006,
       poster: "https://static.posters.cz/image/1300/9049.jpg",
@@ -82,7 +82,7 @@ export const action = {
       director: "Martin Campbell"
     },
     {
-      title: "Quantum of Solace",
+      title: "007: Quantum of Solace",
       slug: "action-007-quantum-of-solace-2008",
       year: 2008,
       poster: "https://pad.mymovies.it/filmclub/2008/02/048/locandina.jpg",
@@ -90,7 +90,7 @@ export const action = {
       director: "Marc Forster"
     },
     {
-      title: "Skyfall",
+      title: "007: Skyfall",
       slug: "action-007-skyfall-2012",
       year: 2012,
       poster: "https://static.posters.cz/image/750/12750.jpg",
@@ -98,7 +98,7 @@ export const action = {
       director: "Sam Mendes"
     },
     {
-      title: "Spectre",
+      title: "007: Spectre",
       slug: "action-007-spectre-2015",
       year: 2015,
       poster: "https://pad.mymovies.it/filmclub/2014/12/046/locandina.jpg",
@@ -106,7 +106,7 @@ export const action = {
       director: "Sam Mendes"
     },
     {
-      title: "No Time to Die",
+      title: "007: No Time to Die",
       slug: "action-007-no-time-to-die-2021",
       year: 2021,
       poster: "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSE-tjkJyhpOprISGaOEU3HeYAUXPU0wkrTXoVdQJfQ9JcEizvpvXysKT8Bg0h0COvN_9aagRY32ANZb-o946JqrSxj7DjmOZRGkXWmxl35aFEvhb0",

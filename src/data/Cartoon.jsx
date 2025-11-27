@@ -5,7 +5,7 @@ export const cartoon = {
         title: "Shrek",
         slug: "cartoon-shrek-2001",
         year: 2001,
-        poster: "https://pad.mymovies.it/filmclub/2001/05/033/locandina.jpg",
+        poster: "https://pad.mymovies.it/filmclub/2001/05/033/locandinapg1.jpg",
         actors: ["Mike Myers", "Eddie Murphy", "Cameron Diaz"],
         director: "Andrew Adamson"
       },
