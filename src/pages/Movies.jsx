@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Card from "../components/MovieCard";
 import { movies } from "../data/MoviesList";
-import { fetchPoster } from "../api/fetchPoster";
+import { fetchPoster } from "../api/tmdb";
 import "../style/MovieCard.css";
 import "../style/Movies.css";
 

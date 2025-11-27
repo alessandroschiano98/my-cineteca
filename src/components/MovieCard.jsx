@@ -1,35 +1,13 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/MovieCard.css";
-import { fetchPoster } from "../api/tmdb";
 
 function Card({ title, year, actors, director, imgURL }) {
-  const [poster, setPoster] = useState(imgURL);
-
-  useEffect(() => {
-
-    const noPoster =
-      !imgURL ||
-      imgURL === "" ||
-      imgURL === " " ||
-      imgURL === null ||
-      imgURL === undefined;
-
-    if (noPoster) {
-      fetchPoster(title, year).then((found) => {
-        if (found) setPoster(found);
-      });
-    } else {
-      setPoster(imgURL);
-    }
-
-  }, [title, year, imgURL]);
-
   return (
     <div className="col-md-3 mb-4">
       <div className="card h-100 shadow-sm movie-card">
         <img
-          src={poster || "/placeholder.jpg"}
+          src={imgURL || "/placeholder.jpg"}
           className="card-img-top"
           alt={title}
         />

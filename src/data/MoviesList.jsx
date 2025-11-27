@@ -43,14 +43,6 @@ export const movies = [
         director: "Ridley Scott"
       },
       {
-        title: "Minority Report",
-        slug: "sci-fi-minority-report-2002",
-        year: 2002,
-        poster: null,
-        actors: ["Tom Cruise", "Colin Farrell", "Samantha Morton"],
-        director: "Steven Spielberg"
-      },
-      {
         title: "Avatar",
         slug: "sci-fi-avatar-2009",
         year: 2009,
@@ -136,46 +128,6 @@ export const movies = [
         actors: ["Denzel Washington", "Ethan Hawke", "Eva Mendes"],
         director: "Antoine Fuqua"
       },
-      {
-        title: "Transformers",
-        slug: "action-transformers-2007",
-        year: 2007,
-        poster: null,
-        actors: ["Shia LaBeouf", "Megan Fox", "Josh Duhamel"],
-        director: "Michael Bay"
-      },
-      {
-        title: "Transformers: Revenge of the Fallen",
-        slug: "action-transformers-2-2009",
-        year: 2009,
-        poster: null,
-        actors: ["Shia LaBeouf", "Megan Fox", "Tyrese Gibson"],
-        director: "Michael Bay"
-      },
-      {
-        title: "Transformers: Dark of the Moon",
-        slug: "action-transformers-3-2011",
-        year: 2011,
-        poster: null,
-        actors: ["Shia LaBeouf", "Rosie Huntington-Whiteley", "Tyrese Gibson"],
-        director: "Michael Bay"
-      },
-      {
-        title: "Transformers: Age of Extinction",
-        slug: "action-transformers-4-2014",
-        year: 2014,
-        poster: null,
-        actors: ["Mark Wahlberg", "Nicola Peltz", "Stanley Tucci"],
-        director: "Michael Bay"
-      },
-      {
-        title: "Transformers: The Last Knight",
-        slug: "action-transformers-5-2017",
-        year: 2017,
-        poster: null,
-        actors: ["Mark Wahlberg", "Laura Haddock", "Anthony Hopkins"],
-        director: "Michael Bay"
-      }
     ]
   },
 
@@ -238,7 +190,7 @@ export const movies = [
         title: "Edison",
         slug: "historical-edison-2005",
         year: 2005,
-        poster: "https://www.raiplay.it/dl/img/2023/06/12/1686565784309_1536x2048_logo.jpg",
+        poster: "",
         actors: ["Benedict Cumberbatch", "Michael Shannon", "Tom Holland"],
         director: "Alfonso Gomez-Rejon"
       }
@@ -252,7 +204,7 @@ export const movies = [
         title: "Boogie Nights - L'altra Hollywood",
         slug: "comedy-boogie-nights-1997",
         year: 1997,
-        poster: "https://m.media-amazon.com/images/S/pv-target-images/506c53eeab8d43cf6dd281386cfc04df29362d984ee70aff2c7988cea29591d1.jpg",
+        poster: "",
         actors: ["Mark Wahlberg", "Julianne Moore", "Burt Reynolds"],
         director: "Paul Thomas Anderson"
       },
@@ -310,6 +262,43 @@ export const movies = [
         actors: ["Emily Blunt", "Cillian Murphy", "Millicent Simmonds"],
         director: "John Krasinski"
       }
+    ]
+  },
+  {
+    name: "Cartoon",
+    movies:[
+      {
+        title: "Transformers",
+        slug: "action-transformers-2007",
+        year: 2007,
+        poster: null,
+        actors: ["Shia LaBeouf", "Megan Fox", "Josh Duhamel"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: Revenge of the Fallen",
+        slug: "action-transformers-2-2009",
+        year: 2009,
+        poster: null,
+        actors: ["Shia LaBeouf", "Megan Fox", "Tyrese Gibson"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: Dark of the Moon",
+        slug: "action-transformers-3-2011",
+        year: 2011,
+        poster: null,
+        actors: ["Shia LaBeouf", "Rosie Huntington-Whiteley", "Tyrese Gibson"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: Age of Extinction",
+        slug: "action-transformers-4-2014",
+        year: 2014,
+        poster: null,
+        actors: ["Mark Wahlberg", "Nicola Peltz", "Stanley Tucci"],
+        director: "Michael Bay"
+      },
     ]
   }
 ];
