@@ -29,7 +29,7 @@ export const sciFi = {
         title: "Ex Machina",
         slug: "sci-fi-ex-machina-2015",
         year: 2015,
-        poster: "https://preview.redd.it/a-decade-later-and-ex-machina-is-still-so-good-the-acting-v0-l6qghr3db2ye1.jpeg",
+        poster: "https://pad.mymovies.it/filmclub/2014/09/110/locandina.jpg",
         actors: ["Domhnall Gleeson", "Oscar Isaac", "Alicia Vikander"],
         director: "Alex Garland"
       },
