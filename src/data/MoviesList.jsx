@@ -41,6 +41,38 @@ export const movies = [
         poster: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10980706_p_v13_ar.jpg",
         actors: ["Matt Damon", "Jessica Chastain", "Chiwetel Ejiofor"],
         director: "Ridley Scott"
+      },
+      {
+        title: "Minority Report",
+        slug: "sci-fi-minority-report-2002",
+        year: 2002,
+        poster: null,
+        actors: ["Tom Cruise", "Colin Farrell", "Samantha Morton"],
+        director: "Steven Spielberg"
+      },
+      {
+        title: "Avatar",
+        slug: "sci-fi-avatar-2009",
+        year: 2009,
+        poster: null,
+        actors: ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+        director: "James Cameron"
+      },
+      {
+        title: "Avatar: The Way of Water",
+        slug: "sci-fi-avatar-2-2022",
+        year: 2022,
+        poster: null,
+        actors: ["Sam Worthington", "Zoe Saldana", "Kate Winslet"],
+        director: "James Cameron"
+      },
+      {
+        title: "Tenet",
+        slug: "sci-fi-tenet-2020",
+        year: 2020,
+        poster: null,
+        actors: ["John David Washington", "Robert Pattinson", "Elizabeth Debicki"],
+        director: "Christopher Nolan"
       }
     ]
   },
@@ -97,20 +129,52 @@ export const movies = [
         director: "Roland Emmerich"
       },
       {
-        title: "Niente di nuovo sul fronte occidentale",
-        slug: "action-niente-di-nuovo-sul-fronte-occidentale-2022",
-        year: 2022,
-        poster: "https://m.media-amazon.com/images/M/MV5BN2M5OGVjOGEtMGVkOC00YzNmLTkxMjgtNDM4ZjliZWMwOTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        actors: ["Felix Kammerer", "Albrecht Schuch", "Aaron Hilmer"],
-        director: "Edward Berger"
-      },
-      {
         title: "Training Day",
         slug: "action-training-day-2001",
         year: 2001,
         poster: "https://m.media-amazon.com/images/I/91EbJZH9JWL._AC_UF894,1000_QL80_.jpg",
         actors: ["Denzel Washington", "Ethan Hawke", "Eva Mendes"],
         director: "Antoine Fuqua"
+      },
+      {
+        title: "Transformers",
+        slug: "action-transformers-2007",
+        year: 2007,
+        poster: null,
+        actors: ["Shia LaBeouf", "Megan Fox", "Josh Duhamel"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: Revenge of the Fallen",
+        slug: "action-transformers-2-2009",
+        year: 2009,
+        poster: null,
+        actors: ["Shia LaBeouf", "Megan Fox", "Tyrese Gibson"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: Dark of the Moon",
+        slug: "action-transformers-3-2011",
+        year: 2011,
+        poster: null,
+        actors: ["Shia LaBeouf", "Rosie Huntington-Whiteley", "Tyrese Gibson"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: Age of Extinction",
+        slug: "action-transformers-4-2014",
+        year: 2014,
+        poster: null,
+        actors: ["Mark Wahlberg", "Nicola Peltz", "Stanley Tucci"],
+        director: "Michael Bay"
+      },
+      {
+        title: "Transformers: The Last Knight",
+        slug: "action-transformers-5-2017",
+        year: 2017,
+        poster: null,
+        actors: ["Mark Wahlberg", "Laura Haddock", "Anthony Hopkins"],
+        director: "Michael Bay"
       }
     ]
   },
@@ -138,23 +202,9 @@ export const movies = [
         title: "Le pagine della nostra vita",
         slug: "romance-le-pagine-della-nostra-vita-2005",
         year: 2005,
-        poster: "https://static.wixstatic.com/media/568758_f9013d8fc3dc49cd9c0f3b4568ac638a~mv2.jpg/v1/fill/w_556,h_836,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/568758_f9013d8fc3dc49cd9c0f3b4568ac638a~mv2.jpg",
+        poster: "https://static.wixstatic.com/media/568758_f9013d8fc3dc49cd9c0f3b4568ac638a~mv2.jpg",
         actors: ["Ryan Gosling", "Rachel McAdams", "Sam Shepard"],
         director: "Nick Cassavetes"
-      }
-    ]
-  },
-
-  {
-    name: "Adventure",
-    movies: [
-      {
-        title: "Harry Potter e la pietra filosofale",
-        slug: "adventure-harry-potter-e-la-pietra-filosofale-2001",
-        year: 2001,
-        poster: "https://static.posters.cz/image/1300/104639.jpg",
-        actors: ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"],
-        director: "Chris Columbus"
       }
     ]
   },
@@ -207,12 +257,58 @@ export const movies = [
         director: "Paul Thomas Anderson"
       },
       {
-        title: "Boogie Nights - L'altra Hollywood",
-        slug: "comedy-boogie-nights-1997",
-        year: 1997,
-        poster: "",
-        actors: ["Mark Wahlberg", "Julianne Moore", "Burt Reynolds"],
-        director: "Paul Thomas Anderson"
+        title: "Un weekend da bamboccioni",
+        slug: "comedy-un-weekend-da-bamboccioni-2010",
+        year: 2010,
+        poster: null,
+        actors: ["Adam Sandler", "Kevin James", "Chris Rock"],
+        director: "Dennis Dugan"
+      },
+      {
+        title: "Un weekend da bamboccioni 2",
+        slug: "comedy-un-weekend-da-bamboccioni-2-2013",
+        year: 2013,
+        poster: null,
+        actors: ["Adam Sandler", "Kevin James", "Chris Rock"],
+        director: "Dennis Dugan"
+      }
+    ]
+  },
+
+  {
+    name: "Horror",
+    movies: [
+      {
+        title: "The Nun",
+        slug: "horror-the-nun-2018",
+        year: 2018,
+        poster: null,
+        actors: ["Taissa Farmiga", "Demián Bichir", "Jonas Bloquet"],
+        director: "Corin Hardy"
+      },
+      {
+        title: "The Nun 2",
+        slug: "horror-the-nun-2-2023",
+        year: 2023,
+        poster: null,
+        actors: ["Taissa Farmiga", "Jonas Bloquet", "Storm Reid"],
+        director: "Michael Chaves"
+      },
+      {
+        title: "A Quiet Place",
+        slug: "horror-a-quiet-place-2018",
+        year: 2018,
+        poster: null,
+        actors: ["Emily Blunt", "John Krasinski", "Millicent Simmonds"],
+        director: "John Krasinski"
+      },
+      {
+        title: "A Quiet Place Part II",
+        slug: "horror-a-quiet-place-2-2020",
+        year: 2020,
+        poster: null,
+        actors: ["Emily Blunt", "Cillian Murphy", "Millicent Simmonds"],
+        director: "John Krasinski"
       }
     ]
   }

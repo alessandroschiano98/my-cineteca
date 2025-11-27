@@ -17,8 +17,8 @@ export async function fetchPoster(title, year) {
         ? `https://image.tmdb.org/t/p/w500${posterPath}`
         : null;
   
-    } catch (err) {
-      console.error("Errore caricamento poster:", err);
+    } catch (error) {
+      console.error("Errore caricamento poster:", error);
       return null;
     }
   }
