@@ -90,14 +90,6 @@ export const crime = {
       director: "Martin Scorsese"
     },
     {
-      title: "Nightcrawler",
-      slug: "crime-nightcrawler-2014",
-      year: 2014,
-      poster: "https://pad.mymovies.it/filmclub/2014/08/023/locandina.jpg",
-      actors: ["Jake Gyllenhaal", "Rene Russo", "Riz Ahmed"],
-      director: "Dan Gilroy"
-    },
-    {
       title: "The Gentlemen",
       slug: "crime-the-gentlemen-2019",
       year: 2019,
