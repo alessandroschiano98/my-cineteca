@@ -5,7 +5,7 @@ export const crime = {
       title: "Lonely Hearts",
       slug: "crime-lonely-hearts-2006",
       year: 2006,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2005/07/092/locandina.jpg",
       actors: ["John Travolta", "James Gandolfini", "Salma Hayek"],
       director: "Todd Robinson"
     },
@@ -13,7 +13,7 @@ export const crime = {
       title: "Deja Vu",
       slug: "crime-deja-vu-2006",
       year: 2006,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2006/10/132/locandina.jpg",
       actors: ["Denzel Washington", "Val Kilmer", "Jim Caviezel"],
       director: "Tony Scott"
     },
@@ -21,7 +21,7 @@ export const crime = {
       title: "Heat - La sfida",
       slug: "crime-heat-1995",
       year: 1995,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2006/09/203/locandina.jpg",
       actors: ["Robert De Niro", "Al Pacino", "Val Kilmer"],
       director: "Michael Mann"
     },
@@ -29,7 +29,7 @@ export const crime = {
       title: "Donnie Brasco",
       slug: "crime-donnie-brasco-1997",
       year: 1997,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2006/08/331/locandina.jpg",
       actors: ["Johnny Depp", "Al Pacino", "Michael Madsen"],
       director: "Mike Newell"
     },
@@ -37,7 +37,7 @@ export const crime = {
       title: "Pulp Fiction",
       slug: "crime-pulp-fiction-1994",
       year: 1994,
-      poster: null,
+      poster: "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
       actors: ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
       director: "Quentin Tarantino"
     },
@@ -45,7 +45,7 @@ export const crime = {
       title: "Casinò",
       slug: "crime-casino-1995",
       year: 1995,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2002/08/315/locandina.jpg",
       actors: ["Robert De Niro", "Sharon Stone", "Joe Pesci"],
       director: "Martin Scorsese"
     },
@@ -53,7 +53,7 @@ export const crime = {
       title: "Le Iene",
       slug: "crime-le-iene-1992",
       year: 1992,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2006/01/251/locandina.jpg",
       actors: ["Harvey Keitel", "Tim Roth", "Steve Buscemi"],
       director: "Quentin Tarantino"
     },
@@ -61,7 +61,7 @@ export const crime = {
       title: "Seven",
       slug: "crime-seven-1995",
       year: 1995,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2006/08/218/locandina.jpg",
       actors: ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow"],
       director: "David Fincher"
     },
@@ -69,7 +69,7 @@ export const crime = {
       title: "Gone Baby Gone",
       slug: "crime-gone-baby-gone-2007",
       year: 2007,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2007/07/116/locandina.jpg",
       actors: ["Casey Affleck", "Michelle Monaghan", "Ed Harris"],
       director: "Ben Affleck"
     },
@@ -77,7 +77,7 @@ export const crime = {
       title: "Pride and Glory",
       slug: "crime-pride-and-glory-2008",
       year: 2008,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2008/01/048/locandina.jpg",
       actors: ["Edward Norton", "Colin Farrell", "Jon Voight"],
       director: "Gavin O'Connor"
     },
@@ -85,7 +85,7 @@ export const crime = {
       title: "The Departed",
       slug: "crime-the-departed-2006",
       year: 2006,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2006/08/199/locandina.jpg",
       actors: ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
       director: "Martin Scorsese"
     },
@@ -93,7 +93,7 @@ export const crime = {
       title: "Nightcrawler",
       slug: "crime-nightcrawler-2014",
       year: 2014,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2014/08/023/locandina.jpg",
       actors: ["Jake Gyllenhaal", "Rene Russo", "Riz Ahmed"],
       director: "Dan Gilroy"
     },
@@ -101,7 +101,7 @@ export const crime = {
       title: "The Gentlemen",
       slug: "crime-the-gentlemen-2019",
       year: 2019,
-      poster: null,
+      poster: "https://pad.mymovies.it/filmclub/2019/07/031/locandina.jpg",
       actors: ["Matthew McConaughey", "Charlie Hunnam", "Colin Farrell"],
       director: "Guy Ritchie"
     }
