@@ -1,10 +1,26 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { movies } from "../data/MoviesGenre";
 import { Link } from "react-router-dom";
 import AboutSection from "../components/About";
 import "../style/Home.css";
 
 function Home() {
+
+  // 🔥 Controlla se deve scrollare al "Chi Siamo"
+  useEffect(() => {
+    const shouldScroll = localStorage.getItem("scrollToAbout");
+
+    if (shouldScroll === "yes") {
+      const target = document.getElementById("about");
+      if (target) {
+        setTimeout(() => {
+          target.scrollIntoView({ behavior: "smooth" });
+        }, 300); // tempo per far renderizzare la pagina
+      }
+      localStorage.removeItem("scrollToAbout");
+    }
+  }, []);
+
   return (
     <div className="container py-5">
 
@@ -31,7 +47,6 @@ function Home() {
 
       {/* COS' E? */}
       <AboutSection />
-
     </div>
   );
 }
