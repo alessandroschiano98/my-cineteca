@@ -23,7 +23,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark custom-navbar">
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
-          My Cineteca
+          MyCineteca
         </Link>
 
         <button
@@ -47,14 +47,18 @@ function Navbar() {
             </li>
 
             <li className="nav-item">
-              <button
+              <Link
+                to="#"
                 className="nav-link"
-                onClick={goToAbout}
-                style={{ background: "none", border: "none", cursor: "pointer" }}
+                onClick={(e) => {
+                  e.preventDefault();
+                  goToAbout();
+                }}
               >
                 Chi Siamo
-              </button>
+              </Link>
             </li>
+
 
           </ul>
         </div>
