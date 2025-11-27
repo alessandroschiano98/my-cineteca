@@ -1,5 +1,5 @@
 import React from "react";
-import { movies } from "../data/MoviesList";
+import { movies } from "../data/MoviesGenre";
 import { Link } from "react-router-dom";
 import "../style/Home.css";
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import { movies } from "../data/MoviesList";
+import { movies } from "../data/MoviesGenre";
 import Card from "../components/MovieCard";
 
 function Genres() {
