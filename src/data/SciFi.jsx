@@ -40,7 +40,16 @@ export const sciFi = {
         poster: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10980706_p_v13_ar.jpg",
         actors: ["Matt Damon", "Jessica Chastain", "Chiwetel Ejiofor"],
         director: "Ridley Scott"
+      },
+      {
+        title: "In Time",
+        slug: "sci-fi-in-time-2011",
+        year: 2011,
+        poster: "https://pad.mymovies.it/filmclub/2011/07/182/locandina.jpg",
+        actors: ["Justin Timberlake", "Amanda Seyfried", "Cillian Murphy"],
+        director: "Andrew Niccol"
       }
+      
     ]
   };
   

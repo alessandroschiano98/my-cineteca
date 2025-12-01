@@ -104,7 +104,123 @@ export const crime = {
       poster: "https://pad.mymovies.it/filmclub/2003/02/021/locandina.jpg",
       actors: ["Edward Norton", "Philip Seymour Hoffman", "Barry Pepper"],
       director: "Spike Lee"
+    },
+    {
+      title: "Prova a prendermi",
+      slug: "crime-prova-a-prendermi-2002",
+      year: 2002,
+      poster: "https://pad.mymovies.it/filmclub/2003/01/029/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken"],
+      director: "Steven Spielberg"
+    },
+    {
+      title: "Blood Diamond",
+      slug: "crime-blood-diamond-2006",
+      year: 2006,
+      poster: "https://pad.mymovies.it/filmclub/2006/10/129/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Djimon Hounsou", "Jennifer Connelly"],
+      director: "Edward Zwick"
+    },
+    {
+      title: "Killers of the Flower Moon",
+      slug: "drama-killers-of-the-flower-moon-2023",
+      year: 2023,
+      poster: "https://pad.mymovies.it/filmclub/2017/09/129/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Robert De Niro", "Lily Gladstone"],
+      director: "Martin Scorsese"
+    },
+    {
+      title: "Nessuna verità",
+      slug: "crime-nessuna-verita-2008",
+      year: 2008,
+      poster: "https://pad.mymovies.it/filmclub/2008/03/046/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Russell Crowe", "Mark Strong"],
+      director: "Ridley Scott"
+    },
+    {
+      title: "Il fuoco della vendetta",
+      slug: "action-il-fuoco-della-vendetta-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2012/04/043/locandina.jpg",
+      actors: ["Denzel Washington", "Dakota Fanning", "Christopher Walken"],
+      director: "Tony Scott"
+    },
+    {
+      title: "Ocean's Eleven",
+      slug: "crime-oceans-eleven-2001",
+      year: 2001,
+      poster: "https://pad.mymovies.it/filmclub/2001/12/008/locandina.jpg",
+      actors: ["George Clooney", "Brad Pitt", "Matt Damon"],
+      director: "Steven Soderbergh"
+    },
+    {
+      title: "Ocean's Twelve",
+      slug: "crime-oceans-twelve-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2004/12/006/locandinapg2.jpg",
+      actors: ["George Clooney", "Brad Pitt", "Matt Damon"],
+      director: "Steven Soderbergh"
+    },
+    {
+      title: "Ocean's Thirteen",
+      slug: "crime-oceans-thirteen-2007",
+      year: 2007,
+      poster: "https://pad.mymovies.it/filmclub/2007/01/022/locandina.jpg",
+      actors: ["George Clooney", "Brad Pitt", "Matt Damon"],
+      director: "Steven Soderbergh"
+    },
+    {
+      title: "Now You See Me - I maghi del crimine",
+      slug: "crime-now-you-see-me-2013",
+      year: 2013,
+      poster: "https://pad.mymovies.it/filmclub/2011/08/057/locandina.jpg",
+      actors: ["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson"],
+      director: "Louis Leterrier"
+    },
+    {
+      title: "Now You See Me 2",
+      slug: "crime-now-you-see-me-2-2016",
+      year: 2016,
+      poster: "https://pad.mymovies.it/filmclub/2015/01/172/locandina.jpg",
+      actors: ["Jesse Eisenberg", "Mark Ruffalo", "Daniel Radcliffe"],
+      director: "Jon M. Chu"
+    },
+    {
+      title: "Il collezionista di ossa",
+      slug: "crime-il-collezionista-di-ossa-1999",
+      year: 1999,
+      poster: "https://pad.mymovies.it/filmclub/2006/07/187/locandina.jpg",
+      actors: ["Denzel Washington", "Angelina Jolie", "Queen Latifah"],
+      director: "Phillip Noyce"
+    },
+    {
+      title: "Slevin - Patto criminale",
+      slug: "crime-slevin-2006",
+      year: 2006,
+      poster: "https://pad.mymovies.it/filmclub/2006/02/300/locandina.jpg",
+      actors: ["Josh Hartnett", "Bruce Willis", "Morgan Freeman"],
+      director: "Paul McGuigan"
+    },
+    {
+      title: "Nessuna verità",
+      slug: "crime-nessuna-verita-2008",
+      year: 2008,
+      poster: "https://pad.mymovies.it/filmclub/2008/03/046/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Russell Crowe", "Mark Strong"],
+      director: "Ridley Scott"
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
   ]
 };

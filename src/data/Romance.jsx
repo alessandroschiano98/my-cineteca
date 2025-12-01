@@ -25,6 +25,42 @@ export const romance = {
         actors: ["Ryan Gosling", "Rachel McAdams", "Sam Shepard"],
         director: "Nick Cassavetes"
       },
+      {
+        title: "Vi presento Joe Black",
+        slug: "romance-vi-presento-joe-black-1998",
+        year: 1998,
+        poster: "https://pad.mymovies.it/filmclub/2006/06/145/locandina.jpg",
+        actors: ["Brad Pitt", "Anthony Hopkins", "Claire Forlani"],
+        director: "Martin Brest"
+      },
+      {
+        title: "Romeo + Giulietta",
+        slug: "romance-romeo-e-giulietta-1996",
+        year: 1996,
+        poster: "https://pad.mymovies.it/filmclub/2003/01/018/locandina.jpg",
+        actors: ["Leonardo DiCaprio", "Claire Danes", "John Leguizamo"],
+        director: "Baz Luhrmann"
+      },
+      {
+        title: "Titanic",
+        slug: "romance-titanic-1997",
+        year: 1997,
+        poster: "https://pad.mymovies.it/filmclub/2004/06/506/locandinapg9.jpg",
+        actors: ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+        director: "James Cameron"
+      },
+      {
+        title: "L'uomo bicentenario",
+        slug: "romance-l-uomo-bicentenario-1999",
+        year: 1999,
+        poster: "https://pad.mymovies.it/filmclub/2007/01/002/locandina.jpg",
+        actors: ["Robin Williams", "Embeth Davidtz", "Sam Neill"],
+        director: "Chris Columbus"
+      }
+      
+      
+      
+      
 
       
     ]

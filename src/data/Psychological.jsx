@@ -50,14 +50,6 @@ export const psychological = {
         director: "Darren Aronofsky"
       },
       {
-        title: "Joker",
-        slug: "psychological-joker-2019",
-        year: 2019,
-        poster: "https://pad.mymovies.it/filmclub/2018/06/066/locandina.jpg",
-        actors: ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
-        director: "Todd Phillips"
-      },
-      {
         title: "Donnie Darko",
         slug: "psychological-donnie-darko-2001",
         year: 2001,

@@ -33,6 +33,18 @@ export const historical = {
         actors: ["Tom Cruise", "Kenneth Branagh", "Bill Nighy"],
         director: "Bryan Singer"
       },
+      {
+        title: "The Imitation Game",
+        slug: "historical-the-imitation-game-2014",
+        year: 2014,
+        poster: "https://pad.mymovies.it/filmclub/2013/12/226/locandina.jpg",
+        actors: ["Benedict Cumberbatch", "Keira Knightley", "Matthew Goode"],
+        director: "Morten Tyldum"
+      },
+      
+      
+  
+      
       
 
       

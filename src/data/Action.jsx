@@ -29,7 +29,7 @@ export const action = {
       title: "Mad Max: Fury Road",
       slug: "action-mad-max-fury-road-2015",
       year: 2015,
-      poster: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ5HPoRsGhOMg7jsJ8qLHggvW2KCKLOWvwUp7BjFXx02LyLHtfOAsiRfSvrwomXdHonJ6pgJw2vmEMzCDmaUzAKYnm0dQR8L3-EleAdDwLp_GX8J2M",
+      poster: "https://pad.mymovies.it/filmclub/2009/10/236/locandina.jpg",
       actors: ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
       director: "George Miller"
     },
@@ -37,7 +37,7 @@ export const action = {
       title: "Braveheart",
       slug: "action-braveheart-1995",
       year: 1995,
-      poster: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSIyDJoT55X-WaESzL-XBpiHuGaxOEiH_D3RNqGCMoQcE-M1Y35KZQpF2cZqMfV2PflIvGtzvDg_dBGEA9rk1ep5q5APsAzJWLAduUPc6ctvl2GsJM",
+      poster: "https://pad.mymovies.it/filmclub/2002/08/278/locandinapg1.jpg",
       actors: ["Mel Gibson", "Sophie Marceau", "Patrick McGoohan"],
       director: "Mel Gibson"
     },
@@ -53,7 +53,7 @@ export const action = {
       title: "Training Day",
       slug: "action-training-day-2001",
       year: 2001,
-      poster: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSFI8Ov5jZUzhFk46Y-g_0V3bD67h1PoFJ7SztG-R9v-NeKYB3aav0psONF08b0P9z_Vb3twPGJuL7cZwoqvjMXPzj4nrL-SvOmoarXPoGb6IucmGE",
+      poster: "https://pad.mymovies.it/filmclub/2001/08/031/locandina.jpg",
       actors: ["Denzel Washington", "Ethan Hawke", "Eva Mendes"],
       director: "Antoine Fuqua"
     },
@@ -66,7 +66,7 @@ export const action = {
       director: "Chad Stahelski"
     },
     {
-      title: "Gladiator",
+      title: "Il Gladiatore",
       slug: "action-gladiator-2000",
       year: 2000,
       poster:"https://m.media-amazon.com/images/I/71KPWUDqRnL.jpg",
@@ -109,7 +109,7 @@ export const action = {
       title: "007: No Time to Die",
       slug: "action-007-no-time-to-die-2021",
       year: 2021,
-      poster: "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSE-tjkJyhpOprISGaOEU3HeYAUXPU0wkrTXoVdQJfQ9JcEizvpvXysKT8Bg0h0COvN_9aagRY32ANZb-o946JqrSxj7DjmOZRGkXWmxl35aFEvhb0",
+      poster: "https://pad.mymovies.it/filmclub/2017/05/002/locandina.jpg",
       actors: ["Daniel Craig", "Léa Seydoux", "Rami Malek"],
       director: "Cary Joji Fukunaga"
     },
@@ -117,7 +117,7 @@ export const action = {
       title: "Top Gun: Maverick",
       slug: "action-top-gun-maverick-2022",
       year: 2022,
-      poster: "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRNM57apERFTUx0T7-8yLTXsdxzZ39VXVDHRTjrzpMnu1HyiVl_rJ_J8G94pljorihbT4kOi7YefmSUfa_87BNrMxo35t1p0hCOHI-1jyEuyx3KIZc",
+      poster: "https://pad.mymovies.it/filmclub/2012/03/009/locandinapg1.jpg",
       actors: ["Tom Cruise", "Miles Teller", "Jennifer Connelly"],
       director: "Joseph Kosinski"
     },
@@ -152,7 +152,60 @@ export const action = {
       poster: "https://pad.mymovies.it/filmclub/2009/05/156/locandina.jpg",
       actors: ["Denzel Washington", "Mila Kunis", "Gary Oldman"],
       director: "Albert Hughes, Allen Hughes"
+    },
+    {
+      title: "Django Unchained",
+      slug: "action-django-unchained-2012",
+      year: 2012,
+      poster: "https://pad.mymovies.it/filmclub/2011/05/035/locandina.jpg",
+      actors: ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+      director: "Quentin Tarantino"
+    },
+    {
+      title: "Revenant - Redivivo",
+      slug: "action-revenant-2015",
+      year: 2015,
+      poster: "https://pad.mymovies.it/filmclub/2011/11/053/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
+      director: "Alejandro G. Iñárritu"
+    },
+    {
+      title: "Robin Hood",
+      slug: "action-robin-hood-2010",
+      year: 2010,
+      poster: "https://pad.mymovies.it/filmclub/2009/03/103/locandina.jpg",
+      actors: ["Russell Crowe", "Cate Blanchett", "Mark Strong"],
+      director: "Ridley Scott"
+    },
+    {
+      title: "Il Gladiatore II",
+      slug: "action-il-gladiatore-2-2024",
+      year: 2024,
+      poster: "https://pad.mymovies.it/filmclub/2023/02/096/locandinapg1.jpg",
+      actors: ["Paul Mescal", "Pedro Pascal", "Denzel Washington"],
+      director: "Ridley Scott"
+    },
+    {
+      title: "The Town",
+      slug: "action-the-town-2010",
+      year: 2010,
+      poster: "https://pad.mymovies.it/filmclub/2009/12/025/locandina.jpg",
+      actors: ["Ben Affleck", "Jeremy Renner", "Rebecca Hall"],
+      director: "Ben Affleck"
+    },
+    {
+      title: "Gangs of New York",
+      slug: "action-gangs-of-new-york-2002",
+      year: 2002,
+      poster: "https://pad.mymovies.it/filmclub/2003/01/014/locandina.jpg",
+      actors: ["Leonardo DiCaprio", "Daniel Day-Lewis", "Cameron Diaz"],
+      director: "Martin Scorsese"
     }
+    
+    
+    
+    
+    
     
     
     
