@@ -18,7 +18,7 @@ function Genres() {
       <div className="row">
         {genre.movies.map((film) => (
           <Card
-            key={film.id}
+            key={`${film.title}-${film.year}`}
             title={film.title}
             year={film.year}
             actors={film.actors}
