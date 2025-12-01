@@ -30,7 +30,7 @@ function Home() {
       </h2>
 
       {/* LISTA GENERI */}
-      <ul className="genre-list fade-in delay-1">
+      <ul className="genre-list grid-genres fade-in delay-1">
         {movies.map((genre) => (
           <li key={genre.name}>
             <Link to={`/genres/${genre.name.toLowerCase()}`}>{genre.name}</Link>

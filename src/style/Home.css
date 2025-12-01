@@ -1,5 +1,22 @@
+/* GRID PER GENERI */
+.grid-genres {
+  display: grid;
+  grid-template-columns: 1fr; /* ! MOBILE: 1 colonna */
+}
 
+/* ! TABLET → 2 colonne */
+@media (min-width: 576px) {
+  .grid-genres {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 
+/* ! DESKTOP → 3 colonne */
+@media (min-width: 992px) {
+  .grid-genres {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
 
 
 
@@ -20,7 +37,7 @@
   }
   
   .genre-list a {
-    display: block;
+    display: grid;
     padding: 14px 20px;
     background: #1f1f1f;
     color: white;
