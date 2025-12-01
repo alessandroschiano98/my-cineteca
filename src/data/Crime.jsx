@@ -201,14 +201,6 @@ export const crime = {
       actors: ["Josh Hartnett", "Bruce Willis", "Morgan Freeman"],
       director: "Paul McGuigan"
     },
-    {
-      title: "Nessuna verità",
-      slug: "crime-nessuna-verita-2008",
-      year: 2008,
-      poster: "https://pad.mymovies.it/filmclub/2008/03/046/locandina.jpg",
-      actors: ["Leonardo DiCaprio", "Russell Crowe", "Mark Strong"],
-      director: "Ridley Scott"
-    }
     
     
     
