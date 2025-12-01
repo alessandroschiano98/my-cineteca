@@ -24,10 +24,12 @@ function Navbar() {
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
           <img
-            class="logo-eye"
+            className="logo-eye"
             src="https://i.postimg.cc/R0kMFh5z/Logo-dell-occhio-con-raggio-di-luce.png"
             alt="Logo"
+            onClick={() => navigate("/")}
           />
+
 
         </Link>
 

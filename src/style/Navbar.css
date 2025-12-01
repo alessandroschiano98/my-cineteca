@@ -1,16 +1,16 @@
 .logo-eye {
   width: 60px;          
   height: auto;
-  filter: invert(74%) sepia(96%) saturate(746%) hue-rotate(358deg) brightness(104%) contrast(105%);
+  filter: invert(75%) sepia(91%) saturate(2479%) hue-rotate(1deg) brightness(103%) contrast(105%);
+
   cursor: pointer;      
   transition: transform .2s ease;
 }
 
 .logo-eye:hover {
+  filter: invert(100%) brightness(200%);
   transform: scale(1.1);
 }
-
-
 
 .custom-navbar {
     background-color: #141414;
