@@ -23,7 +23,12 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark custom-navbar">
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
-          MyCineteca
+          <img
+            class="logo-eye"
+            src="https://i.postimg.cc/R0kMFh5z/Logo-dell-occhio-con-raggio-di-luce.png"
+            alt="Logo"
+          />
+
         </Link>
 
         <button

@@ -8,6 +8,7 @@
 @media (min-width: 576px) {
   .grid-genres {
     grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
   }
 }
 
@@ -15,7 +16,9 @@
 @media (min-width: 992px) {
   .grid-genres {
     grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
   }
+
 }
 
 
