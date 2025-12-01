@@ -24,7 +24,16 @@ export const romance = {
         poster: "https://static.wixstatic.com/media/568758_f9013d8fc3dc49cd9c0f3b4568ac638a~mv2.jpg",
         actors: ["Ryan Gosling", "Rachel McAdams", "Sam Shepard"],
         director: "Nick Cassavetes"
+      },
+      {
+        title: "Frankenstein",
+        slug: "romance-frankenstein-2025",
+        year: 2025,
+        poster: "https://pad.mymovies.it/filmclub/2025/06/001/locandinapg2.jpg",
+        actors: ["Jacob Elordi", "Mia Goth", "Oscar Isaac"],
+        director: "Guillermo del Toro"
       }
+      
     ]
   };
   

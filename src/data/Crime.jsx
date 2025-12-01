@@ -96,6 +96,15 @@ export const crime = {
       poster: "https://pad.mymovies.it/filmclub/2019/07/031/locandina.jpg",
       actors: ["Matthew McConaughey", "Charlie Hunnam", "Colin Farrell"],
       director: "Guy Ritchie"
+    },
+    {
+      title: "La 25ª ora",
+      slug: "crime-la-25a-ora-2002",
+      year: 2002,
+      poster: "https://pad.mymovies.it/filmclub/2003/02/021/locandina.jpg",
+      actors: ["Edward Norton", "Philip Seymour Hoffman", "Barry Pepper"],
+      director: "Spike Lee"
     }
+    
   ]
 };

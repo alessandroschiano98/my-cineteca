@@ -137,5 +137,24 @@ export const action = {
       actors: ["Denzel Washington", "Pedro Pascal", "Ashton Sanders"],
       director: "Antoine Fuqua"
     },
+    {
+      title: "Safe House - Nessuno è al sicuro",
+      slug: "action-safe-house-2012",
+      year: 2012,
+      poster: "https://pad.mymovies.it/filmclub/2011/02/037/locandina.jpg",
+      actors: ["Denzel Washington", "Ryan Reynolds", "Vera Farmiga"],
+      director: "Daniel Espinosa"
+    },
+    {
+      title: "Codice Genesi",
+      slug: "action-codice-genesi-2010",
+      year: 2010,
+      poster: "https://pad.mymovies.it/filmclub/2009/05/156/locandina.jpg",
+      actors: ["Denzel Washington", "Mila Kunis", "Gary Oldman"],
+      director: "Albert Hughes, Allen Hughes"
+    }
+    
+    
+    
   ]
 };
