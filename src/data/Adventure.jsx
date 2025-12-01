@@ -67,7 +67,7 @@ export const adventure = {
         },
         {
             title: "Pirati dei Caraibi - La maledizione della prima luna",
-            slug: "action-pirati-dei-caraibi-2003",
+            slug: "adventure-pirati-dei-caraibi-2003",
             year: 2003,
             poster: "https://pad.mymovies.it/filmclub/2003/09/001/locandina.jpg",
             actors: ["Johnny Depp", "Geoffrey Rush", "Orlando Bloom"],
@@ -75,7 +75,7 @@ export const adventure = {
           },
           {
             title: "Pirati dei Caraibi - La maledizione del forziere fantasma",
-            slug: "action-pirati-dei-caraibi-2-2006",
+            slug: "adventure-pirati-dei-caraibi-2-2006",
             year: 2006,
             poster: "https://pad.mymovies.it/filmclub/2006/01/052/locandina.jpg",
             actors: ["Johnny Depp", "Orlando Bloom", "Keira Knightley"],
@@ -83,7 +83,7 @@ export const adventure = {
           },
           {
             title: "Pirati dei Caraibi - Ai confini del mondo",
-            slug: "action-pirati-dei-caraibi-3-2007",
+            slug: "adventure-pirati-dei-caraibi-3-2007",
             year: 2007,
             poster: "https://pad.mymovies.it/filmclub/2007/01/018/locandina.jpg",
             actors: ["Johnny Depp", "Orlando Bloom", "Keira Knightley"],
@@ -91,7 +91,7 @@ export const adventure = {
           },
           {
             title: "Pirati dei Caraibi - Oltre i confini del mare",
-            slug: "action-pirati-dei-caraibi-4-2011",
+            slug: "adventure-pirati-dei-caraibi-4-2011",
             year: 2011,
             poster: "https://m.media-amazon.com/images/I/91Cv++WF7zS._AC_UF894,1000_QL80_.jpg",
             actors: ["Johnny Depp", "Penélope Cruz", "Geoffrey Rush"],
@@ -99,7 +99,7 @@ export const adventure = {
           },
           {
             title: "Pirati dei Caraibi - La vendetta di Salazar",
-            slug: "action-pirati-dei-caraibi-5-2017",
+            slug: "adventure-pirati-dei-caraibi-5-2017",
             year: 2017,
             poster: "https://pad.mymovies.it/filmclub/2014/12/132/locandinapg3.jpg",
             actors: ["Johnny Depp", "Javier Bardem", "Orlando Bloom"],
@@ -128,6 +128,15 @@ export const adventure = {
             poster: "https://pad.mymovies.it/filmclub/2005/11/032/locandinapg2.jpg",
             actors: ["Michael J. Fox", "Christopher Lloyd", "Mary Steenburgen"],
             director: "Robert Zemeckis"
-        }
+        },
+        {
+            title: "Il labirinto del fauno",
+            slug: "adventure-il-labirinto-del-fauno-2006",
+            year: 2006,
+            poster: "https://pad.mymovies.it/filmclub/2006/05/316/locandina.jpg",
+            actors: ["Ivana Baquero", "Sergi López", "Maribel Verdú"],
+            director: "Guillermo del Toro"
+          }
+          
     ]
 };
