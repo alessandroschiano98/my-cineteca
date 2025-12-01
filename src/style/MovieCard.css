@@ -16,18 +16,56 @@
     object-fit: cover; 
   }
 
-  @media (max-width: 576px) {
-    .card-img-top {
-      height: auto;         
-      object-fit: contain;  
-    }
-  }
   
   .card-title {
     font-weight: 700;
     color: #222;
     
   }
+
+  /* ! --- MOBILE SMALL (max 576px) --- */
+@media (max-width: 576px) {
+
+  /
+  .movie-card {
+    transform: none !important;
+    box-shadow: none;
+    border-radius: 10px;
+  }
+
+
+  .card-img-top {
+    height: 200px !important;
+    object-fit: cover;
+  }
+
+
+  .card-body {
+    padding: 10px !important;
+  }
+
+
+  .card-title {
+    font-size: 1rem;
+  }
+
+
+  .card-body p {
+    font-size: 0.85rem;
+  }
+
+
+  .card-body ul li {
+    font-size: 0.8rem;
+  }
+
+
+  .col-md-3 {
+    width: 50% !important;
+    padding: 5px;
+  }
+}
+
 
   
   
