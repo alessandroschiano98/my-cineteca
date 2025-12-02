@@ -5,18 +5,24 @@ import Card from "../components/MovieCard";
 
 function Genres() {
   const { genreName } = useParams();
+
   const genre = movies.find(
     (g) => g.name.toLowerCase() === genreName.toLowerCase()
   );
 
   if (!genre) return <h2 className="text-white p-4">Genere non trovato</h2>;
 
+  //! ORDINAMENTO ALFABETICO
+  const sortedMovies = [...genre.movies].sort((a, b) =>
+    a.title.localeCompare(b.title)
+  );
+
   return (
     <div className="container py-4">
       <h2 className="text-white mb-4">{genre.name}</h2>
 
       <div className="row">
-        {genre.movies.map((film) => (
+        {sortedMovies.map((film) => (
           <Card
             key={`${film.title}-${film.year}`}
             title={film.title}

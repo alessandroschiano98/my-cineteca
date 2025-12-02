@@ -154,14 +154,6 @@ export const drama = {
             director: "Tom Shadyac"
         },
         {
-            title: "Léon",
-            slug: "drama-leon-1994",
-            year: 1994,
-            poster: "https://pad.mymovies.it/filmclub/2008/06/082/locandina.jpg",
-            actors: ["Jean Reno", "Natalie Portman", "Gary Oldman"],
-            director: "Luc Besson"
-        },
-        {
             title: "Million Dollar Baby",
             slug: "drama-million-dollar-baby-2004",
             year: 2004,
