@@ -36,16 +36,18 @@ function Movies() {
 
       {/* LISTA FILM */}
       <div className="row">
-        {filteredMovies.map((film) => (
-          <Card
-            key={`${film.title}-${film.year}`}
-            title={film.title}
-            year={film.year}
-            actors={film.actors}
-            director={film.director}
-            imgURL={film.poster}
-          />
-        ))}
+        {[...filteredMovies]
+          .sort((a, b) => a.title.localeCompare(b.title))
+          .map((film) => (
+            <Card
+              key={`${film.title}-${film.year}`}
+              title={film.title}
+              year={film.year}
+              actors={film.actors}
+              director={film.director}
+              imgURL={film.poster}
+            />
+          ))}
       </div>
     </div>
   );

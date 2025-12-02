@@ -2,6 +2,7 @@ import { sciFi } from "./SciFi";
 import { action } from "./Action";
 import { romance } from "./Romance";
 import { crime } from "./Crime";
+import { sport } from "./Sport";
 import { historical } from "./Historical";
 import { drama } from "./Drama";
 import { adventure } from "./Adventure";
@@ -15,6 +16,7 @@ export const movies = [
     action,
     romance,
     crime,
+    sport,
     historical,
     drama,
     adventure,

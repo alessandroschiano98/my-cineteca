@@ -48,7 +48,23 @@ export const sciFi = {
         poster: "https://pad.mymovies.it/filmclub/2011/07/182/locandina.jpg",
         actors: ["Justin Timberlake", "Amanda Seyfried", "Cillian Murphy"],
         director: "Andrew Niccol"
-      }
+      },
+      {
+        title: "Arrival",
+        slug: "sci-fi-arrival-2016",
+        year: 2016,
+        poster: "https://pad.mymovies.it/filmclub/2015/06/128/locandina.jpg",
+        actors: ["Amy Adams", "Jeremy Renner", "Forest Whitaker"],
+        director: "Denis Villeneuve"
+      },
+      {
+        title: "Cloverfield",
+        slug: "sci-fi-cloverfield-2008",
+        year: 2008,
+        poster: "https://pad.mymovies.it/filmclub/2007/08/100/locandina.jpg",
+        actors: ["Lizzy Caplan", "Michael Stahl-David", "Jessica Lucas"],
+        director: "Matt Reeves"
+      },
       
     ]
   };

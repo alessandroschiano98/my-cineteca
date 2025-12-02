@@ -56,7 +56,15 @@ export const romance = {
         poster: "https://pad.mymovies.it/filmclub/2007/01/002/locandina.jpg",
         actors: ["Robin Williams", "Embeth Davidtz", "Sam Neill"],
         director: "Chris Columbus"
-      }
+      },
+      {
+        title: "Vento di Passioni",
+        slug: "romance-vento-di-passioni-1994",
+        year: 1994,
+        poster: "https://pad.mymovies.it/filmclub/2006/12/120/locandina.jpg",
+        actors: ["Brad Pitt", "Anthony Hopkins", "Aidan Quinn"],
+        director: "Edward Zwick"
+    },
       
       
       

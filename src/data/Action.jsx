@@ -45,7 +45,7 @@ export const action = {
       title: "Il Patriota",
       slug: "action-il-patriota-2000",
       year: 2000,
-      poster:"https://pad.mymovies.it/filmclub/2001/03/020/locandinapg1.jpg",
+      poster: "https://pad.mymovies.it/filmclub/2001/03/020/locandinapg1.jpg",
       actors: ["Mel Gibson", "Heath Ledger", "Jason Isaacs"],
       director: "Roland Emmerich"
     },
@@ -69,7 +69,7 @@ export const action = {
       title: "Il Gladiatore",
       slug: "action-gladiator-2000",
       year: 2000,
-      poster:"https://m.media-amazon.com/images/I/71KPWUDqRnL.jpg",
+      poster: "https://m.media-amazon.com/images/I/71KPWUDqRnL.jpg",
       actors: ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
       director: "Ridley Scott"
     },
@@ -200,14 +200,47 @@ export const action = {
       poster: "https://pad.mymovies.it/filmclub/2003/01/014/locandina.jpg",
       actors: ["Leonardo DiCaprio", "Daniel Day-Lewis", "Cameron Diaz"],
       director: "Martin Scorsese"
-    }
-    
-    
-    
-    
-    
-    
-    
-    
+    },
+    {
+      title: "Kill Bill: Volume 1",
+      slug: "action-kill-bill-1-2003",
+      year: 2003,
+      poster: "https://pad.mymovies.it/filmclub/2003/10/051/locandina.jpg",
+      actors: ["Uma Thurman", "Lucy Liu", "Vivica A. Fox"],
+      director: "Quentin Tarantino"
+    },
+    {
+      title: "Kill Bill: Volume 2",
+      slug: "action-kill-bill-2-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2004/04/022/locandina.jpg",
+      actors: ["Uma Thurman", "David Carradine", "Michael Madsen"],
+      director: "Quentin Tarantino"
+    },
+    {
+      title: "The Covenant",
+      slug: "action-the-covenant-2023",
+      year: 2023,
+      poster: "https://pad.mymovies.it/filmclub/2023/02/046/locandina.jpg",
+      actors: ["Jake Gyllenhaal", "Dar Salim", "Sean Sagar"],
+      director: "Guy Ritchie"
+    },
+    {
+      title: "Rounders",
+      slug: "action-rounders-1998",
+      year: 1998,
+      poster: "https://pad.mymovies.it/filmclub/2007/22/184/locandina.jpg",
+      actors: ["Matt Damon", "Edward Norton", "John Malkovich"],
+      director: "John Dahl"
+    },
+
+
+
+
+
+
+
+
+
   ]
 };

@@ -201,7 +201,79 @@ export const crime = {
       actors: ["Josh Hartnett", "Bruce Willis", "Morgan Freeman"],
       director: "Paul McGuigan"
     },
-    
+    {
+      title: "American Gangster",
+      slug: "crime-american-gangster-2007",
+      year: 2007,
+      poster: "https://pad.mymovies.it/filmclub/2007/06/049/locandina.jpg",
+      actors: ["Denzel Washington", "Russell Crowe", "Chiwetel Ejiofor"],
+      director: "Ridley Scott"
+    },
+    {
+      title: "Il Padrino",
+      slug: "crime-il-padrino-1972",
+      year: 1972,
+      poster: "https://pad.mymovies.it/filmclub/2002/08/056/locandina.jpg",
+      actors: ["Marlon Brando", "Al Pacino", "James Caan"],
+      director: "Francis Ford Coppola"
+    },
+    {
+      title: "Il Padrino - Parte II",
+      slug: "crime-il-padrino-2-1974",
+      year: 1974,
+      poster: "https://pad.mymovies.it/filmclub/2006/08/048/locandinapg3.jpg",
+      actors: ["Al Pacino", "Robert De Niro", "Diane Keaton"],
+      director: "Francis Ford Coppola"
+    },
+    {
+      title: "C'era una volta in America",
+      slug: "crime-cera-una-volta-in-america-1984",
+      year: 1984,
+      poster: "https://pad.mymovies.it/filmclub/2006/06/256/locandinapg1.jpg",
+      actors: ["Robert De Niro", "James Woods", "Elizabeth McGovern"],
+      director: "Sergio Leone"
+    },
+    {
+      title: "Jackie Brown",
+      slug: "crime-jackie-brown-1997",
+      year: 1997,
+      poster: "https://pad.mymovies.it/filmclub/2006/06/023/locandina.jpg",
+      actors: ["Pam Grier", "Samuel L. Jackson", "Robert De Niro"],
+      director: "Quentin Tarantino"
+    },
+    {
+      title: "I Fratelli Sisters",
+      slug: "crime-i-fratelli-sisters-2018",
+      year: 2018,
+      poster: "https://pad.mymovies.it/filmclub/2017/02/090/locandina.jpg",
+      actors: ["Joaquin Phoenix", "John C. Reilly", "Jake Gyllenhaal"],
+      director: "Jacques Audiard"
+    },
+    {
+      title: "Out of Sight",
+      slug: "crime-out-of-sight-1998",
+      year: 1998,
+      poster: "https://pad.mymovies.it/filmclub/2006/06/021/locandina.jpg",
+      actors: ["George Clooney", "Jennifer Lopez", "Ving Rhames"],
+      director: "Steven Soderbergh"
+    },
+    {
+      title: "Taxi Driver",
+      slug: "crime-taxi-driver-1976",
+      year: 1976,
+      poster: "https://pad.mymovies.it/filmclub/2004/51/032/locandinapg1.jpg",
+      actors: ["Robert De Niro", "Jodie Foster", "Harvey Keitel"],
+      director: "Martin Scorsese"
+    },
+    {
+      title: "Scarface",
+      slug: "crime-scarface-1983",
+      year: 1983,
+      poster: "https://pad.mymovies.it/filmclub/2006/02/135/locandinapg1.jpg",
+      actors: ["Al Pacino", "Michelle Pfeiffer", "Steven Bauer"],
+      director: "Brian De Palma"
+    },
+
     
     
     

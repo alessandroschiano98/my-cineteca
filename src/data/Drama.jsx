@@ -154,6 +154,14 @@ export const drama = {
             director: "Tom Shadyac"
         },
         {
+            title: "Léon",
+            slug: "drama-leon-1994",
+            year: 1994,
+            poster: "https://pad.mymovies.it/filmclub/2008/06/082/locandina.jpg",
+            actors: ["Jean Reno", "Natalie Portman", "Gary Oldman"],
+            director: "Luc Besson"
+        },
+        {
             title: "Million Dollar Baby",
             slug: "drama-million-dollar-baby-2004",
             year: 2004,
@@ -168,6 +176,14 @@ export const drama = {
             poster: "https://pad.mymovies.it/filmclub/2009/04/165/locandina.jpg",
             actors: ["Mark Wahlberg", "Christian Bale", "Amy Adams"],
             director: "David O. Russell"
+        },
+        {
+            title: "Brothers",
+            slug: "drama-brothers-2009",
+            year: 2009,
+            poster: "https://pad.mymovies.it/filmclub/2009/07/081/locandina.jpg",
+            actors: ["Tobey Maguire", "Jake Gyllenhaal", "Natalie Portman"],
+            director: "Jim Sheridan"
         },
         {
             title: "Warrior",
@@ -186,14 +202,93 @@ export const drama = {
             director: "Rob Reiner"
         },
         {
-            title: "Out of the Furnace",
-            slug: "drama-out-of-the-furnace-2013",
+            title: "Emancipation",
+            slug: "drama-emancipation-2022",
+            year: 2022,
+            poster: "https://pad.mymovies.it/filmclub/2022/10/010/locandina.jpg",
+            actors: ["Will Smith", "Ben Foster", "Charmaine Bingwa"],
+            director: "Antoine Fuqua"
+        },
+        {
+            title: "Forrest Gump",
+            slug: "drama-forrest-gump-1994",
+            year: 1994,
+            poster: "https://pad.mymovies.it/filmclub/2006/08/130/locandina.jpg",
+            actors: ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+            director: "Robert Zemeckis"
+        },
+        {
+            title: "The Great Gatsby",
+            slug: "drama-the-great-gatsby-2013",
             year: 2013,
-            poster: "https://pad.mymovies.it/filmclub/2012/04/043/locandina.jpg",
-            actors: ["Christian Bale", "Casey Affleck", "Woody Harrelson"],
-            director: "Scott Cooper"
-        }
-
+            poster: "https://pad.mymovies.it/filmclub/2010/11/083/locandina.jpg",
+            actors: ["Leonardo DiCaprio", "Tobey Maguire", "Carey Mulligan"],
+            director: "Baz Luhrmann"
+        },
+        {
+            title: "L'Avvocato del Diavolo",
+            slug: "drama-lavvocato-del-diavolo-1997",
+            year: 1997,
+            poster: "https://pad.mymovies.it/filmclub/2002/08/227/locandina.jpg",
+            actors: ["Keanu Reeves", "Al Pacino", "Charlize Theron"],
+            director: "Taylor Hackford"
+        },
+        {
+            title: "Leon",
+            slug: "drama-leon-1994",
+            year: 1994,
+            poster: "https://pad.mymovies.it/filmclub/2008/06/082/locandina.jpg",
+            actors: ["Jean Reno", "Natalie Portman", "Gary Oldman"],
+            director: "Luc Besson"
+        },
+        {
+            title: "Sweeney Todd: Il diabolico barbiere di Fleet Street",
+            slug: "drama-sweeney-todd-2007",
+            year: 2007,
+            poster: "https://pad.mymovies.it/filmclub/2007/08/087/locandina.jpg",
+            actors: ["Johnny Depp", "Helena Bonham Carter", "Alan Rickman"],
+            director: "Tim Burton"
+        },
+        {
+            title: "Salvate il Soldato Ryan",
+            slug: "drama-salvate-il-soldato-ryan-1998",
+            year: 1998,
+            poster: "https://pad.mymovies.it/filmclub/2006/01/051/locandina.jpg",
+            actors: ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+            director: "Steven Spielberg"
+        },
+        {
+            title: "House of Gucci",
+            slug: "drama-house-of-gucci-2021",
+            year: 2021,
+            poster: "https://pad.mymovies.it/filmclub/2019/11/059/locandina.jpg",
+            actors: ["Lady Gaga", "Adam Driver", "Al Pacino"],
+            director: "Ridley Scott"
+        },
+        {
+            title: "The Last Duel",
+            slug: "drama-the-last-duel-2021",
+            year: 2021,
+            poster: "https://pad.mymovies.it/filmclub/2019/09/049/locandinapg1.jpg",
+            actors: ["Matt Damon", "Adam Driver", "Jodie Comer"],
+            director: "Ridley Scott"
+        },
+        {
+            title: "Silence",
+            slug: "drama-silence-2016",
+            year: 2016,
+            poster: "https://pad.mymovies.it/filmclub/2011/06/187/locandina.jpg",
+            actors: ["Andrew Garfield", "Adam Driver", "Liam Neeson"],
+            director: "Martin Scorsese"
+        },
+        {
+            title: "J. Edgar",
+            slug: "drama-j-edgar-2011",
+            year: 2011,
+            poster: "https://pad.mymovies.it/filmclub/2010/06/152/locandina.jpg",
+            actors: ["Leonardo DiCaprio", "Armie Hammer", "Naomi Watts"],
+            director: "Clint Eastwood"
+        },
 
 
 
