@@ -12,6 +12,11 @@ function Movies() {
       ? movies.flatMap((g) => g.movies)
       : movies.find((g) => g.name === selectedGenre)?.movies || [];
 
+
+  const sortedMovies = [...filteredMovies].sort((a, b) =>
+    a.title.localeCompare(b.title)
+  );
+
   return (
     <div className="container py-4">
       <h2 className="welcometitle">
@@ -36,18 +41,16 @@ function Movies() {
 
       {/* LISTA FILM */}
       <div className="row">
-        {[...filteredMovies]
-          .sort((a, b) => a.title.localeCompare(b.title))
-          .map((film) => (
-            <Card
-              key={`${film.title}-${film.year}`}
-              title={film.title}
-              year={film.year}
-              actors={film.actors}
-              director={film.director}
-              imgURL={film.poster}
-            />
-          ))}
+        {sortedMovies.map((film) => (
+          <Card
+            key={`${film.title}-${film.year}`}
+            title={film.title}
+            year={film.year}
+            actors={film.actors}
+            director={film.director}
+            imgURL={film.poster}
+          />
+        ))}
       </div>
     </div>
   );
