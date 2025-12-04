@@ -277,7 +277,7 @@ export const action = {
       title: "Mr. & Mrs. Smith",
       slug: "action-mr-and-mrs-smith-2005",
       year: 2005,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2005/05/063/locandina.jpg",
       actors: ["Brad Pitt", "Angelina Jolie", "Vince Vaughn"],
       director: "Doug Liman"
     },

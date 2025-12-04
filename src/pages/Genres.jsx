@@ -12,10 +12,8 @@ function Genres() {
 
   if (!genre) return <h2 className="text-white p-4">Genere non trovato</h2>;
 
-  //! ORDINAMENTO ALFABETICO
-  const sortedMovies = [...genre.movies].sort((a, b) =>
-    a.title.localeCompare(b.title)
-  );
+  //! ORDINAMENTO PER DATA + ORDINAMENTO ALFABETICO
+  const sortedMovies = [...genre.movies].sort((a, b) => a.year - b.year);
 
   return (
     <div className="container py-4">
