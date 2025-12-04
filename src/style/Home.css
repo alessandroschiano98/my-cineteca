@@ -1,4 +1,4 @@
-/* GRID PER GENERI */
+/* ! GRID PER GENERI */
 .grid-genres {
   display: grid;
   grid-template-columns: 1fr; /* ! MOBILE: 1 colonna */

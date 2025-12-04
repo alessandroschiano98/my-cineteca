@@ -1,45 +1,66 @@
+/* ! CONTAINER INTRO */
 .intro-container {
     position: fixed;
-    top: 0;
-    left: 0;
+    inset: 0;
     width: 100%;
     height: 100%;
-    background-color: black;
+    background: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     z-index: 9999;
-  
     opacity: 1;
-    transition: opacity 1s ease;
+    transition: opacity 0.9s ease;
   }
   
+  /* ! FINE INTRO */
   .fade-out {
     opacity: 0;
     pointer-events: none;
   }
   
+  /* ! LOGO BASE */
   .intro-logo {
     width: 140px;
-    height: auto;
-    filter: invert(75%) sepia(91%) saturate(2479%) hue-rotate(1deg) brightness(103%) contrast(105%);
-    animation: fadeIn 1.5s ease forwards;
+    opacity: 1;
+    transition:
+      transform 1.2s ease-in-out,
+      opacity 0.6s ease,
+      filter 1s ease;
+    filter: brightness(150%) saturate(0%);
   }
   
-  .intro-text {
-    color: white;
-    font-size: 22px;
-    text-align: center;
-    margin-top: 20px;
+  /* ! LOGO ACCESO */
+  .light-up {
+    filter: invert(75%) sepia(91%) saturate(2479%)
+            hue-rotate(1deg) brightness(110%) contrast(105%);
+  }
+  
+  /* ! LOGO ESPLOSIONE */
+  .explode {
+    transform: scale(6);
     opacity: 0;
-    animation: fadeIn 2s ease forwards;
-    animation-delay: 1s;
-    font-weight: 300;
   }
   
-  /* Fade-In Animation */
-  @keyframes fadeIn {
+  /* ! TESTO BASE */
+  .intro-text {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #ffc107;
+    margin-top: 20px;
+    font-size: 20px;
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  
+  
+  /*! ANIMAZIONE SCRITTA */
+  .animated-text {
+    animation: fadeUp 1.5s ease forwards;
+    animation-delay: 1s;
+  }
+  
+  @keyframes fadeUp {
     0% {
       opacity: 0;
       transform: translateY(10px);
@@ -48,5 +69,25 @@
       opacity: 1;
       transform: translateY(0);
     }
+  }
+  
+  /* ! SCRITTA CHE SCOMPARE */
+  .hide-text {
+    opacity: 0;
+    transition: opacity 0.6s ease;
+  }
+  
+  /* ! EFFETTO INTERMITTENZA DEL LOGO */
+.flicker {
+    animation: flickerLight 1.4s ease-in-out forwards;
+  }
+  
+  @keyframes flickerLight {
+    0% { filter: brightness(40%) saturate(0%); }
+    20% { filter: brightness(150%) saturate(0%); }
+    35% { filter: brightness(70%) saturate(0%); }
+    55% { filter: brightness(180%) saturate(0%); }
+    70% { filter: brightness(80%) saturate(0%); }
+    100% { filter: brightness(150%) saturate(0%); }
   }
   

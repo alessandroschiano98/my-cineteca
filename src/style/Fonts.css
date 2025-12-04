@@ -1,0 +1,42 @@
+
+/* ! Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* ! FONT GLOBAL (UI) — stile Netflix Sans */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+/* TITOLI GRANDI (Hero titles) */
+.title-big,
+h1.big-title,
+.section-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(32px, 5vw, 70px);
+  color: white;
+}
+
+/* TITOLI DI GENERE & TITOLI CARD */
+.genre-title,
+.card-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: white;
+}
+
+/* NAVBAR */
+.navbar-brand,
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+/* TESTI PICCOLI */
+.small-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  opacity: 0.8;
+}
