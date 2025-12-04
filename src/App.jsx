@@ -1,7 +1,8 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
+import IntroScreen from "./components/IntroScreen";
 
 import Home from "./pages/Home.jsx";
 import Genres from "./pages/Genres.jsx";
@@ -13,6 +14,18 @@ import "./style/MovieCard.css";
 import "./style/Home.css";
 
 function App() {
+  const [showIntro, setShowIntro] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowIntro(false);
+    }, 3000); // durata intro
+
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (showIntro) return <IntroScreen />;
+
   return (
     <>
       <Navbar />
@@ -27,4 +40,3 @@ function App() {
 }
 
 export default App;
-  
