@@ -281,6 +281,62 @@ export const drama = {
             actors: ["Leonardo DiCaprio", "Armie Hammer", "Naomi Watts"],
             director: "Clint Eastwood"
         },
+        {
+            title: "Demolition",
+            slug: "drama-demolition-2015",
+            year: 2015,
+            poster: "https://pad.mymovies.it/filmclub/2014/12/141/locandina.jpg",
+            actors: ["Jake Gyllenhaal", "Naomi Watts", "Chris Cooper"],
+            director: "Jean-Marc Vallée"
+        },
+        {
+            title: "12 anni schiavo",
+            slug: "drama-12-anni-schiavo-2013",
+            year: 2013,
+            poster: "https://pad.mymovies.it/filmclub/2011/08/071/locandina.jpg",
+            actors: ["Chiwetel Ejiofor", "Michael Fassbender", "Lupita Nyong'o"],
+            director: "Steve McQueen"
+        },
+        {
+            title: "Green Book",
+            slug: "drama-green-book-2018",
+            year: 2018,
+            poster: "https://pad.mymovies.it/filmclub/2018/09/091/locandina.jpg",
+            actors: ["Viggo Mortensen", "Mahershala Ali", "Linda Cardellini"],
+            director: "Peter Farrelly"
+        },
+        {
+            title: "Qualcuno volò sul nido del cuculo",
+            slug: "drama-qualcuno-volo-sul-nido-del-cuculo-1975",
+            year: 1975,
+            poster: "https://pad.mymovies.it/filmclub/2002/08/117/locandina.jpg",
+            actors: ["Jack Nicholson", "Louise Fletcher", "Danny DeVito"],
+            director: "Miloš Forman"
+        },
+        {
+            title: "Match Point",
+            slug: "drama-match-point-2005",
+            year: 2005,
+            poster: "https://pad.mymovies.it/filmclub/2005/05/033/locandinapg6.jpg",
+            actors: ["Jonathan Rhys Meyers", "Scarlett Johansson", "Emily Mortimer"],
+            director: "Woody Allen"
+        },
+        {
+            title: "Il curioso caso di Benjamin Button",
+            slug: "drama-benjamin-button-2008",
+            year: 2008,
+            poster: "https://pad.mymovies.it/filmclub/2008/05/097/locandina.jpg",
+            actors: ["Brad Pitt", "Cate Blanchett", "Taraji P. Henson"],
+            director: "David Fincher"
+        },
+        {
+            title: "Oliver Twist",
+            slug: "drama-oliver-twist-2005",
+            year: 2005,
+            poster: "https://pad.mymovies.it/filmclub/2005/06/038/Locandina.jpg",
+            actors: ["Barney Clark", "Ben Kingsley", "Leanne Rowe"],
+            director: "Roman Polanski"
+          },
 
 
 

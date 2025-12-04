@@ -65,6 +65,48 @@ export const sciFi = {
         actors: ["Lizzy Caplan", "Michael Stahl-David", "Jessica Lucas"],
         director: "Matt Reeves"
       },
+      {
+        title: "The Day After Tomorrow",
+        slug: "scifi-the-day-after-tomorrow-2004",
+        year: 2004,
+        poster: "https://pad.mymovies.it/filmclub/2004/05/010/locandina.jpg",
+        actors: ["Dennis Quaid", "Jake Gyllenhaal", "Emmy Rossum"],
+        director: "Roland Emmerich"
+      },
+      {
+        title: "Life",
+        slug: "scifi-life-2017",
+        year: 2017,
+        poster: "https://pad.mymovies.it/filmclub/2016/10/158/locandina.jpg",
+        actors: ["Jake Gyllenhaal", "Ryan Reynolds", "Rebecca Ferguson"],
+        director: "Daniel Espinosa"
+      },
+      {
+        title: "Tenet",
+        slug: "scifi-tenet-2020",
+        year: 2020,
+        poster: "https://pad.mymovies.it/filmclub/2019/10/296/locandina.jpg",
+        actors: ["John David Washington", "Robert Pattinson", "Elizabeth Debicki"],
+        director: "Christopher Nolan"
+      },
+      {
+        title: "First Man",
+        slug: "sci-fi-first-man-2018",
+        year: 2018,
+        poster: "https://pad.mymovies.it/filmclub/2016/12/245/locandina.jpg",
+        actors: ["Ryan Gosling", "Claire Foy", "Jason Clarke"],
+        director: "Damien Chazelle"
+      },
+      {
+        title: "Ad Astra",
+        slug: "scifi-ad-astra-2019",
+        year: 2019,
+        poster: "https://pad.mymovies.it/filmclub/2017/09/180/locandina.jpg",
+        actors: ["Brad Pitt", "Tommy Lee Jones", "Ruth Negga"],
+        director: "James Gray"
+      },
+
+
       
     ]
   };

@@ -72,39 +72,39 @@ export const adventure = {
             poster: "https://pad.mymovies.it/filmclub/2003/09/001/locandina.jpg",
             actors: ["Johnny Depp", "Geoffrey Rush", "Orlando Bloom"],
             director: "Gore Verbinski"
-          },
-          {
+        },
+        {
             title: "Pirati dei Caraibi - La maledizione del forziere fantasma",
             slug: "adventure-pirati-dei-caraibi-2-2006",
             year: 2006,
             poster: "https://pad.mymovies.it/filmclub/2006/01/052/locandina.jpg",
             actors: ["Johnny Depp", "Orlando Bloom", "Keira Knightley"],
             director: "Gore Verbinski"
-          },
-          {
+        },
+        {
             title: "Pirati dei Caraibi - Ai confini del mondo",
             slug: "adventure-pirati-dei-caraibi-3-2007",
             year: 2007,
             poster: "https://pad.mymovies.it/filmclub/2007/01/018/locandina.jpg",
             actors: ["Johnny Depp", "Orlando Bloom", "Keira Knightley"],
             director: "Gore Verbinski"
-          },
-          {
+        },
+        {
             title: "Pirati dei Caraibi - Oltre i confini del mare",
             slug: "adventure-pirati-dei-caraibi-4-2011",
             year: 2011,
             poster: "https://m.media-amazon.com/images/I/91Cv++WF7zS._AC_UF894,1000_QL80_.jpg",
             actors: ["Johnny Depp", "Penélope Cruz", "Geoffrey Rush"],
             director: "Rob Marshall"
-          },
-          {
+        },
+        {
             title: "Pirati dei Caraibi - La vendetta di Salazar",
             slug: "adventure-pirati-dei-caraibi-5-2017",
             year: 2017,
             poster: "https://pad.mymovies.it/filmclub/2014/12/132/locandinapg3.jpg",
             actors: ["Johnny Depp", "Javier Bardem", "Orlando Bloom"],
             director: "Joachim Rønning & Espen Sandberg"
-          },
+        },
         {
             title: "Ritorno al Futuro",
             slug: "adventure-ritorno-al-futuro-1985",
@@ -136,7 +136,23 @@ export const adventure = {
             poster: "https://pad.mymovies.it/filmclub/2006/05/316/locandina.jpg",
             actors: ["Ivana Baquero", "Sergi López", "Maribel Verdú"],
             director: "Guillermo del Toro"
-          }
-          
+        },
+        {
+            title: "Prince of Persia",
+            slug: "adventure-prince-of-persia-2010",
+            year: 2010,
+            poster: "https://pad.mymovies.it/filmclub/2007/03/167/locandina.jpg",
+            actors: ["Jake Gyllenhaal", "Gemma Arterton", "Ben Kingsley"],
+            director: "Mike Newell"
+          },
+        {
+            title: "Il Re",
+            slug: "adventure-il-re-2019",
+            year: 2019,
+            poster: "https://pad.mymovies.it/filmclub/2019/07/217/locandina.jpg",
+            actors: ["Timothée Chalamet", "Joel Edgerton", "Robert Pattinson"],
+            director: "David Michôd"
+          },
+
     ]
 };

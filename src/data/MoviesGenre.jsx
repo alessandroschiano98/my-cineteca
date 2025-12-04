@@ -4,9 +4,11 @@ import { romance } from "./Romance";
 import { crime } from "./Crime";
 import { sport } from "./Sport";
 import { historical } from "./Historical";
+import { biography } from "./Biography";
 import { drama } from "./Drama";
 import { adventure } from "./Adventure";
-import { comedy } from "./Comedy";
+import { americanComedy } from "./AmericanComedy";
+import { italianComedy } from "./ItalianComedy";
 import { psychological } from "./Psychological";
 import { horror } from "./Horror";
 import { cartoon } from "./Cartoon";
@@ -18,9 +20,11 @@ export const movies = [
     crime,
     sport,
     historical,
+    biography,
     drama,
     adventure,
-    comedy,
+    americanComedy,
+    italianComedy,
     psychological,
     horror,
     cartoon

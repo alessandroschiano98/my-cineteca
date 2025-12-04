@@ -233,6 +233,54 @@ export const action = {
       actors: ["Matt Damon", "Edward Norton", "John Malkovich"],
       director: "John Dahl"
     },
+    {
+      title: "Jarhead",
+      slug: "action-jarhead-2005",
+      year: 2005,
+      poster: "https://pad.mymovies.it/filmclub/2005/10/072/imm.jpg",
+      actors: ["Jake Gyllenhaal", "Jamie Foxx", "Peter Sarsgaard"],
+      director: "Sam Mendes"
+    },
+    {
+      title: "Man on Fire",
+      slug: "action-man-on-fire-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2004/08/059/locandina.jpg",
+      actors: ["Denzel Washington", "Dakota Fanning", "Christopher Walken"],
+      director: "Tony Scott"
+    },
+    {
+      title: "American Sniper",
+      slug: "action-american-sniper-2014",
+      year: 2014,
+      poster: "https://pad.mymovies.it/filmclub/2014/10/026/locandina.jpg",
+      actors: ["Bradley Cooper", "Sienna Miller", "Kyle Gallner"],
+      director: "Clint Eastwood"
+    },
+    {
+      title: "Triple Frontier",
+      slug: "action-triple-frontier-2019",
+      year: 2019,
+      poster: "https://pad.mymovies.it/filmclub/2017/05/005/locandina.jpg",
+      actors: ["Ben Affleck", "Oscar Isaac", "Charlie Hunnam"],
+      director: "J.C. Chandor"
+    },
+    {
+      title: "Wanted",
+      slug: "action-wanted-2008",
+      year: 2008,
+      poster: "https://pad.mymovies.it/filmclub/2007/11/001/locandina.jpg",
+      actors: ["James McAvoy", "Angelina Jolie", "Morgan Freeman"],
+      director: "Timur Bekmambetov"
+    },
+    {
+      title: "Mr. & Mrs. Smith",
+      slug: "action-mr-and-mrs-smith-2005",
+      year: 2005,
+      poster: "",
+      actors: ["Brad Pitt", "Angelina Jolie", "Vince Vaughn"],
+      director: "Doug Liman"
+    },
 
 
 

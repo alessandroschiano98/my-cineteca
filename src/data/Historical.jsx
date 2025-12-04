@@ -2,14 +2,6 @@ export const historical = {
   name: "Historical",
   movies: [
     {
-      title: "Edison",
-      slug: "historical-edison-2005",
-      year: 2005,
-      poster: "https://pad.mymovies.it/filmclub/2011/12/071/locandina.jpg",
-      actors: ["Benedict Cumberbatch", "Michael Shannon", "Tom Holland"],
-      director: "Alfonso Gomez-Rejon"
-    },
-    {
       title: "1917",
       slug: "historical-1917-2019",
       year: 2019,
@@ -48,6 +40,30 @@ export const historical = {
       poster: "https://pad.mymovies.it/filmclub/2013/10/195/locandina.jpg",
       actors: ["Brad Pitt", "Shia LaBeouf", "Logan Lerman"],
       director: "David Ayer"
+    },
+    {
+      title: "BlacKkKlansman",
+      slug: "historical-blackkklansman-2018",
+      year: 2018,
+      poster: "https://pad.mymovies.it/filmclub/2018/04/048/locandina.jpg",
+      actors: ["John David Washington", "Adam Driver", "Laura Harrier"],
+      director: "Spike Lee"
+    },
+    {
+      title: "Hacksaw Ridge",
+      slug: "historical-hacksaw-ridge-2016",
+      year: 2016,
+      poster: "https://pad.mymovies.it/filmclub/2016/06/042/locandina.jpg",
+      actors: ["Andrew Garfield", "Sam Worthington", "Teresa Palmer"],
+      director: "Mel Gibson"
+    },
+    {
+      title: "Dunkirk",
+      slug: "historical-dunkirk-2017",
+      year: 2017,
+      poster: "https://pad.mymovies.it/filmclub/2016/08/023/locandina.jpg",
+      actors: ["Fionn Whitehead", "Tom Hardy", "Mark Rylance"],
+      director: "Christopher Nolan"
     },
 
 

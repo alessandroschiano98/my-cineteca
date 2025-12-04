@@ -273,7 +273,70 @@ export const crime = {
       actors: ["Al Pacino", "Michelle Pfeiffer", "Steven Bauer"],
       director: "Brian De Palma"
     },
-
+    {
+      title: "Prisoners",
+      slug: "crime-prisoners-2013",
+      year: 2013,
+      poster: "https://pad.mymovies.it/filmclub/2013/05/199/locandina.jpg",
+      actors: ["Hugh Jackman", "Jake Gyllenhaal", "Paul Dano"],
+      director: "Denis Villeneuve"
+    },
+    {
+      title: "End of Watch",
+      slug: "crime-end-of-watch-2012",
+      year: 2012,
+      poster: "https://pad.mymovies.it/filmclub/2011/06/001/locandina.jpg",
+      actors: ["Jake Gyllenhaal", "Michael Peña", "Anna Kendrick"],
+      director: "David Ayer"
+    },
+    {
+      title: "Pelham 123",
+      slug: "crime-pelham-123-2009",
+      year: 2009,
+      poster: "https://pad.mymovies.it/filmclub/2009/02/042/locandina.jpg",
+      actors: ["Denzel Washington", "John Travolta", "Luis Guzmán"],
+      director: "Tony Scott"
+    },
+    {
+      title: "Inside Man",
+      slug: "crime-inside-man-2006",
+      year: 2006,
+      poster: "https://pad.mymovies.it/filmclub/2006/01/077/locandina.jpg",
+      actors: ["Denzel Washington", "Clive Owen", "Jodie Foster"],
+      director: "Spike Lee"
+    },
+    {
+      title: "Bronson",
+      slug: "crime-bronson-2008",
+      year: 2008,
+      poster: "https://pad.mymovies.it/filmclub/2009/03/130/locandina.jpg",
+      actors: ["Tom Hardy", "Matt King", "James Lance"],
+      director: "Nicolas Winding Refn"
+    },
+    {
+      title: "I soliti sospetti",
+      slug: "crime-i-soliti-sospetti-1995",
+      year: 1995,
+      poster: "https://pad.mymovies.it/filmclub/2006/01/038/locandina.jpg",
+      actors: ["Kevin Spacey"],
+      director: "Bryan Singer"
+    },
+    {
+      title: "La promessa",
+      slug: "crime-la-promessa-2001",
+      year: 2001,
+      poster: "https://pad.mymovies.it/filmclub/2006/11/089/locandina.jpg",
+      actors: ["Jack Nicholson", "Robin Wright", "Aaron Eckhart"],
+      director: "Sean Penn"
+    },
+    {
+      title: "Sicario",
+      slug: "crime-sicario-2015",
+      year: 2015,
+      poster: "https://pad.mymovies.it/filmclub/2015/05/023/locandinapg4.jpg",
+      actors: ["Emily Blunt", "Benicio del Toro", "Josh Brolin"],
+      director: "Denis Villeneuve"
+    },
     
     
     

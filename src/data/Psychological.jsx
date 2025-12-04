@@ -56,7 +56,16 @@ export const psychological = {
         poster: "https://pad.mymovies.it/filmclub/2004/09/053/locandinapg5.jpg",
         actors: ["Jake Gyllenhaal", "Jena Malone", "Drew Barrymore"],
         director: "Richard Kelly"
-      }
+      },
+      {
+        title: "Enemy",
+        slug: "psychological-enemy-2013",
+        year: 2013,
+        poster: "https://pad.mymovies.it/filmclub/2013/09/169/locandina.jpg",
+        actors: ["Jake Gyllenhaal", "Mélanie Laurent", "Sarah Gadon"],
+        director: "Denis Villeneuve"
+      },
+
     ]
   };
   
