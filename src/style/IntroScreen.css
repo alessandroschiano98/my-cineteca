@@ -90,4 +90,32 @@
     70% { filter: brightness(80%) saturate(0%); }
     100% { filter: brightness(150%) saturate(0%); }
   }
+
+  /* ! TITOLO MY CINETECA */
+.brand-title {
+    position: absolute;
+    top: 60%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+    color: white;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 1s ease, transform 1s ease;
+    will-change: opacity; 
+  }
+  
+  /* ! Quando deve comparire */
+  .brand-show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  /* ! Sparisce prima dell’esplosione */
+  .brand-hide {
+    opacity: 0;
+    transform: none; 
+    transition: opacity .4s ease; 
+  }
+  
+  
   

@@ -11,6 +11,7 @@ import { americanComedy } from "./AmericanComedy";
 import { italianComedy } from "./ItalianComedy";
 import { psychological } from "./Psychological";
 import { horror } from "./Horror";
+import { heroes } from "./Heroes";
 import { cartoon } from "./Cartoon";
 
 export const movies = [
@@ -27,5 +28,6 @@ export const movies = [
     italianComedy,
     psychological,
     horror,
+    heroes,
     cartoon
 ];

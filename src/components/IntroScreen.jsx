@@ -2,46 +2,56 @@ import { useEffect, useState } from "react";
 import "../style/IntroScreen.css";
 
 export default function IntroScreen({ onFinish }) {
-    const [explode, setExplode] = useState(false);
-    const [lightOn, setLightOn] = useState(false);
-    const [hideText, setHideText] = useState(false);
-    const [flicker, setFlicker] = useState(true);
+  const [flicker, setFlicker] = useState(true);
+  const [lightOn, setLightOn] = useState(false);
+  const [hideText, setHideText] = useState(false);
+  const [showBrand, setShowBrand] = useState(false);
+  const [explode, setExplode] = useState(false);
+
+  useEffect(() => {
+    // 1) Flicker iniziale (si spegne a 1.4s)
+    setTimeout(() => setFlicker(false), 1400);
+
+    // 2) Logo si accende + mostra "My Cineteca"
+    setTimeout(() => {
+      setLightOn(true);
+      setShowBrand(true);
+    }, 1400);
+
+    // 3) Nasconde il testo giallo
+    setTimeout(() => setHideText(true), 2000);
+
+    // 4) Nasconde "My Cineteca"
+    setTimeout(() => setShowBrand(false), 2400);
+
+    // 5) Esplosione logo
+    setTimeout(() => setExplode(true), 2600);
+
+    // 6) Fine intro → mostra Home
+    setTimeout(() => onFinish(), 3500);
+
+  }, []);
+
+  return (
+    <div className="intro-container">
+      
+      {/* LOGO */}
+      <img
+        src="https://i.postimg.cc/R0kMFh5z/Logo-dell-occhio-con-raggio-di-luce.png"
+        alt="Logo"
+        className={`
+          intro-logo
+          ${flicker ? "flicker" : ""}
+          ${lightOn ? "light-up" : ""}
+          ${explode ? "explode" : ""}
+        `}
+      />
 
 
-    useEffect(() => {
-        // Accensione logo
-        setTimeout(() => setLightOn(true), 300);
-
-        // Nascondi la scritta prima dello zoom
-        setTimeout(() => setHideText(true), 2000);
-
-        // Effetto esplosione logo
-        setTimeout(() => setExplode(true), 2600);
-
-        // Chiudi intro
-        setTimeout(() => onFinish(), 3500);
-
-        setTimeout(() => setLightOn(true), 1400); 
-
-        setTimeout(() => setFlicker(false), 1400);
-
-    }, []);
-
-    return (
-        <div className="intro-container">
-            <img
-                src="https://i.postimg.cc/R0kMFh5z/Logo-dell-occhio-con-raggio-di-luce.png"
-                alt="Logo"
-                className={`intro-logo 
-    ${flicker ? "flicker" : ""} 
-    ${lightOn ? "light-up" : ""} 
-    ${explode ? "explode" : ""}
-  `}
-            />
-
-            <h2 className={`intro-text animated-text ${hideText ? "hide-text" : ""}`}>
-                My Cineteca
-            </h2>
-        </div>
-    );
+      {/* SCRITTA “MY CINETECA” */}
+      <h1 className={`brand-title ${showBrand ? "brand-show" : "brand-hide"}`}>
+        My Cineteca
+      </h1>
+    </div>
+  );
 }

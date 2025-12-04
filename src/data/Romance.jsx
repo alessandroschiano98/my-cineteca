@@ -94,7 +94,7 @@ export const romance = {
       slug: "romance-500-giorni-insieme-2009",
       year: 2009,
       poster: "https://pad.mymovies.it/filmclub/2009/01/103/locandina.jpg",
-      actors: ["Joseph Gordon-Levitt", "Zooey Deschanel", "Geoffrey Arend"],
+      actors: ["Joseph G.Levitt", "Zooey Deschanel", "Geoffrey Arend"],
       director: "Marc Webb"
     },
     {

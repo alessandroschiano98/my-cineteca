@@ -6,7 +6,7 @@ export const sciFi = {
         slug: "sci-fi-inception-2010",
         year: 2010,
         poster: "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_UF1000,1000_QL80_.jpg",
-        actors: ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        actors: ["Leonardo DiCaprio", "Joseph G.Levitt", "Elliot Page"],
         director: "Christopher Nolan"
       },
       {
