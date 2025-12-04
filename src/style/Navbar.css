@@ -16,6 +16,17 @@
     padding: 0.8rem 1rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   }
+
+  .custom-burger {
+    width: 28px;
+    filter: invert(75%) sepia(91%) saturate(2479%) hue-rotate(1deg) brightness(103%) contrast(105%);
+    transition: transform .3s ease;
+  }
+  
+  .custom-burger:hover {
+    transform: scale(1.1);
+  }
+  
   
   .navbar-brand {
     font-size: 1.4rem;

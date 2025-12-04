@@ -16,20 +16,11 @@ import "./style/Home.css";
 function App() {
   const [showIntro, setShowIntro] = useState(true);
 
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setShowIntro(false);
-    }, 3000); // durata intro
-
-    return () => clearTimeout(timer);
-  }, []);
-
-  if (showIntro) return <IntroScreen />;
+  if (showIntro) return <IntroScreen onFinish={() => setShowIntro(false)} />;
 
   return (
     <>
       <Navbar />
-
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/genres/:genreName" element={<Genres />} />
@@ -38,5 +29,6 @@ function App() {
     </>
   );
 }
+
 
 export default App;

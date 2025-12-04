@@ -39,7 +39,11 @@ function Navbar() {
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
         >
-          <span className="navbar-toggler-icon"></span>
+            <img
+    src="https://www.svgrepo.com/show/506795/burger-menu-right.svg"
+    alt="menu"
+    className="custom-burger"
+  />
         </button>
 
         <div className="collapse navbar-collapse justify-content-end" id="navbarNav">

@@ -28,7 +28,7 @@ export default function IntroScreen({ onFinish }) {
     setTimeout(() => setExplode(true), 2600);
 
     // 6) Fine intro → mostra Home
-    setTimeout(() => onFinish(), 3500);
+    setTimeout(() => onFinish(), 3000);
 
   }, []);
 
