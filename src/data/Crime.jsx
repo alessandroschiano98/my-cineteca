@@ -337,6 +337,24 @@ export const crime = {
       actors: ["Emily Blunt", "Benicio del Toro", "Josh Brolin"],
       director: "Denis Villeneuve"
     },
+    {
+      title: "Soldado",
+      slug: "crime-soldado-2018",
+      year: 2018,
+      poster: "https://pad.mymovies.it/filmclub/2016/11/256/locandina.jpg",
+      actors: ["Benicio del Toro", "Josh Brolin", "Isabela Merced"],
+      director: "Stefano Sollima"
+    },
+    {
+      title: "Sin City",
+      slug: "crime-sin-city-2005",
+      year: 2005,
+      poster: "https://pad.mymovies.it/filmclub/2005/05/015/locandina.jpg",
+      actors: ["Mickey Rourke", "Clive Owen", "Bruce Willis"],
+      director: "Robert Rodriguez & Frank Miller"
+    }
+    
+    
     
     
     

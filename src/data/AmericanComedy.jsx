@@ -90,6 +90,50 @@ export const americanComedy = {
         actors: ["Jeff Bridges", "John Goodman", "Steve Buscemi"],
         director: "Joel Coen"
       },
+      {
+        title: "American Pie",
+        slug: "americanComedy-american-pie-1999",
+        year: 1999,
+        poster: "https://pad.mymovies.it/filmclub/2002/08/169/locandina.jpg",
+        actors: ["Jason Biggs", "Alyson Hannigan", "Seann William Scott"],
+        director: "Paul Weitz"
+      },
+      {
+        title: "American Pie 2",
+        slug: "americanComedy-american-pie-2-2001",
+        year: 2001,
+        poster: "https://pad.mymovies.it/filmclub/2001/11/005/locandina.jpg",
+        actors: ["Jason Biggs", "Alyson Hannigan", "Seann William Scott"],
+        director: "James B. Rogers"
+      },
+      {
+        title: "American Pie - Il matrimonio",
+        slug: "americanComedy-american-pie-il-matrimonio-2003",
+        year: 2003,
+        poster: "https://pad.mymovies.it/filmclub/2003/10/001/locandinapg1.jpg",
+        actors: ["Jason Biggs", "Alyson Hannigan", "Seann William Scott"],
+        director: "Jesse Dylan"
+      },
+      {
+        title: "American Reunion",
+        slug: "americanComedy-american-reunion-2012",
+        year: 2012,
+        poster: "https://pad.mymovies.it/filmclub/2011/05/246/locandina.jpg",
+        actors: ["Jason Biggs", "Alyson Hannigan", "Seann William Scott"],
+        director: "Jon Hurwitz & Hayden Schlossberg"
+      },
+      {
+        title: "Superbad",
+        slug: "americanComedy-superbad-2007",
+        year: 2007,
+        poster: "https://pad.mymovies.it/filmclub/2007/06/021/locandina.jpg",
+        actors: ["Jonah Hill", "Michael Cera", "Christopher Mintz-Plasse"],
+        director: "Greg Mottola"
+      },
+      
+      
+      
+      
       
       
       

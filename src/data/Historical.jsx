@@ -65,6 +65,15 @@ export const historical = {
       actors: ["Fionn Whitehead", "Tom Hardy", "Mark Rylance"],
       director: "Christopher Nolan"
     },
+    {
+      title: "Bastardi senza gloria",
+      slug: "historical-bastardi-senza-gloria-2009",
+      year: 2009,
+      poster: "https://pad.mymovies.it/filmclub/2008/10/105/locandina.jpg",
+      actors: ["Brad Pitt", "Christoph Waltz", "Michael Fassbender"],
+      director: "Quentin Tarantino"
+    },
+    
 
 
 

@@ -337,7 +337,25 @@ export const drama = {
             actors: ["Barney Clark", "Ben Kingsley", "Leanne Rowe"],
             director: "Roman Polanski"
           },
+          {
+            title: "8 Mile",
+            slug: "drama-8-mile-2002",
+            year: 2002,
+            poster: "https://pad.mymovies.it/filmclub/2003/03/010/imm.jpg",
+            actors: ["Eminem", "Mekhi Phifer", "Brittany Murphy"],
+            director: "Curtis Hanson"
+          },
+          {
+            title: "Come un tuono",
+            slug: "drama-come-un-tuono-2012",
+            year: 2012,
+            poster: "https://pad.mymovies.it/filmclub/2011/06/095/locandinapg4.jpg",
+            actors: ["Ryan Gosling", "Bradley Cooper", "Eva Mendes"],
+            director: "Derek Cianfrance"
+          }
+          
 
+          
 
 
 

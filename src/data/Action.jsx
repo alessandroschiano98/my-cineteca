@@ -257,7 +257,16 @@ export const action = {
       actors: ["Brad Pitt", "Angelina Jolie", "Vince Vaughn"],
       director: "Doug Liman"
     },
+    {
+      title: "Troy",
+      slug: "action-troy-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2004/05/012/locandina.jpg",
+      actors: ["Brad Pitt", "Eric Bana", "Orlando Bloom"],
+      director: "Wolfgang Petersen"
+    },
 
+    
 
 
 
