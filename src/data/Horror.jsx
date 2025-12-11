@@ -41,6 +41,30 @@ export const horror = {
         actors: ["Jodie Comer", "Aaron Taylor-Johnson", "Jack O'Connell"],
         director: "Danny Boyle"
       },
+      {
+        title: "A Quiet Place",
+        slug: "horror-a-quiet-place-2018",
+        year: 2018,
+        poster: "https://pad.mymovies.it/filmclub/2017/11/153/locandina.jpg",
+        actors: ["Emily Blunt", "John Krasinski", "Millicent Simmonds"],
+        director: "John Krasinski"
+      },
+      {
+        title: "A Quiet Place Part II",
+        slug: "horror-a-quiet-place-2-2020",
+        year: 2020,
+        poster: "https://pad.mymovies.it/filmclub/2019/06/023/locandina.jpg",
+        actors: ["Emily Blunt", "Cillian Murphy", "Millicent Simmonds"],
+        director: "John Krasinski"
+      },
+      {
+        title: "A Quiet Place: Day One",
+        slug: "horror-a-quiet-place-3-2024",
+        year: 2024,
+        poster: "https://pad.mymovies.it/filmclub/2023/10/195/locandinapg1.jpg",
+        actors: ["Lupita Nyong'o", "Joseph Quinn", "Alex Wolff"],
+        director: "Michael Sarnoski"
+      },
     ]
   };
   

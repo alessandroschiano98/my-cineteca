@@ -73,6 +73,15 @@ export const historical = {
       actors: ["Brad Pitt", "Christoph Waltz", "Michael Fassbender"],
       director: "Quentin Tarantino"
     },
+    {
+      title: "L'Ultimo Samurai",
+      slug: "historical-l-ultimo-samurai-2003",
+      year: 2003,
+      poster: "https://pad.mymovies.it/filmclub/2003/12/018/locandina.jpg",
+      actors: ["Tom Cruise", "Ken Watanabe", "Billy Connolly"],
+      director: "Edward Zwick"
+    }
+    
     
 
 

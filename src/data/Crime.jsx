@@ -352,7 +352,16 @@ export const crime = {
       poster: "https://pad.mymovies.it/filmclub/2005/05/015/locandina.jpg",
       actors: ["Mickey Rourke", "Clive Owen", "Bruce Willis"],
       director: "Robert Rodriguez & Frank Miller"
+    },
+    {
+      title: "Collateral",
+      slug: "crime-collateral-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2004/08/001/locandina.jpg",
+      actors: ["Tom Cruise", "Jamie Foxx", "Jada Pinkett Smith"],
+      director: "Michael Mann"
     }
+    
     
     
     

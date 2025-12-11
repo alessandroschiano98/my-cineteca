@@ -130,6 +130,145 @@ export const americanComedy = {
         actors: ["Jonah Hill", "Michael Cera", "Christopher Mintz-Plasse"],
         director: "Greg Mottola"
       },
+      {
+        title: "Palle al balzo - Dodgeball",
+        slug: "americanComedy-dodgeball-2004",
+        year: 2004,
+        poster: "https://pad.mymovies.it/filmclub/2004/09/051/locandina.jpg",
+        actors: ["Vince Vaughn", "Ben Stiller", "Christine Taylor"],
+        director: "Rawson Marshall Thurber"
+      },
+      {
+        title: "Zohan - Tutte le donne vengono al pettine",
+        slug: "americanComedy-zohan-2008",
+        year: 2008,
+        poster: "https://pad.mymovies.it/filmclub/2008/03/070/locandina.jpg",
+        actors: ["Adam Sandler", "John Turturro", "Emmanuelle Chriqui"],
+        director: "Dennis Dugan"
+      },
+      {
+        title: "Cambia la vita con un click",
+        slug: "americanComedy-click-2006",
+        year: 2006,
+        poster: "https://pad.mymovies.it/filmclub/2006/03/358/locandina.jpg",
+        actors: ["Adam Sandler", "Kate Beckinsale", "Christopher Walken"],
+        director: "Frank Coraci"
+      },
+      {
+        title: "Zoolander",
+        slug: "americanComedy-zoolander-2001",
+        year: 2001,
+        poster: "https://pad.mymovies.it/filmclub/2002/07/015/locandina288.jpg",
+        actors: ["Ben Stiller", "Owen Wilson", "Will Ferrell"],
+        director: "Ben Stiller"
+      },
+      {
+        title: "Zoolander 2",
+        slug: "americanComedy-zoolander-2-2016",
+        year: 2016,
+        poster: "https://pad.mymovies.it/filmclub/2010/02/214/locandina.jpg",
+        actors: ["Ben Stiller", "Owen Wilson", "Will Ferrell"],
+        director: "Ben Stiller"
+      },
+      {
+        title: "Fratellastri a 40 anni",
+        slug: "americanComedy-step-brothers-2008",
+        year: 2008,
+        poster: "https://pad.mymovies.it/filmclub/2008/03/009/locandina.jpg",
+        actors: ["Will Ferrell", "John C. Reilly", "Mary Steenburgen"],
+        director: "Adam McKay"
+      },
+      {
+        title: "Daddy's Home",
+        slug: "americanComedy-daddys-home-2015",
+        year: 2015,
+        poster: "https://pad.mymovies.it/filmclub/2011/05/112/locandina.jpg",
+        actors: ["Will Ferrell", "Mark Wahlberg", "Linda Cardellini"],
+        director: "Sean Anders"
+      },
+      {
+        title: "Gli Stagisti",
+        slug: "americanComedy-the-internship-2013",
+        year: 2013,
+        poster: "https://pad.mymovies.it/filmclub/2012/12/060/locandina.jpg",
+        actors: ["Vince Vaughn", "Owen Wilson", "Rose Byrne"],
+        director: "Shawn Levy"
+      },
+      {
+        title: "Elf",
+        slug: "americanComedy-elf-2003",
+        year: 2003,
+        poster: "https://pad.mymovies.it/filmclub/2003/11/025/locandinapg1.jpg",
+        actors: ["Will Ferrell", "Zooey Deschanel", "James Caan"],
+        director: "Jon Favreau"
+      },
+      {
+        title: "2 Single a Nozze",
+        slug: "americanComedy-wedding-crashers-2005",
+        year: 2005,
+        poster: "https://pad.mymovies.it/filmclub/2005/07/041/locandina.jpg",
+        actors: ["Owen Wilson", "Vince Vaughn", "Rachel McAdams"],
+        director: "David Dobkin"
+      },
+      {
+        title: "Candidato a Sorpresa",
+        slug: "americanComedy-the-campaign-2012",
+        year: 2012,
+        poster: "https://pad.mymovies.it/filmclub/2011/10/233/locandina.jpg",
+        actors: ["Will Ferrell", "Zach Galifianakis", "Jason Sudeikis"],
+        director: "Jay Roach"
+      },
+      {
+        title: "Austin Powers: Il Controspione",
+        slug: "americanComedy-austin-powers-1997",
+        year: 1997,
+        poster: "https://pad.mymovies.it/filmclub/2002/08/220/locandina.jpg",
+        actors: ["Mike Myers", "Elizabeth Hurley", "Michael York"],
+        director: "Jay Roach"
+      },
+      {
+        title: "Austin Powers: La Spia Che Ci Provava",
+        slug: "americanComedy-austin-powers-2-1999",
+        year: 1999,
+        poster: "https://pad.mymovies.it/filmclub/2002/11/023/locandina.jpg",
+        actors: ["Mike Myers", "Heather Graham", "Michael York"],
+        director: "Jay Roach"
+      },
+      {
+        title: "Blades of Glory",
+        slug: "americanComedy-blades-of-glory-2007",
+        year: 2007,
+        poster: "https://pad.mymovies.it/filmclub/2007/01/226/locandina.jpg",
+        actors: ["Will Ferrell", "Jon Heder", "Will Arnett"],
+        director: "Josh Gordon & Will Speck"
+      },
+      {
+        title: "Parto col Folle",
+        slug: "americanComedy-due-date-2010",
+        year: 2010,
+        poster: "https://pad.mymovies.it/filmclub/2009/12/102/locandina.jpg",
+        actors: ["Robert Downey Jr.", "Zach Galifianakis", "Michelle Monaghan"],
+        director: "Todd Phillips"
+      },
+      {
+        title: "Masterminds",
+        slug: "americanComedy-masterminds-2016",
+        year: 2016,
+        poster: "https://pad.mymovies.it/filmclub/2012/10/219/locandina.jpg",
+        actors: ["Zach Galifianakis", "Kristen Wiig", "Owen Wilson"],
+        director: "Jared Hess"
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
       
       

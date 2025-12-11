@@ -65,6 +65,14 @@ export const psychological = {
         actors: ["Jake Gyllenhaal", "Mélanie Laurent", "Sarah Gadon"],
         director: "Denis Villeneuve"
       },
+      {
+        title: "Get Out",
+        slug: "psychological-get-out-2017",
+        year: 2017,
+        poster: "https://pad.mymovies.it/filmclub/2016/10/027/locandina.jpg",
+        actors: ["Daniel Kaluuya", "Allison Williams", "Bradley Whitford"],
+        director: "Jordan Peele"
+      }
 
     ]
   };

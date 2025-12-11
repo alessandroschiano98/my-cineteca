@@ -153,7 +153,30 @@ export const adventure = {
             actors: ["Timothée Chalamet", "Joel Edgerton", "Robert Pattinson"],
             director: "David Michôd"
           },
-
+          {
+            title: "I sogni segreti di Walter Mitty",
+            slug: "adventure-walter-mitty-2013",
+            year: 2013,
+            poster: "https://pad.mymovies.it/filmclub/2013/08/002/locandina.jpg",
+            actors: ["Ben Stiller", "Kristen Wiig", "Sean Penn"],
+            director: "Ben Stiller"
+          },
+          {
+            title: "Tropic Thunder",
+            slug: "americanComedy-tropic-thunder-2008",
+            year: 2008,
+            poster: "https://pad.mymovies.it/filmclub/2008/03/072/locandina.jpg",
+            actors: ["Ben Stiller", "Robert Downey Jr.", "Jack Black"],
+            director: "Ben Stiller"
+          },
+          {
+            title: "Tutti pazzi per Mary",
+            slug: "americanComedy-tutti-pazzi-per-mary-1998",
+            year: 1998,
+            poster: "https://pad.mymovies.it/filmclub/2006/08/228/locandina.jpg",
+            actors: ["Cameron Diaz", "Ben Stiller", "Matt Dillon"],
+            director: "Bobby & Peter Farrelly"
+          },
           
 
     ]

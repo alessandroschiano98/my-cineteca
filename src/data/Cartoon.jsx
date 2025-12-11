@@ -144,6 +144,22 @@ export const cartoon = {
         poster: "https://pad.mymovies.it/filmclub/2004/07/024/locandina.jpg",
         actors: ["Craig T. Nelson", "Holly Hunter", "Samuel L. Jackson"],
         director: "Brad Bird"
+      },
+      {
+        title: "Madagascar",
+        slug: "cartoon-madagascar-2005",
+        year: 2005,
+        poster: "https://pad.mymovies.it/filmclub/2005/05/064/locandina.jpg",
+        actors: ["Ben Stiller", "Chris Rock", "Jada Pinkett Smith"],
+        director: "Eric Darnell & Tom McGrath"
+      },
+      {
+        title: "Madagascar 2",
+        slug: "cartoon-madagascar-2008",
+        year: 2005,
+        poster: "https://pad.mymovies.it/filmclub/2007/02/236/locandina.jpg",
+        actors: ["Ben Stiller", "Chris Rock", "Tom McGrath"],
+        director: "Eric Darnell & Tom McGrath"
       }
 
       

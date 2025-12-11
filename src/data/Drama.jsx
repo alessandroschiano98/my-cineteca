@@ -352,7 +352,16 @@ export const drama = {
             poster: "https://pad.mymovies.it/filmclub/2011/06/095/locandinapg4.jpg",
             actors: ["Ryan Gosling", "Bradley Cooper", "Eva Mendes"],
             director: "Derek Cianfrance"
+          },
+          {
+            title: "Quasi Amici",
+            slug: "drama-quasi-amici-2011",
+            year: 2011,
+            poster: "https://pad.mymovies.it/filmclub/2011/11/230/locandina.jpg",
+            actors: ["François Cluzet", "Omar Sy", "Anne Le Ny"],
+            director: "Olivier Nakache & Éric Toledano"
           }
+          
           
 
           
