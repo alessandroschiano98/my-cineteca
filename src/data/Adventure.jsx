@@ -162,21 +162,23 @@ export const adventure = {
             director: "Ben Stiller"
           },
           {
-            title: "Tropic Thunder",
-            slug: "americanComedy-tropic-thunder-2008",
-            year: 2008,
-            poster: "https://pad.mymovies.it/filmclub/2008/03/072/locandina.jpg",
-            actors: ["Ben Stiller", "Robert Downey Jr.", "Jack Black"],
-            director: "Ben Stiller"
+            title: "Una notte al museo",
+            slug: "Adventure-una-notte-al-museo-2006",
+            year: 2006,
+            poster: "https://pad.mymovies.it/filmclub/2006/07/219/locandina.jpg",
+            actors: ["Ben Stiller", "Robin Williams", "Carla Gugino"],
+            director: "Shawn Levy"
           },
           {
-            title: "Tutti pazzi per Mary",
-            slug: "americanComedy-tutti-pazzi-per-mary-1998",
-            year: 1998,
-            poster: "https://pad.mymovies.it/filmclub/2006/08/228/locandina.jpg",
-            actors: ["Cameron Diaz", "Ben Stiller", "Matt Dillon"],
-            director: "Bobby & Peter Farrelly"
-          },
+            title: "Una notte al museo 2",
+            slug: "Adventure-una-notte-al-museo-2-2009",
+            year: 2009,
+            poster: "https://pad.mymovies.it/filmclub/2008/11/153/locandina.jpg",
+            actors: ["Ben Stiller", "Amy Adams", "Robin Williams"],
+            director: "Shawn Levy"
+          }
+          
+          
           
 
     ]

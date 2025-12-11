@@ -18,14 +18,6 @@ export const action = {
       director: "Mel Gibson"
     },
     {
-      title: "Il Patriota",
-      slug: "action-il-patriota-2000",
-      year: 2000,
-      poster: "https://pad.mymovies.it/filmclub/2001/03/020/locandinapg1.jpg",
-      actors: ["Mel Gibson", "Heath Ledger", "Jason Isaacs"],
-      director: "Roland Emmerich"
-    },
-    {
       title: "Training Day",
       slug: "action-training-day-2001",
       year: 2001,
@@ -265,6 +257,42 @@ export const action = {
       actors: ["Brad Pitt", "Eric Bana", "Orlando Bloom"],
       director: "Wolfgang Petersen"
     },
+    {
+      title: "Face/Off",
+      slug: "action-face-off-1997",
+      year: 1997,
+      poster: "https://pad.mymovies.it/filmclub/2006/11/059/locandina.jpg",
+      actors: ["John Travolta", "Nicolas Cage", "Joan Allen"],
+      director: "John Woo"
+    },
+    {
+      title: "Lone Survivor",
+      slug: "action-lone-survivor-2013",
+      year: 2013,
+      poster: "https://pad.mymovies.it/filmclub/2011/05/106/locandina.jpg",
+      actors: ["Mark Wahlberg", "Taylor Kitsch", "Ben Foster"],
+      director: "Peter Berg"
+    },
+    {
+      title: "Snakes on a Plane",
+      slug: "action-snakes-on-a-plane-2006",
+      year: 2006,
+      poster: "https://pad.mymovies.it/filmclub/2006/06/270/locandina.jpg",
+      actors: ["Samuel L. Jackson", "Julianna Margulies", "Nathan Phillips"],
+      director: "David R. Ellis"
+    },
+    {
+      title: "From Paris with Love",
+      slug: "action-from-paris-with-love-2010",
+      year: 2010,
+      poster: "https://pad.mymovies.it/filmclub/2009/06/011/locandina.jpg",
+      actors: ["John Travolta", "Jonathan Rhys Meyers", "Kasia Smutniak"],
+      director: "Pierre Morel"
+    }
+    
+    
+    
+    
 
     
 

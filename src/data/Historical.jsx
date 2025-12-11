@@ -80,7 +80,24 @@ export const historical = {
       poster: "https://pad.mymovies.it/filmclub/2003/12/018/locandina.jpg",
       actors: ["Tom Cruise", "Ken Watanabe", "Billy Connolly"],
       director: "Edward Zwick"
-    }
+    },
+    {
+      title: "Zero Dark Thirty",
+      slug: "historical-zero-dark-thirty-2012",
+      year: 2012,
+      poster: "https://pad.mymovies.it/filmclub/2011/08/066/locandina.jpg",
+      actors: ["Jessica Chastain", "Jason Clarke", "Kyle Chandler"],
+      director: "Kathryn Bigelow"
+    },
+    {
+      title: "Il Patriota",
+      slug: "historical-il-patriota-2000",
+      year: 2000,
+      poster: "https://pad.mymovies.it/filmclub/2001/03/020/locandinapg1.jpg",
+      actors: ["Mel Gibson", "Heath Ledger", "Jason Isaacs"],
+      director: "Roland Emmerich"
+    },
+    
     
     
 

@@ -160,7 +160,16 @@ export const cartoon = {
         poster: "https://pad.mymovies.it/filmclub/2007/02/236/locandina.jpg",
         actors: ["Ben Stiller", "Chris Rock", "Tom McGrath"],
         director: "Eric Darnell & Tom McGrath"
+      },
+      {
+        title: "Happy Feet",
+        slug: "cartoon-happy-feet-2006",
+        year: 2006,
+        poster: "https://pad.mymovies.it/filmclub/2006/08/197/locandina.jpg",
+        actors: ["Elijah Wood", "Robin Williams", "Brittany Murphy"],
+        director: "George Miller"
       }
+      
 
       
       

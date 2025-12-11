@@ -105,6 +105,24 @@ export const biography = {
       actors: ["Matt Damon", "Ben Affleck", "Viola Davis"],
       director: "Ben Affleck"
     },
+    {
+      title: "Sully",
+      slug: "biography-sully-2016",
+      year: 2016,
+      poster: "https://pad.mymovies.it/filmclub/2016/04/251/locandina.jpg",
+      actors: ["Tom Hanks", "Aaron Eckhart", "Laura Linney"],
+      director: "Clint Eastwood"
+    },
+    {
+      title: "Gotti",
+      slug: "crime-gotti-2018",
+      year: 2018,
+      poster: "https://pad.mymovies.it/filmclub/2017/09/188/locandina.jpg",
+      actors: ["John Travolta", "Kelly Preston", "Spencer Rocco Lofranco"],
+      director: "Kevin Connolly"
+    }
+    
+    
         
 
 

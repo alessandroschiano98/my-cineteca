@@ -65,6 +65,15 @@ export const horror = {
         actors: ["Lupita Nyong'o", "Joseph Quinn", "Alex Wolff"],
         director: "Michael Sarnoski"
       },
+      {
+        title: "IT",
+        slug: "horror-it-2017",
+        year: 2017,
+        poster: "https://pad.mymovies.it/filmclub/2009/04/029/locandina.jpg",
+        actors: ["Bill Skarsgård", "Jaeden Martell", "Finn Wolfhard"],
+        director: "Andy Muschietti"
+      }
+      
     ]
   };
   

@@ -360,7 +360,34 @@ export const crime = {
       poster: "https://pad.mymovies.it/filmclub/2004/08/001/locandina.jpg",
       actors: ["Tom Cruise", "Jamie Foxx", "Jada Pinkett Smith"],
       director: "Michael Mann"
+    },
+    {
+      title: "Four Brothers",
+      slug: "crime-four-brothers-2005",
+      year: 2005,
+      poster: "https://pad.mymovies.it/filmclub/2005/07/122/locandina.jpg",
+      actors: ["Mark Wahlberg", "Tyrese Gibson", "André Benjamin"],
+      director: "John Singleton"
+    },
+    {
+      title: "Shaft",
+      slug: "crime-shaft-2000",
+      year: 2000,
+      poster: "https://pad.mymovies.it/filmclub/2017/11/241/locandina.jpg",
+      actors: ["Samuel L. Jackson", "Vanessa Williams", "Christian Bale"],
+      director: "John Singleton"
+    },
+    {
+      title: "Le belve",
+      slug: "crime-le-belve-2012",
+      year: 2012,
+      poster: "https://pad.mymovies.it/filmclub/2010/03/056/locandina.jpg",
+      actors: ["Taylor Kitsch", "Aaron Taylor-Johnson", "Blake Lively"],
+      director: "Oliver Stone"
     }
+    
+    
+    
     
     
     

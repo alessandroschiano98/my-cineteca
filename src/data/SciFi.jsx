@@ -105,6 +105,27 @@ export const sciFi = {
         actors: ["Brad Pitt", "Tommy Lee Jones", "Ruth Negga"],
         director: "James Gray"
       },
+      {
+        title: "La guerra dei mondi",
+        slug: "sciFi-la-guerra-dei-mondi-2005",
+        year: 2005,
+        poster: "https://pad.mymovies.it/filmclub/2004/12/015/locandina.jpg",
+        actors: ["Tom Cruise", "Dakota Fanning", "Tim Robbins"],
+        director: "Steven Spielberg"
+      },
+      {
+        title: "L'alba del pianeta delle scimmie",
+        slug: "sciFi-l-alba-del-pianeta-delle-scimmie-2011",
+        year: 2011,
+        poster: "https://pad.mymovies.it/filmclub/2010/04/037/locandina.jpg",
+        actors: ["James Franco", "Andy Serkis", "Freida Pinto"],
+        director: "Rupert Wyatt"
+      },
+
+      
+
+      
+      
 
 
       

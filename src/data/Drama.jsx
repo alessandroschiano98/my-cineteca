@@ -336,35 +336,91 @@ export const drama = {
             poster: "https://pad.mymovies.it/filmclub/2005/06/038/Locandina.jpg",
             actors: ["Barney Clark", "Ben Kingsley", "Leanne Rowe"],
             director: "Roman Polanski"
-          },
-          {
+        },
+        {
             title: "8 Mile",
             slug: "drama-8-mile-2002",
             year: 2002,
             poster: "https://pad.mymovies.it/filmclub/2003/03/010/imm.jpg",
             actors: ["Eminem", "Mekhi Phifer", "Brittany Murphy"],
             director: "Curtis Hanson"
-          },
-          {
+        },
+        {
             title: "Come un tuono",
             slug: "drama-come-un-tuono-2012",
             year: 2012,
             poster: "https://pad.mymovies.it/filmclub/2011/06/095/locandinapg4.jpg",
             actors: ["Ryan Gosling", "Bradley Cooper", "Eva Mendes"],
             director: "Derek Cianfrance"
-          },
-          {
+        },
+        {
             title: "Quasi Amici",
             slug: "drama-quasi-amici-2011",
             year: 2011,
             poster: "https://pad.mymovies.it/filmclub/2011/11/230/locandina.jpg",
             actors: ["François Cluzet", "Omar Sy", "Anne Le Ny"],
             director: "Olivier Nakache & Éric Toledano"
-          }
-          
-          
+        },
+        {
+            title: "Il diavolo veste Prada",
+            slug: "drama-il-diavolo-veste-prada-2006",
+            year: 2006,
+            poster: "https://pad.mymovies.it/filmclub/2006/05/380/locandina.jpg",
+            actors: ["Meryl Streep", "Anne Hathaway", "Emily Blunt"],
+            director: "David Frankel"
+        },
+        {
+            title: "Don Jon",
+            slug: "drama-don-jon-2013",
+            year: 2013,
+            poster: "https://pad.mymovies.it/filmclub/2012/12/025/locandina.jpg",
+            actors: ["Joseph Gordon-Levitt", "Scarlett Johansson", "Julianne Moore"],
+            director: "Joseph Gordon-Levitt"
+        },
+        {
+            title: "Cast Away",
+            slug: "drama-cast-away-2000",
+            year: 2000,
+            poster: "https://pad.mymovies.it/filmclub/2001/01/005/locandina.jpg",
+            actors: ["Tom Hanks", "Helen Hunt", "Nick Searcy"],
+            director: "Robert Zemeckis"
+        },
+        {
+            title: "Il miglio verde",
+            slug: "drama-il-miglio-verde-1999",
+            year: 1999,
+            poster: "https://pad.mymovies.it/filmclub/2006/04/439/locandina.jpg",
+            actors: ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+            director: "Frank Darabont"
+        },
+        {
+            title: "The Others",
+            slug: "drama-the-others-2001",
+            year: 2001,
+            poster: "https://pad.mymovies.it/filmclub/2001/08/027/locandina.jpg",
+            actors: ["Nicole Kidman", "Christopher Eccleston", "Alakina Mann"],
+            director: "Alejandro Amenábar"
+        },
+        {
+            title: "Derailed",
+            slug: "crime-derailed-2005",
+            year: 2005,
+            poster: "https://pad.mymovies.it/filmclub/2005/10/086/Locandina.jpg",
+            actors: ["Clive Owen", "Jennifer Aniston", "Vincent Cassel"],
+            director: "Mikael Håfström"
+        },
+ 
 
-          
+
+
+
+
+
+
+
+
+
+
 
 
 

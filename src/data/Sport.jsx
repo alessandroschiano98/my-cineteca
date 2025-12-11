@@ -64,7 +64,33 @@ export const sport = {
       poster: "https://pad.mymovies.it/filmclub/2024/06/119/locandinapg1.jpg",
       actors: ["Brad Pitt", "Damson Idris", "Kerry Condon"],
       director: "Joseph Kosinski"
+    },
+    {
+      title: "Hustle",
+      slug: "sport-hustle-2022",
+      year: 2022,
+      poster: "https://pad.mymovies.it/filmclub/2022/05/039/locandina.jpg",
+      actors: ["Adam Sandler", "Juancho Hernangómez", "Queen Latifah"],
+      director: "Jeremiah Zagar"
+    },
+    {
+      title: "Imbattibile",
+      slug: "sport-imbattibile-2013",
+      year: 2013,
+      poster: "https://pad.mymovies.it/filmclub/2006/08/206/locandina.jpg",
+      actors: ["Nick Cheung", "Eddie Peng", "Mei Ting"],
+      director: "Dante Lam"
+    },
+    {
+      title: "Coach Carter",
+      slug: "sport-coach-carter-2005",
+      year: 2005,
+      poster: "https://pad.mymovies.it/filmclub/2005/04/013/locandina.jpg",
+      actors: ["Samuel L.Jackson", "Rick Gonzalez", "Channing Tatum"],
+      director: "Thomas Carter"
     }
+    
+    
     
 
 

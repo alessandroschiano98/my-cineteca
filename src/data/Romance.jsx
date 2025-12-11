@@ -129,6 +129,42 @@ export const romance = {
       actors: ["Joaquin Phoenix", "Scarlett Johansson", "Amy Adams"],
       director: "Spike Jonze"
     },
+    {
+      title: "50 volte il primo bacio",
+      slug: "romance-50-first-dates-2004",
+      year: 2004,
+      poster: "https://pad.mymovies.it/filmclub/2004/06/016/locandina.jpg",
+      actors: ["Adam Sandler", "Drew Barrymore", "Rob Schneider"],
+      director: "Peter Segal"
+    },
+    {
+      title: "Prima o poi me lo sposo",
+      slug: "romance-the-wedding-singer-1998",
+      year: 1998,
+      poster: "https://pad.mymovies.it/filmclub/2006/09/199/locandinapg2.jpg",
+      actors: ["Adam Sandler", "Drew Barrymore", "Christine Taylor"],
+      director: "Frank Coraci"
+    },
+    {
+      title: "La febbre del sabato sera",
+      slug: "romance-la-febbre-del-sabato-sera-1977",
+      year: 1977,
+      poster: "https://pad.mymovies.it/filmclub/2007/20/687/locandina.jpg",
+      actors: ["John Travolta", "Karen Lynn Gorney", "Barry Miller"],
+      director: "John Badham"
+    },
+    {
+      title: "2 cuori e una provetta",
+      slug: "romance-the-switch-2010",
+      year: 2010,
+      poster: "https://pad.mymovies.it/filmclub/2010/05/007/locandina.jpg",
+      actors: ["Jason Bateman", "Jennifer Aniston", "Jeff Goldblum"],
+      director: "Josh Gordon & Will Speck"
+    }
+    
+    
+    
+    
     
 
 

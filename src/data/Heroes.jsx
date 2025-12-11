@@ -177,7 +177,34 @@ export const heroes = {
             poster: "https://pad.mymovies.it/filmclub/2019/05/051/locandinapg1.jpg",
             actors: ["Chris Pratt", "Zoe Saldana", "Dave Bautista"],
             director: "James Gunn"
+          },
+          {
+            title: "Deadpool",
+            slug: "heroes-deadpool-2016",
+            year: 2016,
+            poster: "https://pad.mymovies.it/filmclub/2009/06/131/locandina.jpg",
+            actors: ["Ryan Reynolds", "Morena Baccarin", "Ed Skrein"],
+            director: "Tim Miller"
+          },
+          {
+            title: "Deadpool 2",
+            slug: "heroes-deadpool-2-2018",
+            year: 2018,
+            poster: "https://pad.mymovies.it/filmclub/2016/11/201/locandina.jpg",
+            actors: ["Ryan Reynolds", "Josh Brolin", "Zazie Beetz"],
+            director: "David Leitch"
+          },
+          {
+            title: "Deadpool 3",
+            slug: "heroes-deadpool-3-2024",
+            year: 2024,
+            poster: "https://pad.mymovies.it/filmclub/2022/10/021/locandinapg1.jpg",
+            actors: ["Ryan Reynolds", "Hugh Jackman", "Cassandra Nova"],
+            director: "David Leitch"
           }
+
+          
+          
           
           
           
