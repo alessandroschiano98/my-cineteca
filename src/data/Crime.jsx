@@ -384,7 +384,15 @@ export const crime = {
       poster: "https://pad.mymovies.it/filmclub/2010/03/056/locandina.jpg",
       actors: ["Taylor Kitsch", "Aaron Taylor-Johnson", "Blake Lively"],
       director: "Oliver Stone"
-    }
+    },
+    {
+      title: "Blow",
+      slug: "crime-blow-2001",
+      year: 2001,
+      poster: "https://pad.mymovies.it/filmclub/2001/09/011/locandina.jpg",
+      actors: ["Johnny Depp", "Penélope Cruz", "Jordi Mollà"],
+      director: "Ted Demme"
+  }
     
     
     
