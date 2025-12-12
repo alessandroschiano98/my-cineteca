@@ -262,7 +262,7 @@ export const americanComedy = {
       title: "Indovina perché ti odio",
       slug: "americanComedy-thats-my-boy-2012",
       year: 2012,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2011/05/255/locandina.jpg",
       actors: ["Adam Sandler", "Andy Samberg", "Leighton Meester"],
       director: "Sean Anders"
     },
@@ -270,7 +270,7 @@ export const americanComedy = {
       title: "Io vi dichiaro marito e marito",
       slug: "americanComedy-chuck-and-larry-2007",
       year: 2007,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2007/04/035/locandina.jpg",
       actors: ["Adam Sandler", "Kevin James", "Jessica Biel"],
       director: "Dennis Dugan"
     },
@@ -278,7 +278,7 @@ export const americanComedy = {
       title: "L'altra sporca ultima meta",
       slug: "americanComedy-the-longest-yard-2005",
       year: 2005,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2006/08/308/locandina.jpg",
       actors: ["Adam Sandler", "Chris Rock", "Burt Reynolds"],
       director: "Peter Segal"
     },
@@ -286,7 +286,7 @@ export const americanComedy = {
       title: "Una scatenata dozzina",
       slug: "americanComedy-cheaper-by-the-dozen-2003",
       year: 2003,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2004/03/017/locandina.jpg",
       actors: ["Steve Martin", "Bonnie Hunt", "Hilary Duff"],
       director: "Shawn Levy"
     },
@@ -294,7 +294,7 @@ export const americanComedy = {
       title: "Il ritorno della scatenata dozzina",
       slug: "americanComedy-cheaper-by-the-dozen-2-2005",
       year: 2005,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2006/01/010/locandina.jpg",
       actors: ["Steve Martin", "Bonnie Hunt", "Eugene Levy"],
       director: "Adam Shankman"
     },
@@ -302,7 +302,7 @@ export const americanComedy = {
       title: "Un biglietto in due",
       slug: "americanComedy-planes-trains-automobiles-1987",
       year: 1987,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2002/08/258/locandina.jpg",
       actors: ["Steve Martin", "John Candy", "Laila Robins"],
       director: "John Hughes"
     },
@@ -310,7 +310,7 @@ export const americanComedy = {
       title: "Agente Smart",
       slug: "americanComedy-get-smart-2008",
       year: 2008,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2007/12/032/locandina.jpg",
       actors: ["Steve Carell", "Anne Hathaway", "Dwayne Johnson"],
       director: "Peter Segal"
     },
@@ -318,7 +318,7 @@ export const americanComedy = {
       title: "Big Mama",
       slug: "americanComedy-big-mommas-house-2000",
       year: 2000,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2001/04/016/locandina.jpg",
       actors: ["Martin Lawrence", "Nia Long", "Paul Giamatti"],
       director: "Raja Gosnell"
     },
@@ -326,7 +326,7 @@ export const americanComedy = {
       title: "L'isola delle coppie",
       slug: "americanComedy-couples-retreat-2009",
       year: 2009,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2008/12/134/locandina.jpg",
       actors: ["Vince Vaughn", "Jason Bateman", "Kristin Davis"],
       director: "Peter Billingsley"
     },
@@ -334,7 +334,7 @@ export const americanComedy = {
       title: "Tu, io e Dupree",
       slug: "americanComedy-you-me-dupree-2006",
       year: 2006,
-      poster: "",
+      poster: "https://pad.mymovies.it/filmclub/2006/06/120/locandinapg1.jpg",
       actors: ["Owen Wilson", "Kate Hudson", "Matt Dillon"],
       director: "Anthony & Joe Russo"
     },
