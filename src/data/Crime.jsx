@@ -318,7 +318,7 @@ export const crime = {
       slug: "crime-i-soliti-sospetti-1995",
       year: 1995,
       poster: "https://pad.mymovies.it/filmclub/2006/01/038/locandina.jpg",
-      actors: ["Kevin Spacey"],
+      actors: ["Kevin Spacey, Benicio Del Toro, Gabriel Byrne"],
       director: "Bryan Singer"
     },
     {
