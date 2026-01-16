@@ -266,6 +266,14 @@ export const crime = {
       director: "Martin Scorsese"
     },
     {
+      title: "Nella giungla di cemento",
+      slug: "crime-nella-giungla-di-cemento-1993",
+      year: 1993,
+      poster: " https://pad.mymovies.it/filmclub/2001/10/050/locandina.jpg",
+      actors: ["Tyrin Turner", "Larenz Tate", "Jada Pinkett Smith"],
+      director: "Allen Hughes, Albert Hughes"
+    },
+    {
       title: "Scarface",
       slug: "crime-scarface-1983",
       year: 1983,
@@ -351,7 +359,7 @@ export const crime = {
       year: 2005,
       poster: "https://pad.mymovies.it/filmclub/2005/05/015/locandina.jpg",
       actors: ["Mickey Rourke", "Clive Owen", "Bruce Willis"],
-      director: "Robert Rodriguez & Frank Miller"
+      director: "Robert Rodriguez, Frank Miller"
     },
     {
       title: "Collateral",

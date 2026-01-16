@@ -114,6 +114,14 @@ export const action = {
       director: "Daniel Espinosa"
     },
     {
+      title: "The Score",
+      slug: "action-the-score-2001",
+      year: 2001,
+      poster: "https://pad.mymovies.it/filmclub/2001/10/020/locandina.jpg",
+      actors: ["Robert De Niro", "Edward Norton", "Marlon Brando"],
+      director: "Frank Oz"
+    },
+    {
       title: "Codice Genesi",
       slug: "action-codice-genesi-2010",
       year: 2010,

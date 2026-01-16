@@ -97,6 +97,14 @@ export const historical = {
       actors: ["Mel Gibson", "Heath Ledger", "Jason Isaacs"],
       director: "Roland Emmerich"
     },
+    {
+      title: "Norimberga",
+      slug: "historical-norimberga-2025",
+      year: 2025,
+      poster: "https://pad.mymovies.it/filmclub/2025/07/321/locandina.jpg",
+      actors: ["Russel Crowe", "Rami Malek", "Michael Shannon"],
+      director: "James Vanderbilt"
+    },
     
     
     
