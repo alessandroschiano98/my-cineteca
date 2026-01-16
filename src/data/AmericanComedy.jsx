@@ -393,6 +393,14 @@ export const americanComedy = {
       poster: "https://pad.mymovies.it/filmclub/2007/09/084/locandina.jpg",
       actors: ["Elliot Page", "Michael Cera", "Jennifer Garner"],
       director: "Jason Reitman"
+  },
+  {
+    title: "Duplex",
+    slug: "americanComedy-duplex-2003",
+    year: 2003,
+    poster: "https://pad.mymovies.it/filmclub/2004/06/024/locandina.jpg",
+    actors: ["Ben Stiller", "Drew Barrymore", "Eileen Essell"],
+    director: "Danny DeVito"
   }
     
     

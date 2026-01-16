@@ -120,7 +120,15 @@ export const biography = {
       poster: "https://pad.mymovies.it/filmclub/2017/09/188/locandina.jpg",
       actors: ["John Travolta", "Kelly Preston", "Spencer Rocco Lofranco"],
       director: "Kevin Connolly"
-    }
+    },
+    {
+      title: "Rocketman",
+      slug: "biography-rocketman-2019",
+      year: 2019,
+      poster: "https://pad.mymovies.it/filmclub/2018/09/166/locandina.jpg",
+      actors: ["Taron Egerton", "Jamie Bell", "Richard Madden"],
+      director: "Dexter Fletcher"
+    },
     
     
         

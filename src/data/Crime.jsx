@@ -400,24 +400,49 @@ export const crime = {
       poster: "https://pad.mymovies.it/filmclub/2001/09/011/locandina.jpg",
       actors: ["Johnny Depp", "Penélope Cruz", "Jordi Mollà"],
       director: "Ted Demme"
-  }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    },
+    {
+      title: "Escobar - Il fascino del male",
+      slug: "crime-escobar-2017",
+      year: 2017,
+      poster: "https://pad.mymovies.it/filmclub/2016/09/044/locandina.jpg",
+      actors: ["Javier Bardem", "Penélope Cruz", "Peter Sarsgaard"],
+      director: "Fernando León de Aranoa"
+    },
+    {
+      title: "Capone",
+      slug: "crime-capone-2020",
+      year: 2020,
+      poster: "https://pad.mymovies.it/filmclub/2016/10/160/locandina.jpg",
+      actors: ["Tom Hardy", "Linda Cardellini", "Kyle MacLachlan"],
+      director: "Josh Trank"
+    },
+    {
+      title: "Oxford Murders - Teorema di un delitto",
+      slug: "crime-oxford-murders-2008",
+      year: 2008,
+      poster: "https://pad.mymovies.it/filmclub/2007/09/031/locandina.jpg",
+      actors: ["Elijah Wood", "John Hurt", "Leonor Watling"],
+      director: "Álex de la Iglesia"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 };

@@ -176,8 +176,31 @@ export const adventure = {
             poster: "https://pad.mymovies.it/filmclub/2008/11/153/locandina.jpg",
             actors: ["Ben Stiller", "Amy Adams", "Robin Williams"],
             director: "Shawn Levy"
-          }
-          
+          },
+          {
+            title: "Il ponte per Terabithia",
+            slug: "adventure-il-ponte-per-terabithia-2007",
+            year: 2007,
+            poster: "https://pad.mymovies.it/filmclub/2006/11/132/locandina.jpg",
+            actors: ["Josh Hutcherson", "AnnaSophia Robb", "Zooey Deschanel"],
+            director: "Gábor Csupó"
+          },
+          {
+            title: "La fabbrica di cioccolato",
+            slug: "adventure-la-fabbrica-di-cioccolato-2005",
+            year: 2005,
+            poster: "https://pad.mymovies.it/filmclub/2005/05/058/locandina.jpg",
+            actors: ["Johnny Depp", "Freddie Highmore", "Helena Bonham Carter"],
+            director: "Tim Burton"
+          },
+          {
+            title: "Le cronache di Spiderwick",
+            slug: "adventure-spiderwick-2008",
+            year: 2008,
+            poster: "https://pad.mymovies.it/filmclub/2007/09/071/locandina.jpg",
+            actors: ["Freddie Highmore", "Sarah Bolger", "Nick Nolte"],
+            director: "Mark Waters"
+          },
           
           
 

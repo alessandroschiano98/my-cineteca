@@ -72,7 +72,15 @@ export const horror = {
         poster: "https://pad.mymovies.it/filmclub/2009/04/029/locandina.jpg",
         actors: ["Bill Skarsgård", "Jaeden Martell", "Finn Wolfhard"],
         director: "Andy Muschietti"
-      }
+      },
+      {
+        title: "Midsommar",
+        slug: "horror-midsommar-2019",
+        year: 2019,
+        poster: "https://pad.mymovies.it/filmclub/2019/02/152/locandina.jpg",
+        actors: ["Florence Pugh", "Jack Reynor", "Will Poulter"],
+        director: "Ari Aster"
+      },
       
     ]
   };

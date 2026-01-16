@@ -105,6 +105,14 @@ export const historical = {
       actors: ["Russel Crowe", "Rami Malek", "Michael Shannon"],
       director: "James Vanderbilt"
     },
+    {
+      title: "Le Crociate - Kingdom of Heaven",
+      slug: "historical-le-crociate-2005",
+      year: 2005,
+      poster: "https://pad.mymovies.it/filmclub/2005/04/036/locandina.jpg",
+      actors: ["Orlando Bloom", "Eva Green", "Liam Neeson"],
+      director: "Ridley Scott"
+    },
     
     
     

@@ -409,6 +409,14 @@ export const drama = {
             actors: ["Clive Owen", "Jennifer Aniston", "Vincent Cassel"],
             director: "Mikael Håfström"
         },
+        {
+            title: "The Wrestler",
+            slug: "drama-the-wrestler-2008",
+            year: 2008,
+            poster: "https://pad.mymovies.it/filmclub/2008/07/106/locandina.jpg",
+            actors: ["Mickey Rourke", "Marisa Tomei", "Evan Rachel Wood"],
+            director: "Darren Aronofsky"
+          },
 
 
 
