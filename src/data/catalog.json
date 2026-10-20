@@ -1,0 +1,6064 @@
+[
+  {
+    "title": "Mad Max: Fury Road",
+    "slug": "action-mad-max-fury-road-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2009/10/236/locandina.jpg",
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "director": "George Miller",
+    "id": "madmaxfuryroad-2015",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Braveheart",
+    "slug": "action-braveheart-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/278/locandinapg1.jpg",
+    "actors": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "director": "Mel Gibson",
+    "id": "braveheart-1995",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Training Day",
+    "slug": "action-training-day-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/08/031/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Ethan Hawke",
+      "Eva Mendes"
+    ],
+    "director": "Antoine Fuqua",
+    "id": "trainingday-2001",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "John Wick",
+    "slug": "action-john-wick-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2014/08/105/locandinapg1.jpg",
+    "actors": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Ian McShane"
+    ],
+    "director": "Chad Stahelski",
+    "id": "johnwick-2014",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Il Gladiatore",
+    "slug": "action-gladiator-2000",
+    "year": 2000,
+    "poster": "https://m.media-amazon.com/images/I/71KPWUDqRnL.jpg",
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "director": "Ridley Scott",
+    "id": "ilgladiatore-2000",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "007: Casino Royale",
+    "slug": "action-007-casino-royale-2006",
+    "year": 2006,
+    "poster": "https://static.posters.cz/image/1300/9049.jpg",
+    "actors": [
+      "Daniel Craig",
+      "Eva Green",
+      "Mads Mikkelsen"
+    ],
+    "director": "Martin Campbell",
+    "id": "007casinoroyale-2006",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "007: Quantum of Solace",
+    "slug": "action-007-quantum-of-solace-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/02/048/locandina.jpg",
+    "actors": [
+      "Daniel Craig",
+      "Olga Kurylenko",
+      "Mathieu Amalric"
+    ],
+    "director": "Marc Forster",
+    "id": "007quantumofsolace-2008",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "007: Skyfall",
+    "slug": "action-007-skyfall-2012",
+    "year": 2012,
+    "poster": "https://static.posters.cz/image/750/12750.jpg",
+    "actors": [
+      "Daniel Craig",
+      "Javier Bardem",
+      "Judi Dench"
+    ],
+    "director": "Sam Mendes",
+    "id": "007skyfall-2012",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "007: Spectre",
+    "slug": "action-007-spectre-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2014/12/046/locandina.jpg",
+    "actors": [
+      "Daniel Craig",
+      "Léa Seydoux",
+      "Christoph Waltz"
+    ],
+    "director": "Sam Mendes",
+    "id": "007spectre-2015",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "007: No Time to Die",
+    "slug": "action-007-no-time-to-die-2021",
+    "year": 2021,
+    "poster": "https://pad.mymovies.it/filmclub/2017/05/002/locandina.jpg",
+    "actors": [
+      "Daniel Craig",
+      "Léa Seydoux",
+      "Rami Malek"
+    ],
+    "director": "Cary Joji Fukunaga",
+    "id": "007notimetodie-2021",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "slug": "action-top-gun-maverick-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2012/03/009/locandinapg1.jpg",
+    "actors": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly"
+    ],
+    "director": "Joseph Kosinski",
+    "id": "topgunmaverick-2022",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "The Equalizer",
+    "slug": "action-the-equalizer-2014",
+    "year": 2014,
+    "poster": "https://i.ebayimg.com/images/g/AkYAAOSws0pb4OIn/s-l400.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Marton Csokas",
+      "Chloë Grace Moretz"
+    ],
+    "director": "Antoine Fuqua",
+    "id": "theequalizer-2014",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "The Equalizer 2",
+    "slug": "action-the-equalizer-2-2018",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/original/1snqjlM5Ls1jNfRL30olF0CQDMl.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Pedro Pascal",
+      "Ashton Sanders"
+    ],
+    "director": "Antoine Fuqua",
+    "id": "theequalizer2-2018",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Safe House - Nessuno è al sicuro",
+    "slug": "action-safe-house-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/02/037/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Ryan Reynolds",
+      "Vera Farmiga"
+    ],
+    "director": "Daniel Espinosa",
+    "id": "safehousenessunoealsicuro-2012",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "The Score",
+    "slug": "action-the-score-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/10/020/locandina.jpg",
+    "actors": [
+      "Robert De Niro",
+      "Edward Norton",
+      "Marlon Brando"
+    ],
+    "director": "Frank Oz",
+    "id": "thescore-2001",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Codice Genesi",
+    "slug": "action-codice-genesi-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/05/156/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Mila Kunis",
+      "Gary Oldman"
+    ],
+    "director": "Albert Hughes, Allen Hughes",
+    "id": "codicegenesi-2010",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Django Unchained",
+    "slug": "action-django-unchained-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/05/035/locandina.jpg",
+    "actors": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "djangounchained-2012",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Revenant - Redivivo",
+    "slug": "action-revenant-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2011/11/053/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "director": "Alejandro G. Iñárritu",
+    "id": "revenantredivivo-2015",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Robin Hood",
+    "slug": "action-robin-hood-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/03/103/locandina.jpg",
+    "actors": [
+      "Russell Crowe",
+      "Cate Blanchett",
+      "Mark Strong"
+    ],
+    "director": "Ridley Scott",
+    "id": "robinhood-2010",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Il Gladiatore II",
+    "slug": "action-il-gladiatore-2-2024",
+    "year": 2024,
+    "poster": "https://pad.mymovies.it/filmclub/2023/02/096/locandinapg1.jpg",
+    "actors": [
+      "Paul Mescal",
+      "Pedro Pascal",
+      "Denzel Washington"
+    ],
+    "director": "Ridley Scott",
+    "id": "ilgladiatoreii-2024",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "The Town",
+    "slug": "action-the-town-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/12/025/locandina.jpg",
+    "actors": [
+      "Ben Affleck",
+      "Jeremy Renner",
+      "Rebecca Hall"
+    ],
+    "director": "Ben Affleck",
+    "id": "thetown-2010",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Gangs of New York",
+    "slug": "action-gangs-of-new-york-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2003/01/014/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Daniel Day-Lewis",
+      "Cameron Diaz"
+    ],
+    "director": "Martin Scorsese",
+    "id": "gangsofnewyork-2002",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "slug": "action-kill-bill-1-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/10/051/locandina.jpg",
+    "actors": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "killbillvolume1-2003",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Kill Bill: Volume 2",
+    "slug": "action-kill-bill-2-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/04/022/locandina.jpg",
+    "actors": [
+      "Uma Thurman",
+      "David Carradine",
+      "Michael Madsen"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "killbillvolume2-2004",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "The Covenant",
+    "slug": "action-the-covenant-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2023/02/046/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Dar Salim",
+      "Sean Sagar"
+    ],
+    "director": "Guy Ritchie",
+    "id": "thecovenant-2023",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Rounders",
+    "slug": "action-rounders-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2007/22/184/locandina.jpg",
+    "actors": [
+      "Matt Damon",
+      "Edward Norton",
+      "John Malkovich"
+    ],
+    "director": "John Dahl",
+    "id": "rounders-1998",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Jarhead",
+    "slug": "action-jarhead-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/10/072/imm.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Jamie Foxx",
+      "Peter Sarsgaard"
+    ],
+    "director": "Sam Mendes",
+    "id": "jarhead-2005",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Man on Fire",
+    "slug": "action-man-on-fire-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/08/059/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Dakota Fanning",
+      "Christopher Walken"
+    ],
+    "director": "Tony Scott",
+    "id": "manonfire-2004",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "American Sniper",
+    "slug": "action-american-sniper-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2014/10/026/locandina.jpg",
+    "actors": [
+      "Bradley Cooper",
+      "Sienna Miller",
+      "Kyle Gallner"
+    ],
+    "director": "Clint Eastwood",
+    "id": "americansniper-2014",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Triple Frontier",
+    "slug": "action-triple-frontier-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2017/05/005/locandina.jpg",
+    "actors": [
+      "Ben Affleck",
+      "Oscar Isaac",
+      "Charlie Hunnam"
+    ],
+    "director": "J.C. Chandor",
+    "id": "triplefrontier-2019",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Wanted",
+    "slug": "action-wanted-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/11/001/locandina.jpg",
+    "actors": [
+      "James McAvoy",
+      "Angelina Jolie",
+      "Morgan Freeman"
+    ],
+    "director": "Timur Bekmambetov",
+    "id": "wanted-2008",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Mr. & Mrs. Smith",
+    "slug": "action-mr-and-mrs-smith-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/05/063/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Angelina Jolie",
+      "Vince Vaughn"
+    ],
+    "director": "Doug Liman",
+    "id": "mrmrssmith-2005",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Troy",
+    "slug": "action-troy-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/05/012/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Eric Bana",
+      "Orlando Bloom"
+    ],
+    "director": "Wolfgang Petersen",
+    "id": "troy-2004",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Face/Off",
+    "slug": "action-face-off-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/059/locandina.jpg",
+    "actors": [
+      "John Travolta",
+      "Nicolas Cage",
+      "Joan Allen"
+    ],
+    "director": "John Woo",
+    "id": "faceoff-1997",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Lone Survivor",
+    "slug": "action-lone-survivor-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2011/05/106/locandina.jpg",
+    "actors": [
+      "Mark Wahlberg",
+      "Taylor Kitsch",
+      "Ben Foster"
+    ],
+    "director": "Peter Berg",
+    "id": "lonesurvivor-2013",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Snakes on a Plane",
+    "slug": "action-snakes-on-a-plane-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/270/locandina.jpg",
+    "actors": [
+      "Samuel L. Jackson",
+      "Julianna Margulies",
+      "Nathan Phillips"
+    ],
+    "director": "David R. Ellis",
+    "id": "snakesonaplane-2006",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "From Paris with Love",
+    "slug": "action-from-paris-with-love-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/06/011/locandina.jpg",
+    "actors": [
+      "John Travolta",
+      "Jonathan Rhys Meyers",
+      "Kasia Smutniak"
+    ],
+    "director": "Pierre Morel",
+    "id": "frompariswithlove-2010",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "title": "Harry Potter e la pietra filosofale",
+    "slug": "adventure-harry-potter-pietra-filosofale-2001",
+    "year": 2001,
+    "poster": "https://i.redd.it/uvayck926kx71.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "Chris Columbus",
+    "id": "harrypotterelapietrafilosofale-2001",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e la camera dei segreti",
+    "slug": "adventure-harry-potter-camera-dei-segreti-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2002/12/001/locandina.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "Chris Columbus",
+    "id": "harrypotterelacameradeisegreti-2002",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e il prigioniero di Azkaban",
+    "slug": "adventure-harry-potter-prigioniero-di-azkaban-2004",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "Alfonso Cuarón",
+    "id": "harrypottereilprigionierodiazkaban-2004",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e il calice di fuoco",
+    "slug": "adventure-harry-potter-calice-di-fuoco-2005",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "Mike Newell",
+    "id": "harrypottereilcalicedifuoco-2005",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e l'Ordine della Fenice",
+    "slug": "adventure-harry-potter-ordine-fenice-2007",
+    "year": 2007,
+    "poster": "https://www.longtake.it/upload/documenti/3/31/310/3103/31038.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "David Yates",
+    "id": "harrypotterelordinedellafenice-2007",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e il principe mezzosangue",
+    "slug": "adventure-harry-potter-principe-mezzosangue-2009",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "David Yates",
+    "id": "harrypottereilprincipemezzosangue-2009",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e i Doni della Morte - Parte 1",
+    "slug": "adventure-harry-potter-doni-della-morte-1-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2008/06/003/locandina.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "David Yates",
+    "id": "harrypottereidonidellamorteparte1-2010",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter e i Doni della Morte - Parte 2",
+    "slug": "adventure-harry-potter-doni-della-morte-2-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2009/08/023/locandina.jpg",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": "David Yates",
+    "id": "harrypottereidonidellamorteparte2-2011",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Pirati dei Caraibi - La maledizione della prima luna",
+    "slug": "adventure-pirati-dei-caraibi-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/09/001/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom"
+    ],
+    "director": "Gore Verbinski",
+    "id": "piratideicaraibilamaledizionedellaprimaluna-2003",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Pirati dei Caraibi - La maledizione del forziere fantasma",
+    "slug": "adventure-pirati-dei-caraibi-2-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/01/052/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "director": "Gore Verbinski",
+    "id": "piratideicaraibilamaledizionedelforzierefantasma-2006",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Pirati dei Caraibi - Ai confini del mondo",
+    "slug": "adventure-pirati-dei-caraibi-3-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/01/018/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "director": "Gore Verbinski",
+    "id": "piratideicaraibiaiconfinidelmondo-2007",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Pirati dei Caraibi - Oltre i confini del mare",
+    "slug": "adventure-pirati-dei-caraibi-4-2011",
+    "year": 2011,
+    "poster": "https://m.media-amazon.com/images/I/91Cv++WF7zS._AC_UF894,1000_QL80_.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Geoffrey Rush"
+    ],
+    "director": "Rob Marshall",
+    "id": "piratideicaraibioltreiconfinidelmare-2011",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Pirati dei Caraibi - La vendetta di Salazar",
+    "slug": "adventure-pirati-dei-caraibi-5-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2014/12/132/locandinapg3.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Javier Bardem",
+      "Orlando Bloom"
+    ],
+    "director": "Joachim Rønning & Espen Sandberg",
+    "id": "piratideicaraibilavendettadisalazar-2017",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Ritorno al Futuro",
+    "slug": "adventure-ritorno-al-futuro-1985",
+    "year": 1985,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/011/locandinapg1.jpg",
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "director": "Robert Zemeckis",
+    "id": "ritornoalfuturo-1985",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Ritorno al Futuro II",
+    "slug": "adventure-ritorno-al-futuro-2-1989",
+    "year": 1989,
+    "poster": "https://pad.mymovies.it/filmclub/sacwebphoto/1000887852.jpg",
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Elisabeth Shue"
+    ],
+    "director": "Robert Zemeckis",
+    "id": "ritornoalfuturoii-1989",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Ritorno al Futuro III",
+    "slug": "adventure-ritorno-al-futuro-3-1990",
+    "year": 1990,
+    "poster": "https://pad.mymovies.it/filmclub/2005/11/032/locandinapg2.jpg",
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Mary Steenburgen"
+    ],
+    "director": "Robert Zemeckis",
+    "id": "ritornoalfuturoiii-1990",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Il labirinto del fauno",
+    "slug": "adventure-il-labirinto-del-fauno-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/05/316/locandina.jpg",
+    "actors": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú"
+    ],
+    "director": "Guillermo del Toro",
+    "id": "illabirintodelfauno-2006",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Prince of Persia",
+    "slug": "adventure-prince-of-persia-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2007/03/167/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Gemma Arterton",
+      "Ben Kingsley"
+    ],
+    "director": "Mike Newell",
+    "id": "princeofpersia-2010",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Il Re",
+    "slug": "adventure-il-re-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2019/07/217/locandina.jpg",
+    "actors": [
+      "Timothée Chalamet",
+      "Joel Edgerton",
+      "Robert Pattinson"
+    ],
+    "director": "David Michôd",
+    "id": "ilre-2019",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "I sogni segreti di Walter Mitty",
+    "slug": "adventure-walter-mitty-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2013/08/002/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Kristen Wiig",
+      "Sean Penn"
+    ],
+    "director": "Ben Stiller",
+    "id": "isognisegretidiwaltermitty-2013",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Una notte al museo",
+    "slug": "Adventure-una-notte-al-museo-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/07/219/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Robin Williams",
+      "Carla Gugino"
+    ],
+    "director": "Shawn Levy",
+    "id": "unanottealmuseo-2006",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Una notte al museo 2",
+    "slug": "Adventure-una-notte-al-museo-2-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2008/11/153/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Amy Adams",
+      "Robin Williams"
+    ],
+    "director": "Shawn Levy",
+    "id": "unanottealmuseo2-2009",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Il ponte per Terabithia",
+    "slug": "adventure-il-ponte-per-terabithia-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/132/locandina.jpg",
+    "actors": [
+      "Josh Hutcherson",
+      "AnnaSophia Robb",
+      "Zooey Deschanel"
+    ],
+    "director": "Gábor Csupó",
+    "id": "ilponteperterabithia-2007",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "La fabbrica di cioccolato",
+    "slug": "adventure-la-fabbrica-di-cioccolato-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/05/058/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Freddie Highmore",
+      "Helena Bonham Carter"
+    ],
+    "director": "Tim Burton",
+    "id": "lafabbricadicioccolato-2005",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Le cronache di Spiderwick",
+    "slug": "adventure-spiderwick-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/09/071/locandina.jpg",
+    "actors": [
+      "Freddie Highmore",
+      "Sarah Bolger",
+      "Nick Nolte"
+    ],
+    "director": "Mark Waters",
+    "id": "lecronachedispiderwick-2008",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Un weekend da bamboccioni",
+    "slug": "american-comedy-un-weekend-da-bamboccioni-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/11/101/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Kevin James",
+      "Chris Rock"
+    ],
+    "director": "Dennis Dugan",
+    "id": "unweekenddabamboccioni-2010",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Un weekend da bamboccioni 2",
+    "slug": "american-comedy-un-weekend-da-bamboccioni-2-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2012/04/027/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Kevin James",
+      "Chris Rock"
+    ],
+    "director": "Dennis Dugan",
+    "id": "unweekenddabamboccioni2-2013",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Vita da camper",
+    "slug": "american-comedy-vita-da-camper-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/03/329/locandina.jpg",
+    "actors": [
+      "Robin Williams",
+      "Cheryl Hines",
+      "JoJo"
+    ],
+    "director": "Barry Sonnenfeld",
+    "id": "vitadacamper-2006",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Come ammazzare il capo e vivere felici",
+    "slug": "american-comedy-come-ammazzare-il-capo-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/05/064/locandina.jpg",
+    "actors": [
+      "Jason Bateman",
+      "Charlie Day",
+      "Jason Sudeikis"
+    ],
+    "director": "Seth Gordon",
+    "id": "comeammazzareilcapoeviverefelici-2011",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Come ammazzare il capo 2",
+    "slug": "american-comedy-come-ammazzare-il-capo-2-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2012/01/016/locandina.jpg",
+    "actors": [
+      "Jason Bateman",
+      "Charlie Day",
+      "Jason Sudeikis"
+    ],
+    "director": "Sean Anders",
+    "id": "comeammazzareilcapo2-2014",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Una settimana da Dio",
+    "slug": "american-comedy-una-settimana-da-dio-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/05/063/locandina.jpg",
+    "actors": [
+      "Jim Carrey",
+      "Jennifer Aniston",
+      "Morgan Freeman"
+    ],
+    "director": "Tom Shadyac",
+    "id": "unasettimanadadio-2003",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Una notte da leoni",
+    "slug": "american-comedy-notte-da-leoni-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/03/053/locandina.jpg",
+    "actors": [
+      "Bradley Cooper",
+      "Zach Galifianakis",
+      "Ed Helms"
+    ],
+    "director": "Todd Phillips",
+    "id": "unanottedaleoni-2009",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Una notte da leoni 2",
+    "slug": "american-comedy-notte-da-leoni-2-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/10/105/locandina.jpg",
+    "actors": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
+    ],
+    "director": "Todd Phillips",
+    "id": "unanottedaleoni2-2011",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Una notte da leoni 3",
+    "slug": "american-comedy-notte-da-leoni-3-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/226/locandina.jpg",
+    "actors": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
+    ],
+    "director": "Todd Phillips",
+    "id": "unanottedaleoni3-2013",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Terapia d'urto",
+    "slug": "american-comedy-terapia-d-urto-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/06/018/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Jack Nicholson",
+      "Marisa Tomei"
+    ],
+    "director": "Peter Segal",
+    "id": "terapiadurto-2003",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Il grande Lebowski",
+    "slug": "american-comedy-il-grande-lebowski-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2002/03/024/locandinapg4.jpg",
+    "actors": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Steve Buscemi"
+    ],
+    "director": "Joel Coen",
+    "id": "ilgrandelebowski-1998",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "American Pie",
+    "slug": "americanComedy-american-pie-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/169/locandina.jpg",
+    "actors": [
+      "Jason Biggs",
+      "Alyson Hannigan",
+      "Seann William Scott"
+    ],
+    "director": "Paul Weitz",
+    "id": "americanpie-1999",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "American Pie 2",
+    "slug": "americanComedy-american-pie-2-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/11/005/locandina.jpg",
+    "actors": [
+      "Jason Biggs",
+      "Alyson Hannigan",
+      "Seann William Scott"
+    ],
+    "director": "James B. Rogers",
+    "id": "americanpie2-2001",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "American Pie - Il matrimonio",
+    "slug": "americanComedy-american-pie-il-matrimonio-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/10/001/locandinapg1.jpg",
+    "actors": [
+      "Jason Biggs",
+      "Alyson Hannigan",
+      "Seann William Scott"
+    ],
+    "director": "Jesse Dylan",
+    "id": "americanpieilmatrimonio-2003",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "American Reunion",
+    "slug": "americanComedy-american-reunion-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/05/246/locandina.jpg",
+    "actors": [
+      "Jason Biggs",
+      "Alyson Hannigan",
+      "Seann William Scott"
+    ],
+    "director": "Jon Hurwitz & Hayden Schlossberg",
+    "id": "americanreunion-2012",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Superbad",
+    "slug": "americanComedy-superbad-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/06/021/locandina.jpg",
+    "actors": [
+      "Jonah Hill",
+      "Michael Cera",
+      "Christopher Mintz-Plasse"
+    ],
+    "director": "Greg Mottola",
+    "id": "superbad-2007",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Palle al balzo - Dodgeball",
+    "slug": "americanComedy-dodgeball-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/09/051/locandina.jpg",
+    "actors": [
+      "Vince Vaughn",
+      "Ben Stiller",
+      "Christine Taylor"
+    ],
+    "director": "Rawson Marshall Thurber",
+    "id": "pallealbalzododgeball-2004",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Zohan - Tutte le donne vengono al pettine",
+    "slug": "americanComedy-zohan-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/03/070/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "John Turturro",
+      "Emmanuelle Chriqui"
+    ],
+    "director": "Dennis Dugan",
+    "id": "zohantutteledonnevengonoalpettine-2008",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Cambia la vita con un click",
+    "slug": "americanComedy-click-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/03/358/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Kate Beckinsale",
+      "Christopher Walken"
+    ],
+    "director": "Frank Coraci",
+    "id": "cambialavitaconunclick-2006",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Zoolander",
+    "slug": "americanComedy-zoolander-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2002/07/015/locandina288.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Owen Wilson",
+      "Will Ferrell"
+    ],
+    "director": "Ben Stiller",
+    "id": "zoolander-2001",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Zoolander 2",
+    "slug": "americanComedy-zoolander-2-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2010/02/214/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Owen Wilson",
+      "Will Ferrell"
+    ],
+    "director": "Ben Stiller",
+    "id": "zoolander2-2016",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Fratellastri a 40 anni",
+    "slug": "americanComedy-step-brothers-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/03/009/locandina.jpg",
+    "actors": [
+      "Will Ferrell",
+      "John C. Reilly",
+      "Mary Steenburgen"
+    ],
+    "director": "Adam McKay",
+    "id": "fratellastria40anni-2008",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Daddy's Home",
+    "slug": "americanComedy-daddys-home-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2011/05/112/locandina.jpg",
+    "actors": [
+      "Will Ferrell",
+      "Mark Wahlberg",
+      "Linda Cardellini"
+    ],
+    "director": "Sean Anders",
+    "id": "daddyshome-2015",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Gli Stagisti",
+    "slug": "americanComedy-the-internship-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2012/12/060/locandina.jpg",
+    "actors": [
+      "Vince Vaughn",
+      "Owen Wilson",
+      "Rose Byrne"
+    ],
+    "director": "Shawn Levy",
+    "id": "glistagisti-2013",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Elf",
+    "slug": "americanComedy-elf-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/11/025/locandinapg1.jpg",
+    "actors": [
+      "Will Ferrell",
+      "Zooey Deschanel",
+      "James Caan"
+    ],
+    "director": "Jon Favreau",
+    "id": "elf-2003",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "2 Single a Nozze",
+    "slug": "americanComedy-wedding-crashers-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/07/041/locandina.jpg",
+    "actors": [
+      "Owen Wilson",
+      "Vince Vaughn",
+      "Rachel McAdams"
+    ],
+    "director": "David Dobkin",
+    "id": "2singleanozze-2005",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Candidato a Sorpresa",
+    "slug": "americanComedy-the-campaign-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/10/233/locandina.jpg",
+    "actors": [
+      "Will Ferrell",
+      "Zach Galifianakis",
+      "Jason Sudeikis"
+    ],
+    "director": "Jay Roach",
+    "id": "candidatoasorpresa-2012",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Austin Powers: Il Controspione",
+    "slug": "americanComedy-austin-powers-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/220/locandina.jpg",
+    "actors": [
+      "Mike Myers",
+      "Elizabeth Hurley",
+      "Michael York"
+    ],
+    "director": "Jay Roach",
+    "id": "austinpowersilcontrospione-1997",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Austin Powers: La Spia Che Ci Provava",
+    "slug": "americanComedy-austin-powers-2-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2002/11/023/locandina.jpg",
+    "actors": [
+      "Mike Myers",
+      "Heather Graham",
+      "Michael York"
+    ],
+    "director": "Jay Roach",
+    "id": "austinpowerslaspiacheciprovava-1999",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Blades of Glory",
+    "slug": "americanComedy-blades-of-glory-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/01/226/locandina.jpg",
+    "actors": [
+      "Will Ferrell",
+      "Jon Heder",
+      "Will Arnett"
+    ],
+    "director": "Josh Gordon & Will Speck",
+    "id": "bladesofglory-2007",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Parto col Folle",
+    "slug": "americanComedy-due-date-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/12/102/locandina.jpg",
+    "actors": [
+      "Robert Downey Jr.",
+      "Zach Galifianakis",
+      "Michelle Monaghan"
+    ],
+    "director": "Todd Phillips",
+    "id": "partocolfolle-2010",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Masterminds",
+    "slug": "americanComedy-masterminds-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2012/10/219/locandina.jpg",
+    "actors": [
+      "Zach Galifianakis",
+      "Kristen Wiig",
+      "Owen Wilson"
+    ],
+    "director": "Jared Hess",
+    "id": "masterminds-2016",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Indovina perché ti odio",
+    "slug": "americanComedy-thats-my-boy-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/05/255/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Andy Samberg",
+      "Leighton Meester"
+    ],
+    "director": "Sean Anders",
+    "id": "indovinaperchetiodio-2012",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Io vi dichiaro marito e marito",
+    "slug": "americanComedy-chuck-and-larry-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/04/035/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Kevin James",
+      "Jessica Biel"
+    ],
+    "director": "Dennis Dugan",
+    "id": "iovidichiaromaritoemarito-2007",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "L'altra sporca ultima meta",
+    "slug": "americanComedy-the-longest-yard-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/308/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Chris Rock",
+      "Burt Reynolds"
+    ],
+    "director": "Peter Segal",
+    "id": "laltrasporcaultimameta-2005",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Una scatenata dozzina",
+    "slug": "americanComedy-cheaper-by-the-dozen-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2004/03/017/locandina.jpg",
+    "actors": [
+      "Steve Martin",
+      "Bonnie Hunt",
+      "Hilary Duff"
+    ],
+    "director": "Shawn Levy",
+    "id": "unascatenatadozzina-2003",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Il ritorno della scatenata dozzina",
+    "slug": "americanComedy-cheaper-by-the-dozen-2-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2006/01/010/locandina.jpg",
+    "actors": [
+      "Steve Martin",
+      "Bonnie Hunt",
+      "Eugene Levy"
+    ],
+    "director": "Adam Shankman",
+    "id": "ilritornodellascatenatadozzina-2005",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Un biglietto in due",
+    "slug": "americanComedy-planes-trains-automobiles-1987",
+    "year": 1987,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/258/locandina.jpg",
+    "actors": [
+      "Steve Martin",
+      "John Candy",
+      "Laila Robins"
+    ],
+    "director": "John Hughes",
+    "id": "unbigliettoindue-1987",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Agente Smart",
+    "slug": "americanComedy-get-smart-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/12/032/locandina.jpg",
+    "actors": [
+      "Steve Carell",
+      "Anne Hathaway",
+      "Dwayne Johnson"
+    ],
+    "director": "Peter Segal",
+    "id": "agentesmart-2008",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Big Mama",
+    "slug": "americanComedy-big-mommas-house-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2001/04/016/locandina.jpg",
+    "actors": [
+      "Martin Lawrence",
+      "Nia Long",
+      "Paul Giamatti"
+    ],
+    "director": "Raja Gosnell",
+    "id": "bigmama-2000",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "L'isola delle coppie",
+    "slug": "americanComedy-couples-retreat-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2008/12/134/locandina.jpg",
+    "actors": [
+      "Vince Vaughn",
+      "Jason Bateman",
+      "Kristin Davis"
+    ],
+    "director": "Peter Billingsley",
+    "id": "lisoladellecoppie-2009",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Tu, io e Dupree",
+    "slug": "americanComedy-you-me-dupree-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/120/locandinapg1.jpg",
+    "actors": [
+      "Owen Wilson",
+      "Kate Hudson",
+      "Matt Dillon"
+    ],
+    "director": "Anthony & Joe Russo",
+    "id": "tuioedupree-2006",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Tutti pazzi per Mary",
+    "slug": "americanComedy-tutti-pazzi-per-mary-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/228/locandina.jpg",
+    "actors": [
+      "Cameron Diaz",
+      "Ben Stiller",
+      "Matt Dillon"
+    ],
+    "director": "Bobby & Peter Farrelly",
+    "id": "tuttipazzipermary-1998",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Tropic Thunder",
+    "slug": "americanComedy-tropic-thunder-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/03/072/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Robert Downey Jr.",
+      "Jack Black"
+    ],
+    "director": "Ben Stiller",
+    "id": "tropicthunder-2008",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Starsky & Hutch",
+    "slug": "americanComedy-starsky-hutch-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/04/001/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Owen Wilson",
+      "Snoop Dogg"
+    ],
+    "director": "Todd Phillips",
+    "id": "starskyhutch-2004",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Una pallottola spuntata",
+    "slug": "americanComedy-the-naked-gun-1988",
+    "year": 1988,
+    "poster": "https://pad.mymovies.it/filmclub/2006/05/260/locandina.jpg",
+    "actors": [
+      "Leslie Nielsen",
+      "Priscilla Presley",
+      "George Kennedy"
+    ],
+    "director": "David Zucker",
+    "id": "unapallottolaspuntata-1988",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Ti presento i miei",
+    "slug": "americanComedy-meet-the-parents-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2001/02/002/imm.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Robert De Niro",
+      "Teri Polo"
+    ],
+    "director": "Jay Roach",
+    "id": "tipresentoimiei-2000",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Libera uscita",
+    "slug": "americanComedy-hall-pass-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/11/026/imm.jpg",
+    "actors": [
+      "Owen Wilson",
+      "Jason Sudeikis",
+      "Jenna Fischer"
+    ],
+    "director": "Bobby & Peter Farrelly",
+    "id": "liberauscita-2011",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Juno",
+    "slug": "americanComedy-juno-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/09/084/locandina.jpg",
+    "actors": [
+      "Elliot Page",
+      "Michael Cera",
+      "Jennifer Garner"
+    ],
+    "director": "Jason Reitman",
+    "id": "juno-2007",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Duplex",
+    "slug": "americanComedy-duplex-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2004/06/024/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Drew Barrymore",
+      "Eileen Essell"
+    ],
+    "director": "Danny DeVito",
+    "id": "duplex-2003",
+    "genres": [
+      "American Comedy"
+    ]
+  },
+  {
+    "title": "Ferrari",
+    "slug": "biography-ferrari-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2022/10/060/locandinapg2.jpg",
+    "actors": [
+      "Adam Driver",
+      "Penélope Cruz",
+      "Shailene Woodley"
+    ],
+    "director": "Michael Mann",
+    "id": "ferrari-2023",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Edison",
+    "slug": "biography-edison-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2011/12/071/locandina.jpg",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Michael Shannon",
+      "Tom Holland"
+    ],
+    "director": "Alfonso Gomez-Rejon",
+    "id": "edison-2005",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Ray",
+    "slug": "biography-ray-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/10/025/locandina.jpg",
+    "actors": [
+      "Jamie Foxx",
+      "Kerry Washington",
+      "Regina King"
+    ],
+    "director": "Taylor Hackford",
+    "id": "ray-2004",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Malcolm X",
+    "slug": "biography-malcolm-x-1992",
+    "year": 1992,
+    "poster": "https://pad.mymovies.it/filmclub/2001/05/131/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Angela Bassett",
+      "Delroy Lindo"
+    ],
+    "director": "Spike Lee",
+    "id": "malcolmx-1992",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Oppenheimer",
+    "slug": "biography-oppenheimer-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2021/12/084/locandinapg3.jpg",
+    "actors": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr."
+    ],
+    "director": "Christopher Nolan",
+    "id": "oppenheimer-2023",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Napoleon",
+    "slug": "biography-napoleon-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2022/03/108/locandinapg1.jpg",
+    "actors": [
+      "Joaquin Phoenix",
+      "Vanessa Kirby",
+      "Tahar Rahim"
+    ],
+    "director": "Ridley Scott",
+    "id": "napoleon-2023",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "slug": "biography-bohemian-rhapsody-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2018/09/134/locandina.jpg",
+    "actors": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee"
+    ],
+    "director": "Bryan Singer",
+    "id": "bohemianrhapsody-2018",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Elvis",
+    "slug": "biography-elvis-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2019/08/035/locandina.jpg",
+    "actors": [
+      "Austin Butler",
+      "Tom Hanks",
+      "Olivia DeJonge"
+    ],
+    "director": "Baz Luhrmann",
+    "id": "elvis-2022",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "slug": "biography-the-social-network-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/12/007/locandina.jpg",
+    "actors": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "director": "David Fincher",
+    "id": "thesocialnetwork-2010",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "The Founder",
+    "slug": "biography-the-founder-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2016/03/235/locandina.jpg",
+    "actors": [
+      "Michael Keaton",
+      "Nick Offerman",
+      "John Carroll Lynch"
+    ],
+    "director": "John Lee Hancock",
+    "id": "thefounder-2016",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "La teoria del tutto",
+    "slug": "biography-la-teoria-del-tutto-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2014/08/022/locandina.jpg",
+    "actors": [
+      "Eddie Redmayne",
+      "Felicity Jones",
+      "Charlie Cox"
+    ],
+    "director": "James Marsh",
+    "id": "lateoriadeltutto-2014",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Ali",
+    "slug": "biography-ali-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2002/03/001/locandina.jpg",
+    "actors": [
+      "Will Smith",
+      "Jamie Foxx",
+      "Jon Voight"
+    ],
+    "director": "Michael Mann",
+    "id": "ali-2001",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Air",
+    "slug": "biography-air-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2023/01/204/locandinapg1.jpg",
+    "actors": [
+      "Matt Damon",
+      "Ben Affleck",
+      "Viola Davis"
+    ],
+    "director": "Ben Affleck",
+    "id": "air-2023",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Sully",
+    "slug": "biography-sully-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2016/04/251/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Aaron Eckhart",
+      "Laura Linney"
+    ],
+    "director": "Clint Eastwood",
+    "id": "sully-2016",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Gotti",
+    "slug": "crime-gotti-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2017/09/188/locandina.jpg",
+    "actors": [
+      "John Travolta",
+      "Kelly Preston",
+      "Spencer Rocco Lofranco"
+    ],
+    "director": "Kevin Connolly",
+    "id": "gotti-2018",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Rocketman",
+    "slug": "biography-rocketman-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2018/09/166/locandina.jpg",
+    "actors": [
+      "Taron Egerton",
+      "Jamie Bell",
+      "Richard Madden"
+    ],
+    "director": "Dexter Fletcher",
+    "id": "rocketman-2019",
+    "genres": [
+      "Biography"
+    ]
+  },
+  {
+    "title": "Shrek",
+    "slug": "cartoon-shrek-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/05/033/locandinapg1.jpg",
+    "actors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "director": "Andrew Adamson",
+    "id": "shrek-2001",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Shrek 2",
+    "slug": "cartoon-shrek-2-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2006/05/047/locandina.jpg",
+    "actors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "director": "Andrew Adamson",
+    "id": "shrek2-2004",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "La città incantata",
+    "slug": "cartoon-la-citta-incantata-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2003/04/021/locandina.jpg",
+    "actors": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "director": "Hayao Miyazaki",
+    "id": "lacittaincantata-2001",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Up",
+    "slug": "cartoon-up-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2008/07/070/locandina.jpg",
+    "actors": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "Christopher Plummer"
+    ],
+    "director": "Pete Docter",
+    "id": "up-2009",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Scooby-Doo",
+    "slug": "cartoon-scooby-doo-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2002/06/031/locandina.jpg",
+    "actors": [
+      "Freddie Prinze Jr.",
+      "Sarah Michelle Gellar",
+      "Matthew Lillard"
+    ],
+    "director": "Raja Gosnell",
+    "id": "scoobydoo-2002",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Scooby-Doo 2",
+    "slug": "cartoon-scooby-doo-2-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/04/013/locandina.jpg",
+    "actors": [
+      "Freddie Prinze Jr.",
+      "Sarah Michelle Gellar",
+      "Matthew Lillard"
+    ],
+    "director": "Raja Gosnell",
+    "id": "scoobydoo2-2004",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "I Simpson - Il film",
+    "slug": "cartoon-i-simpson-il-film-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/153/locandina.jpg",
+    "actors": [
+      "Dan Castellaneta",
+      "Julie Kavner",
+      "Nancy Cartwright"
+    ],
+    "director": "David Silverman",
+    "id": "isimpsonilfilm-2007",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Monster House",
+    "slug": "cartoon-monster-house-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/03/410/locandina.jpg",
+    "actors": [
+      "Mitchel Musso",
+      "Sam Lerner",
+      "Spencer Locke"
+    ],
+    "director": "Gil Kenan",
+    "id": "monsterhouse-2006",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Totò Sapore e la magica storia della pizza",
+    "slug": "cartoon-toto-sapore-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/12/009/locandina.jpg",
+    "actors": [
+      "Gabriele Cirilli",
+      "Gigi Finizio",
+      "Giuliana Lojodice"
+    ],
+    "director": "Maurizio Forestieri",
+    "id": "totosaporeelamagicastoriadellapizza-2003",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Monster & Co.",
+    "slug": "cartoon-monster-and-co-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2002/03/016/locandina.jpg",
+    "actors": [
+      "John Goodman",
+      "Billy Crystal",
+      "Steve Buscemi"
+    ],
+    "director": "Pete Docter",
+    "id": "monsterco-2001",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Toy Story",
+    "slug": "cartoon-toy-story-1995",
+    "year": 1995,
+    "poster": "https://i.ebayimg.com/images/g/IsUAAOSw3L9fx0kv/s-l1200.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "director": "John Lasseter",
+    "id": "toystory-1995",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Toy Story 2",
+    "slug": "cartoon-toy-story-2-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2004/09/071/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "director": "John Lasseter",
+    "id": "toystory2-1999",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Toy Story 3",
+    "slug": "cartoon-toy-story-3-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2007/02/135/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "director": "Lee Unkrich",
+    "id": "toystory3-2010",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Toy Story 4",
+    "slug": "cartoon-toy-story-4-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2011/07/059/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts"
+    ],
+    "director": "Josh Cooley",
+    "id": "toystory4-2019",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Cars",
+    "slug": "cartoon-cars-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2005/08/028/locandina.jpg",
+    "actors": [
+      "Owen Wilson",
+      "Paul Newman",
+      "Bonnie Hunt"
+    ],
+    "director": "John Lasseter",
+    "id": "cars-2006",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Alla ricerca di Nemo",
+    "slug": "cartoon-alla-ricerca-di-nemo-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/12/003/locandina.jpg",
+    "actors": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "director": "Andrew Stanton",
+    "id": "allaricercadinemo-2003",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "slug": "cartoon-ratatouille-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/071/locandina.jpg",
+    "actors": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano"
+    ],
+    "director": "Brad Bird",
+    "id": "ratatouille-2007",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Gli Incredibili",
+    "slug": "cartoon-gli-incredibili-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/07/024/locandina.jpg",
+    "actors": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ],
+    "director": "Brad Bird",
+    "id": "gliincredibili-2004",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Madagascar",
+    "slug": "cartoon-madagascar-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/05/064/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Chris Rock",
+      "Jada Pinkett Smith"
+    ],
+    "director": "Eric Darnell & Tom McGrath",
+    "id": "madagascar-2005",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Madagascar 2",
+    "slug": "cartoon-madagascar-2008",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2007/02/236/locandina.jpg",
+    "actors": [
+      "Ben Stiller",
+      "Chris Rock",
+      "Tom McGrath"
+    ],
+    "director": "Eric Darnell & Tom McGrath",
+    "id": "madagascar2-2005",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Happy Feet",
+    "slug": "cartoon-happy-feet-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/197/locandina.jpg",
+    "actors": [
+      "Elijah Wood",
+      "Robin Williams",
+      "Brittany Murphy"
+    ],
+    "director": "George Miller",
+    "id": "happyfeet-2006",
+    "genres": [
+      "Cartoon"
+    ]
+  },
+  {
+    "title": "Lonely Hearts",
+    "slug": "crime-lonely-hearts-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2005/07/092/locandina.jpg",
+    "actors": [
+      "John Travolta",
+      "James Gandolfini",
+      "Salma Hayek"
+    ],
+    "director": "Todd Robinson",
+    "id": "lonelyhearts-2006",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Deja Vu",
+    "slug": "crime-deja-vu-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/10/132/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Val Kilmer",
+      "Jim Caviezel"
+    ],
+    "director": "Tony Scott",
+    "id": "dejavu-2006",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Heat - La sfida",
+    "slug": "crime-heat-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2006/09/203/locandina.jpg",
+    "actors": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Val Kilmer"
+    ],
+    "director": "Michael Mann",
+    "id": "heatlasfida-1995",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Donnie Brasco",
+    "slug": "crime-donnie-brasco-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/331/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Al Pacino",
+      "Michael Madsen"
+    ],
+    "director": "Mike Newell",
+    "id": "donniebrasco-1997",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "slug": "crime-pulp-fiction-1994",
+    "year": 1994,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "actors": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "pulpfiction-1994",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Casinò",
+    "slug": "crime-casino-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/315/locandina.jpg",
+    "actors": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci"
+    ],
+    "director": "Martin Scorsese",
+    "id": "casino-1995",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Le Iene",
+    "slug": "crime-le-iene-1992",
+    "year": 1992,
+    "poster": "https://pad.mymovies.it/filmclub/2006/01/251/locandina.jpg",
+    "actors": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Steve Buscemi"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "leiene-1992",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Seven",
+    "slug": "crime-seven-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/218/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow"
+    ],
+    "director": "David Fincher",
+    "id": "seven-1995",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Gone Baby Gone",
+    "slug": "crime-gone-baby-gone-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/07/116/locandina.jpg",
+    "actors": [
+      "Casey Affleck",
+      "Michelle Monaghan",
+      "Ed Harris"
+    ],
+    "director": "Ben Affleck",
+    "id": "gonebabygone-2007",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Pride and Glory",
+    "slug": "crime-pride-and-glory-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/01/048/locandina.jpg",
+    "actors": [
+      "Edward Norton",
+      "Colin Farrell",
+      "Jon Voight"
+    ],
+    "director": "Gavin O'Connor",
+    "id": "prideandglory-2008",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "The Departed",
+    "slug": "crime-the-departed-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/199/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "director": "Martin Scorsese",
+    "id": "thedeparted-2006",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "The Gentlemen",
+    "slug": "crime-the-gentlemen-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2019/07/031/locandina.jpg",
+    "actors": [
+      "Matthew McConaughey",
+      "Charlie Hunnam",
+      "Colin Farrell"
+    ],
+    "director": "Guy Ritchie",
+    "id": "thegentlemen-2019",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "La 25ª ora",
+    "slug": "crime-la-25a-ora-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2003/02/021/locandina.jpg",
+    "actors": [
+      "Edward Norton",
+      "Philip Seymour Hoffman",
+      "Barry Pepper"
+    ],
+    "director": "Spike Lee",
+    "id": "la25ora-2002",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Prova a prendermi",
+    "slug": "crime-prova-a-prendermi-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2003/01/029/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "director": "Steven Spielberg",
+    "id": "provaaprendermi-2002",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Blood Diamond",
+    "slug": "crime-blood-diamond-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/10/129/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Djimon Hounsou",
+      "Jennifer Connelly"
+    ],
+    "director": "Edward Zwick",
+    "id": "blooddiamond-2006",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "slug": "drama-killers-of-the-flower-moon-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2017/09/129/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Robert De Niro",
+      "Lily Gladstone"
+    ],
+    "director": "Martin Scorsese",
+    "id": "killersoftheflowermoon-2023",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Nessuna verità",
+    "slug": "crime-nessuna-verita-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/03/046/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Russell Crowe",
+      "Mark Strong"
+    ],
+    "director": "Ridley Scott",
+    "id": "nessunaverita-2008",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Il fuoco della vendetta",
+    "slug": "action-il-fuoco-della-vendetta-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2012/04/043/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Dakota Fanning",
+      "Christopher Walken"
+    ],
+    "director": "Tony Scott",
+    "id": "ilfuocodellavendetta-2004",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Ocean's Eleven",
+    "slug": "crime-oceans-eleven-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/12/008/locandina.jpg",
+    "actors": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon"
+    ],
+    "director": "Steven Soderbergh",
+    "id": "oceanseleven-2001",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Ocean's Twelve",
+    "slug": "crime-oceans-twelve-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/12/006/locandinapg2.jpg",
+    "actors": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon"
+    ],
+    "director": "Steven Soderbergh",
+    "id": "oceanstwelve-2004",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Ocean's Thirteen",
+    "slug": "crime-oceans-thirteen-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/01/022/locandina.jpg",
+    "actors": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon"
+    ],
+    "director": "Steven Soderbergh",
+    "id": "oceansthirteen-2007",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Now You See Me - I maghi del crimine",
+    "slug": "crime-now-you-see-me-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2011/08/057/locandina.jpg",
+    "actors": [
+      "Jesse Eisenberg",
+      "Mark Ruffalo",
+      "Woody Harrelson"
+    ],
+    "director": "Louis Leterrier",
+    "id": "nowyouseemeimaghidelcrimine-2013",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Now You See Me 2",
+    "slug": "crime-now-you-see-me-2-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2015/01/172/locandina.jpg",
+    "actors": [
+      "Jesse Eisenberg",
+      "Mark Ruffalo",
+      "Daniel Radcliffe"
+    ],
+    "director": "Jon M. Chu",
+    "id": "nowyouseeme2-2016",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Il collezionista di ossa",
+    "slug": "crime-il-collezionista-di-ossa-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2006/07/187/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Angelina Jolie",
+      "Queen Latifah"
+    ],
+    "director": "Phillip Noyce",
+    "id": "ilcollezionistadiossa-1999",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Slevin - Patto criminale",
+    "slug": "crime-slevin-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/02/300/locandina.jpg",
+    "actors": [
+      "Josh Hartnett",
+      "Bruce Willis",
+      "Morgan Freeman"
+    ],
+    "director": "Paul McGuigan",
+    "id": "slevinpattocriminale-2006",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "American Gangster",
+    "slug": "crime-american-gangster-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/06/049/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Russell Crowe",
+      "Chiwetel Ejiofor"
+    ],
+    "director": "Ridley Scott",
+    "id": "americangangster-2007",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Il Padrino",
+    "slug": "crime-il-padrino-1972",
+    "year": 1972,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/056/locandina.jpg",
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "director": "Francis Ford Coppola",
+    "id": "ilpadrino-1972",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Il Padrino - Parte II",
+    "slug": "crime-il-padrino-2-1974",
+    "year": 1974,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/048/locandinapg3.jpg",
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Diane Keaton"
+    ],
+    "director": "Francis Ford Coppola",
+    "id": "ilpadrinoparteii-1974",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "C'era una volta in America",
+    "slug": "crime-cera-una-volta-in-america-1984",
+    "year": 1984,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/256/locandinapg1.jpg",
+    "actors": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern"
+    ],
+    "director": "Sergio Leone",
+    "id": "ceraunavoltainamerica-1984",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Jackie Brown",
+    "slug": "crime-jackie-brown-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/023/locandina.jpg",
+    "actors": [
+      "Pam Grier",
+      "Samuel L. Jackson",
+      "Robert De Niro"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "jackiebrown-1997",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "I Fratelli Sisters",
+    "slug": "crime-i-fratelli-sisters-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2017/02/090/locandina.jpg",
+    "actors": [
+      "Joaquin Phoenix",
+      "John C. Reilly",
+      "Jake Gyllenhaal"
+    ],
+    "director": "Jacques Audiard",
+    "id": "ifratellisisters-2018",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Out of Sight",
+    "slug": "crime-out-of-sight-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/021/locandina.jpg",
+    "actors": [
+      "George Clooney",
+      "Jennifer Lopez",
+      "Ving Rhames"
+    ],
+    "director": "Steven Soderbergh",
+    "id": "outofsight-1998",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Taxi Driver",
+    "slug": "crime-taxi-driver-1976",
+    "year": 1976,
+    "poster": "https://pad.mymovies.it/filmclub/2004/51/032/locandinapg1.jpg",
+    "actors": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Harvey Keitel"
+    ],
+    "director": "Martin Scorsese",
+    "id": "taxidriver-1976",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Nella giungla di cemento",
+    "slug": "crime-nella-giungla-di-cemento-1993",
+    "year": 1993,
+    "poster": "https://pad.mymovies.it/filmclub/2001/10/050/locandina.jpg",
+    "actors": [
+      "Tyrin Turner",
+      "Larenz Tate",
+      "Jada Pinkett Smith"
+    ],
+    "director": "Allen Hughes, Albert Hughes",
+    "id": "nellagiungladicemento-1993",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Scarface",
+    "slug": "crime-scarface-1983",
+    "year": 1983,
+    "poster": "https://pad.mymovies.it/filmclub/2006/02/135/locandinapg1.jpg",
+    "actors": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer"
+    ],
+    "director": "Brian De Palma",
+    "id": "scarface-1983",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Prisoners",
+    "slug": "crime-prisoners-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2013/05/199/locandina.jpg",
+    "actors": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Paul Dano"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "prisoners-2013",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "End of Watch",
+    "slug": "crime-end-of-watch-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/001/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Michael Peña",
+      "Anna Kendrick"
+    ],
+    "director": "David Ayer",
+    "id": "endofwatch-2012",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Pelham 123",
+    "slug": "crime-pelham-123-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/02/042/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "John Travolta",
+      "Luis Guzmán"
+    ],
+    "director": "Tony Scott",
+    "id": "pelham123-2009",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Inside Man",
+    "slug": "crime-inside-man-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/01/077/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Clive Owen",
+      "Jodie Foster"
+    ],
+    "director": "Spike Lee",
+    "id": "insideman-2006",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Bronson",
+    "slug": "crime-bronson-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2009/03/130/locandina.jpg",
+    "actors": [
+      "Tom Hardy",
+      "Matt King",
+      "James Lance"
+    ],
+    "director": "Nicolas Winding Refn",
+    "id": "bronson-2008",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "I soliti sospetti",
+    "slug": "crime-i-soliti-sospetti-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2006/01/038/locandina.jpg",
+    "actors": [
+      "Kevin Spacey, Benicio Del Toro, Gabriel Byrne"
+    ],
+    "director": "Bryan Singer",
+    "id": "isolitisospetti-1995",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "La promessa",
+    "slug": "crime-la-promessa-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/089/locandina.jpg",
+    "actors": [
+      "Jack Nicholson",
+      "Robin Wright",
+      "Aaron Eckhart"
+    ],
+    "director": "Sean Penn",
+    "id": "lapromessa-2001",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Sicario",
+    "slug": "crime-sicario-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2015/05/023/locandinapg4.jpg",
+    "actors": [
+      "Emily Blunt",
+      "Benicio del Toro",
+      "Josh Brolin"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "sicario-2015",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Soldado",
+    "slug": "crime-soldado-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2016/11/256/locandina.jpg",
+    "actors": [
+      "Benicio del Toro",
+      "Josh Brolin",
+      "Isabela Merced"
+    ],
+    "director": "Stefano Sollima",
+    "id": "soldado-2018",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Sin City",
+    "slug": "crime-sin-city-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/05/015/locandina.jpg",
+    "actors": [
+      "Mickey Rourke",
+      "Clive Owen",
+      "Bruce Willis"
+    ],
+    "director": "Robert Rodriguez, Frank Miller",
+    "id": "sincity-2005",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Collateral",
+    "slug": "crime-collateral-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/08/001/locandina.jpg",
+    "actors": [
+      "Tom Cruise",
+      "Jamie Foxx",
+      "Jada Pinkett Smith"
+    ],
+    "director": "Michael Mann",
+    "id": "collateral-2004",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Four Brothers",
+    "slug": "crime-four-brothers-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/07/122/locandina.jpg",
+    "actors": [
+      "Mark Wahlberg",
+      "Tyrese Gibson",
+      "André Benjamin"
+    ],
+    "director": "John Singleton",
+    "id": "fourbrothers-2005",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Shaft",
+    "slug": "crime-shaft-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2017/11/241/locandina.jpg",
+    "actors": [
+      "Samuel L. Jackson",
+      "Vanessa Williams",
+      "Christian Bale"
+    ],
+    "director": "John Singleton",
+    "id": "shaft-2000",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Le belve",
+    "slug": "crime-le-belve-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2010/03/056/locandina.jpg",
+    "actors": [
+      "Taylor Kitsch",
+      "Aaron Taylor-Johnson",
+      "Blake Lively"
+    ],
+    "director": "Oliver Stone",
+    "id": "lebelve-2012",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Blow",
+    "slug": "crime-blow-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/09/011/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Jordi Mollà"
+    ],
+    "director": "Ted Demme",
+    "id": "blow-2001",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Escobar - Il fascino del male",
+    "slug": "crime-escobar-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2016/09/044/locandina.jpg",
+    "actors": [
+      "Javier Bardem",
+      "Penélope Cruz",
+      "Peter Sarsgaard"
+    ],
+    "director": "Fernando León de Aranoa",
+    "id": "escobarilfascinodelmale-2017",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Capone",
+    "slug": "crime-capone-2020",
+    "year": 2020,
+    "poster": "https://pad.mymovies.it/filmclub/2016/10/160/locandina.jpg",
+    "actors": [
+      "Tom Hardy",
+      "Linda Cardellini",
+      "Kyle MacLachlan"
+    ],
+    "director": "Josh Trank",
+    "id": "capone-2020",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Oxford Murders - Teorema di un delitto",
+    "slug": "crime-oxford-murders-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/09/031/locandina.jpg",
+    "actors": [
+      "Elijah Wood",
+      "John Hurt",
+      "Leonor Watling"
+    ],
+    "director": "Álex de la Iglesia",
+    "id": "oxfordmurdersteoremadiundelitto-2008",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "title": "Il Pianista",
+    "slug": "drama-il-pianista-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2002/05/034/locandina.jpg",
+    "actors": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Emilia Fox"
+    ],
+    "director": "Roman Polanski",
+    "id": "ilpianista-2002",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Animali Notturni",
+    "slug": "drama-animali-notturni-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2016/07/129/locandina.jpg",
+    "actors": [
+      "Amy Adams",
+      "Jake Gyllenhaal",
+      "Michael Shannon"
+    ],
+    "director": "Tom Ford",
+    "id": "animalinotturni-2016",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Le ali della libertà",
+    "slug": "drama-le-ali-della-liberta-1994",
+    "year": 1994,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/151/locandina.jpg",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "director": "Frank Darabont",
+    "id": "lealidellaliberta-1994",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Schindler's List",
+    "slug": "historical-schindlers-list-1993",
+    "year": 1993,
+    "poster": "https://www.ibs.it/images/9788893420334_0_0_536_0_75.jpg",
+    "actors": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes"
+    ],
+    "director": "Steven Spielberg",
+    "id": "schindlerslist-1993",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Sleepers",
+    "slug": "drama-sleepers-1996",
+    "year": 1996,
+    "poster": "https://pad.mymovies.it/filmclub/2006/02/413/locandina.jpg",
+    "actors": [
+      "Kevin Bacon",
+      "Brad Pitt",
+      "Robert De Niro"
+    ],
+    "director": "Barry Levinson",
+    "id": "sleepers-1996",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Truman Show",
+    "slug": "drama-the-truman-show-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2003/11/506/immpg2.jpg",
+    "actors": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "director": "Peter Weir",
+    "id": "thetrumanshow-1998",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Gran Torino",
+    "slug": "drama-gran-torino-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/10/127/locandina.jpg",
+    "actors": [
+      "Clint Eastwood",
+      "Bee Vang",
+      "Ahney Her"
+    ],
+    "director": "Clint Eastwood",
+    "id": "grantorino-2008",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Boogie Nights - L'altra Hollywood",
+    "slug": "drama-boogie-nights-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2006/05/276/locandina.jpg",
+    "actors": [
+      "Mark Wahlberg",
+      "Julianne Moore",
+      "Burt Reynolds"
+    ],
+    "director": "Paul Thomas Anderson",
+    "id": "boogienightslaltrahollywood-1997",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Mystic River",
+    "slug": "drama-mystic-river-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/05/035/locandina.jpg",
+    "actors": [
+      "Sean Penn",
+      "Tim Robbins",
+      "Kevin Bacon"
+    ],
+    "director": "Clint Eastwood",
+    "id": "mysticriver-2003",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Frankenstein",
+    "slug": "drama-frankenstein-2025",
+    "year": 2025,
+    "poster": "https://pad.mymovies.it/filmclub/2025/06/001/locandinapg2.jpg",
+    "actors": [
+      "Jacob Elordi",
+      "Mia Goth",
+      "Oscar Isaac"
+    ],
+    "director": "Guillermo del Toro",
+    "id": "frankenstein-2025",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Collateral Beauty",
+    "slug": "drama-collateral-beauty-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2016/09/028/locandina.jpg",
+    "actors": [
+      "Will Smith",
+      "Edward Norton",
+      "Kate Winslet"
+    ],
+    "director": "David Frankel",
+    "id": "collateralbeauty-2016",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Basketball Diaries",
+    "slug": "drama-the-basketball-diaries-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2007/21/539/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Mark Wahlberg",
+      "Lorraine Bracco"
+    ],
+    "director": "Scott Kalvert",
+    "id": "thebasketballdiaries-1995",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Buon compleanno Mr. Grape",
+    "slug": "drama-buon-compleanno-mr-grape-1993",
+    "year": 1993,
+    "poster": "https://pad.mymovies.it/filmclub/2001/04/056/locandinapg1.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Leonardo DiCaprio",
+      "Juliette Lewis"
+    ],
+    "director": "Lasse Hallström",
+    "id": "buoncompleannomrgrape-1993",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Beach",
+    "slug": "drama-the-beach-2000",
+    "year": 2000,
+    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/3092.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Virginie Ledoyen",
+      "Guillaume Canet"
+    ],
+    "director": "Danny Boyle",
+    "id": "thebeach-2000",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "La maschera di ferro",
+    "slug": "drama-la-maschera-di-ferro-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2001/10/007/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Jeremy Irons",
+      "John Malkovich"
+    ],
+    "director": "Randall Wallace",
+    "id": "lamascheradiferro-1998",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "C'era una volta a... Hollywood",
+    "slug": "drama-hollywood-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2018/06/020/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "ceraunavoltaahollywood-2019",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Joker",
+    "slug": "drama-joker-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2018/06/066/locandina.jpg",
+    "actors": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "director": "Todd Phillips",
+    "id": "joker-2019",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "A Beautiful Mind",
+    "slug": "drama-a-beautiful-mind-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2002/02/014/locandina.jpg",
+    "actors": [
+      "Russell Crowe",
+      "Jennifer Connelly",
+      "Ed Harris"
+    ],
+    "director": "Ron Howard",
+    "id": "abeautifulmind-2001",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Patch Adams",
+    "slug": "drama-patch-adams-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2007/01/164/locandina.jpg",
+    "actors": [
+      "Robin Williams",
+      "Monica Potter",
+      "Philip Seymour Hoffman"
+    ],
+    "director": "Tom Shadyac",
+    "id": "patchadams-1998",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Million Dollar Baby",
+    "slug": "drama-million-dollar-baby-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2005/02/043/locandina.jpg",
+    "actors": [
+      "Clint Eastwood",
+      "Hilary Swank",
+      "Morgan Freeman"
+    ],
+    "director": "Clint Eastwood",
+    "id": "milliondollarbaby-2004",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Fighter",
+    "slug": "drama-the-fighter-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/04/165/locandina.jpg",
+    "actors": [
+      "Mark Wahlberg",
+      "Christian Bale",
+      "Amy Adams"
+    ],
+    "director": "David O. Russell",
+    "id": "thefighter-2010",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Brothers",
+    "slug": "drama-brothers-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/07/081/locandina.jpg",
+    "actors": [
+      "Tobey Maguire",
+      "Jake Gyllenhaal",
+      "Natalie Portman"
+    ],
+    "director": "Jim Sheridan",
+    "id": "brothers-2009",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Warrior",
+    "slug": "drama-warrior-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2011/01/010/locandina.jpg",
+    "actors": [
+      "Tom Hardy",
+      "Joel Edgerton",
+      "Nick Nolte"
+    ],
+    "director": "Gavin O'Connor",
+    "id": "warrior-2011",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Non è mai troppo tardi",
+    "slug": "drama-non-e-mai-troppo-tardi-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/12/037/locandina.jpg",
+    "actors": [
+      "Morgan Freeman",
+      "Jack Nicholson",
+      "Sean Hayes"
+    ],
+    "director": "Rob Reiner",
+    "id": "nonemaitroppotardi-2007",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Emancipation",
+    "slug": "drama-emancipation-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2022/10/010/locandina.jpg",
+    "actors": [
+      "Will Smith",
+      "Ben Foster",
+      "Charmaine Bingwa"
+    ],
+    "director": "Antoine Fuqua",
+    "id": "emancipation-2022",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "slug": "drama-forrest-gump-1994",
+    "year": 1994,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/130/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "director": "Robert Zemeckis",
+    "id": "forrestgump-1994",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "slug": "drama-the-great-gatsby-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2010/11/083/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tobey Maguire",
+      "Carey Mulligan"
+    ],
+    "director": "Baz Luhrmann",
+    "id": "thegreatgatsby-2013",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "L'Avvocato del Diavolo",
+    "slug": "drama-lavvocato-del-diavolo-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/227/locandina.jpg",
+    "actors": [
+      "Keanu Reeves",
+      "Al Pacino",
+      "Charlize Theron"
+    ],
+    "director": "Taylor Hackford",
+    "id": "lavvocatodeldiavolo-1997",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Leon",
+    "slug": "drama-leon-1994",
+    "year": 1994,
+    "poster": "https://pad.mymovies.it/filmclub/2008/06/082/locandina.jpg",
+    "actors": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman"
+    ],
+    "director": "Luc Besson",
+    "id": "leon-1994",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Sweeney Todd: Il diabolico barbiere di Fleet Street",
+    "slug": "drama-sweeney-todd-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/08/087/locandina.jpg",
+    "actors": [
+      "Johnny Depp",
+      "Helena Bonham Carter",
+      "Alan Rickman"
+    ],
+    "director": "Tim Burton",
+    "id": "sweeneytoddildiabolicobarbieredifleetstreet-2007",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Salvate il Soldato Ryan",
+    "slug": "drama-salvate-il-soldato-ryan-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2006/01/051/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "director": "Steven Spielberg",
+    "id": "salvateilsoldatoryan-1998",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "House of Gucci",
+    "slug": "drama-house-of-gucci-2021",
+    "year": 2021,
+    "poster": "https://pad.mymovies.it/filmclub/2019/11/059/locandina.jpg",
+    "actors": [
+      "Lady Gaga",
+      "Adam Driver",
+      "Al Pacino"
+    ],
+    "director": "Ridley Scott",
+    "id": "houseofgucci-2021",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Last Duel",
+    "slug": "drama-the-last-duel-2021",
+    "year": 2021,
+    "poster": "https://pad.mymovies.it/filmclub/2019/09/049/locandinapg1.jpg",
+    "actors": [
+      "Matt Damon",
+      "Adam Driver",
+      "Jodie Comer"
+    ],
+    "director": "Ridley Scott",
+    "id": "thelastduel-2021",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Silence",
+    "slug": "drama-silence-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/187/locandina.jpg",
+    "actors": [
+      "Andrew Garfield",
+      "Adam Driver",
+      "Liam Neeson"
+    ],
+    "director": "Martin Scorsese",
+    "id": "silence-2016",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "J. Edgar",
+    "slug": "drama-j-edgar-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/06/152/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Armie Hammer",
+      "Naomi Watts"
+    ],
+    "director": "Clint Eastwood",
+    "id": "jedgar-2011",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Demolition",
+    "slug": "drama-demolition-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2014/12/141/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Naomi Watts",
+      "Chris Cooper"
+    ],
+    "director": "Jean-Marc Vallée",
+    "id": "demolition-2015",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "12 anni schiavo",
+    "slug": "drama-12-anni-schiavo-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2011/08/071/locandina.jpg",
+    "actors": [
+      "Chiwetel Ejiofor",
+      "Michael Fassbender",
+      "Lupita Nyong'o"
+    ],
+    "director": "Steve McQueen",
+    "id": "12annischiavo-2013",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Green Book",
+    "slug": "drama-green-book-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2018/09/091/locandina.jpg",
+    "actors": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini"
+    ],
+    "director": "Peter Farrelly",
+    "id": "greenbook-2018",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Qualcuno volò sul nido del cuculo",
+    "slug": "drama-qualcuno-volo-sul-nido-del-cuculo-1975",
+    "year": 1975,
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/117/locandina.jpg",
+    "actors": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Danny DeVito"
+    ],
+    "director": "Miloš Forman",
+    "id": "qualcunovolosulnidodelcuculo-1975",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Match Point",
+    "slug": "drama-match-point-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/05/033/locandinapg6.jpg",
+    "actors": [
+      "Jonathan Rhys Meyers",
+      "Scarlett Johansson",
+      "Emily Mortimer"
+    ],
+    "director": "Woody Allen",
+    "id": "matchpoint-2005",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Il curioso caso di Benjamin Button",
+    "slug": "drama-benjamin-button-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/05/097/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Taraji P. Henson"
+    ],
+    "director": "David Fincher",
+    "id": "ilcuriosocasodibenjaminbutton-2008",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Oliver Twist",
+    "slug": "drama-oliver-twist-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/06/038/Locandina.jpg",
+    "actors": [
+      "Barney Clark",
+      "Ben Kingsley",
+      "Leanne Rowe"
+    ],
+    "director": "Roman Polanski",
+    "id": "olivertwist-2005",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "8 Mile",
+    "slug": "drama-8-mile-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2003/03/010/imm.jpg",
+    "actors": [
+      "Eminem",
+      "Mekhi Phifer",
+      "Brittany Murphy"
+    ],
+    "director": "Curtis Hanson",
+    "id": "8mile-2002",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Come un tuono",
+    "slug": "drama-come-un-tuono-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/095/locandinapg4.jpg",
+    "actors": [
+      "Ryan Gosling",
+      "Bradley Cooper",
+      "Eva Mendes"
+    ],
+    "director": "Derek Cianfrance",
+    "id": "comeuntuono-2012",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Quasi Amici",
+    "slug": "drama-quasi-amici-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2011/11/230/locandina.jpg",
+    "actors": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "director": "Olivier Nakache & Éric Toledano",
+    "id": "quasiamici-2011",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Il diavolo veste Prada",
+    "slug": "drama-il-diavolo-veste-prada-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/05/380/locandina.jpg",
+    "actors": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt"
+    ],
+    "director": "David Frankel",
+    "id": "ildiavolovesteprada-2006",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Don Jon",
+    "slug": "drama-don-jon-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2012/12/025/locandina.jpg",
+    "actors": [
+      "Joseph Gordon-Levitt",
+      "Scarlett Johansson",
+      "Julianne Moore"
+    ],
+    "director": "Joseph Gordon-Levitt",
+    "id": "donjon-2013",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Cast Away",
+    "slug": "drama-cast-away-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2001/01/005/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Helen Hunt",
+      "Nick Searcy"
+    ],
+    "director": "Robert Zemeckis",
+    "id": "castaway-2000",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Il miglio verde",
+    "slug": "drama-il-miglio-verde-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2006/04/439/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "director": "Frank Darabont",
+    "id": "ilmiglioverde-1999",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Others",
+    "slug": "drama-the-others-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2001/08/027/locandina.jpg",
+    "actors": [
+      "Nicole Kidman",
+      "Christopher Eccleston",
+      "Alakina Mann"
+    ],
+    "director": "Alejandro Amenábar",
+    "id": "theothers-2001",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Derailed",
+    "slug": "crime-derailed-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/10/086/Locandina.jpg",
+    "actors": [
+      "Clive Owen",
+      "Jennifer Aniston",
+      "Vincent Cassel"
+    ],
+    "director": "Mikael Håfström",
+    "id": "derailed-2005",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Wrestler",
+    "slug": "drama-the-wrestler-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/07/106/locandina.jpg",
+    "actors": [
+      "Mickey Rourke",
+      "Marisa Tomei",
+      "Evan Rachel Wood"
+    ],
+    "director": "Darren Aronofsky",
+    "id": "thewrestler-2008",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Batman Begins",
+    "slug": "action-batman-begins-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2004/08/003/locandinapg6.jpg",
+    "actors": [
+      "Christian Bale",
+      "Katie Holmes",
+      "Cillian Murphy"
+    ],
+    "director": "Christopher Nolan",
+    "id": "batmanbegins-2005",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Il cavaliere oscuro",
+    "slug": "action-il-cavaliere-oscuro-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/02/131/locandina.jpg",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "id": "ilcavaliereoscuro-2008",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Il cavaliere oscuro - Il ritorno",
+    "slug": "action-il-cavaliere-oscuro-il-ritorno-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2010/07/191/locandina.jpg",
+    "actors": [
+      "Christian Bale",
+      "Joseph G.Levitt",
+      "Anne Hathaway"
+    ],
+    "director": "Christopher Nolan",
+    "id": "ilcavaliereoscuroilritorno-2012",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Iron Man",
+    "slug": "heroes-iron-man-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/02/234/locandina.jpg",
+    "actors": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Jeff Bridges"
+    ],
+    "director": "Jon Favreau",
+    "id": "ironman-2008",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Iron Man 2",
+    "slug": "heroes-iron-man-2-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2008/12/128/locandina.jpg",
+    "actors": [
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Don Cheadle"
+    ],
+    "director": "Jon Favreau",
+    "id": "ironman2-2010",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Iron Man 3",
+    "slug": "heroes-iron-man-3-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2012/06/004/locandina.jpg",
+    "actors": [
+      "Robert Downey Jr.",
+      "Guy Pearce",
+      "Gwyneth Paltrow"
+    ],
+    "director": "Shane Black",
+    "id": "ironman3-2013",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Spider-Man",
+    "slug": "heroes-spider-man-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2002/06/001/locandinapg1.jpg",
+    "actors": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "Willem Dafoe"
+    ],
+    "director": "Sam Raimi",
+    "id": "spiderman-2002",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Spider-Man 2",
+    "slug": "heroes-spider-man-2-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/07/006/locandina.jpg",
+    "actors": [
+      "Tobey Maguire",
+      "Alfred Molina",
+      "Kirsten Dunst"
+    ],
+    "director": "Sam Raimi",
+    "id": "spiderman2-2004",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Spider-Man 3",
+    "slug": "heroes-spider-man-3-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2006/03/412/locandina.jpg",
+    "actors": [
+      "Tobey Maguire",
+      "Thomas Haden Church",
+      "James Franco"
+    ],
+    "director": "Sam Raimi",
+    "id": "spiderman3-2007",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "The Amazing Spider-Man",
+    "slug": "heroes-the-amazing-spider-man-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2009/03/117/locandinapg14.jpg",
+    "actors": [
+      "Andrew Garfield",
+      "Emma Stone",
+      "Rhys Ifans"
+    ],
+    "director": "Marc Webb",
+    "id": "theamazingspiderman-2012",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "slug": "heroes-the-amazing-spider-man-2-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2012/04/139/locandina.jpg",
+    "actors": [
+      "Andrew Garfield",
+      "Emma Stone",
+      "Jamie Foxx"
+    ],
+    "director": "Marc Webb",
+    "id": "theamazingspiderman2-2014",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "slug": "heroes-spider-man-homecoming-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2015/02/070/locandina.jpg",
+    "actors": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Zendaya"
+    ],
+    "director": "Jon Watts",
+    "id": "spidermanhomecoming-2017",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "slug": "heroes-spider-man-far-from-home-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2018/12/052/locandina.jpg",
+    "actors": [
+      "Tom Holland",
+      "Jake Gyllenhaal",
+      "Zendaya"
+    ],
+    "director": "Jon Watts",
+    "id": "spidermanfarfromhome-2019",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "slug": "heroes-spider-man-no-way-home-2021",
+    "year": 2021,
+    "poster": "https://pad.mymovies.it/filmclub/2020/11/035/locandinapg1.jpg",
+    "actors": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "director": "Jon Watts",
+    "id": "spidermannowayhome-2021",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Thor",
+    "slug": "heroes-thor-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2009/01/003/locandinapg7.jpg",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston"
+    ],
+    "director": "Kenneth Branagh",
+    "id": "thor-2011",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Thor: The Dark World",
+    "slug": "heroes-thor-the-dark-world-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/269/locandina.jpg",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston"
+    ],
+    "director": "Alan Taylor",
+    "id": "thorthedarkworld-2013",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "slug": "heroes-thor-ragnarok-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2015/02/074/locandina.jpg",
+    "actors": [
+      "Chris Hemsworth",
+      "Tessa Thompson",
+      "Mark Ruffalo"
+    ],
+    "director": "Taika Waititi",
+    "id": "thorragnarok-2017",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "slug": "heroes-thor-love-and-thunder-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2019/07/214/locandinapg1.jpg",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Christian Bale"
+    ],
+    "director": "Taika Waititi",
+    "id": "thorloveandthunder-2022",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "The Batman",
+    "slug": "heroes-the-batman-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2016/04/093/locandinapg1.jpg",
+    "actors": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano"
+    ],
+    "director": "Matt Reeves",
+    "id": "thebatman-2022",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Guardiani della Galassia",
+    "slug": "heroes-guardiani-della-galassia-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2012/07/018/locandina.jpg",
+    "actors": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista"
+    ],
+    "director": "James Gunn",
+    "id": "guardianidellagalassia-2014",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Guardiani della Galassia Vol. 2",
+    "slug": "heroes-guardiani-della-galassia-2-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2016/10/101/locandina.jpg",
+    "actors": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Kurt Russell"
+    ],
+    "director": "James Gunn",
+    "id": "guardianidellagalassiavol2-2017",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Guardiani della Galassia Vol. 3",
+    "slug": "heroes-guardiani-della-galassia-3-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2019/05/051/locandinapg1.jpg",
+    "actors": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista"
+    ],
+    "director": "James Gunn",
+    "id": "guardianidellagalassiavol3-2023",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Deadpool",
+    "slug": "heroes-deadpool-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2009/06/131/locandina.jpg",
+    "actors": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "Ed Skrein"
+    ],
+    "director": "Tim Miller",
+    "id": "deadpool-2016",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Deadpool 2",
+    "slug": "heroes-deadpool-2-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2016/11/201/locandina.jpg",
+    "actors": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Zazie Beetz"
+    ],
+    "director": "David Leitch",
+    "id": "deadpool2-2018",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "Deadpool 3",
+    "slug": "heroes-deadpool-3-2024",
+    "year": 2024,
+    "poster": "https://pad.mymovies.it/filmclub/2022/10/021/locandinapg1.jpg",
+    "actors": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Cassandra Nova"
+    ],
+    "director": "David Leitch",
+    "id": "deadpool3-2024",
+    "genres": [
+      "Heroes"
+    ]
+  },
+  {
+    "title": "1917",
+    "slug": "historical-1917-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2019/03/227/locandina.jpg",
+    "actors": [
+      "George MacKay",
+      "Dean C.Chapman",
+      "Colin Firth"
+    ],
+    "director": "Sam Mendes",
+    "id": "1917-2019",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Niente di nuovo sul fronte occidentale",
+    "slug": "historical-niente-di-nuovo-sul-fronte-occidentale-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2022/09/024/locandina.jpg",
+    "actors": [
+      "Felix Kammerer",
+      "Albrecht Schuch",
+      "Aaron Hilmer"
+    ],
+    "director": "Edward Berger",
+    "id": "nientedinuovosulfronteoccidentale-2022",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Operazione Valchiria",
+    "slug": "historical-operazione-valchiria-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/12/042/locandina.jpg",
+    "actors": [
+      "Tom Cruise",
+      "Kenneth Branagh",
+      "Bill Nighy"
+    ],
+    "director": "Bryan Singer",
+    "id": "operazionevalchiria-2008",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "The Imitation Game",
+    "slug": "historical-the-imitation-game-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2013/12/226/locandina.jpg",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode"
+    ],
+    "director": "Morten Tyldum",
+    "id": "theimitationgame-2014",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Fury",
+    "slug": "historical-fury-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2013/10/195/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Shia LaBeouf",
+      "Logan Lerman"
+    ],
+    "director": "David Ayer",
+    "id": "fury-2014",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "BlacKkKlansman",
+    "slug": "historical-blackkklansman-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2018/04/048/locandina.jpg",
+    "actors": [
+      "John David Washington",
+      "Adam Driver",
+      "Laura Harrier"
+    ],
+    "director": "Spike Lee",
+    "id": "blackkklansman-2018",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "slug": "historical-hacksaw-ridge-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2016/06/042/locandina.jpg",
+    "actors": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Teresa Palmer"
+    ],
+    "director": "Mel Gibson",
+    "id": "hacksawridge-2016",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Dunkirk",
+    "slug": "historical-dunkirk-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2016/08/023/locandina.jpg",
+    "actors": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Mark Rylance"
+    ],
+    "director": "Christopher Nolan",
+    "id": "dunkirk-2017",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Bastardi senza gloria",
+    "slug": "historical-bastardi-senza-gloria-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2008/10/105/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Michael Fassbender"
+    ],
+    "director": "Quentin Tarantino",
+    "id": "bastardisenzagloria-2009",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "L'Ultimo Samurai",
+    "slug": "historical-l-ultimo-samurai-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/12/018/locandina.jpg",
+    "actors": [
+      "Tom Cruise",
+      "Ken Watanabe",
+      "Billy Connolly"
+    ],
+    "director": "Edward Zwick",
+    "id": "lultimosamurai-2003",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "slug": "historical-zero-dark-thirty-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/08/066/locandina.jpg",
+    "actors": [
+      "Jessica Chastain",
+      "Jason Clarke",
+      "Kyle Chandler"
+    ],
+    "director": "Kathryn Bigelow",
+    "id": "zerodarkthirty-2012",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Il Patriota",
+    "slug": "historical-il-patriota-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2001/03/020/locandinapg1.jpg",
+    "actors": [
+      "Mel Gibson",
+      "Heath Ledger",
+      "Jason Isaacs"
+    ],
+    "director": "Roland Emmerich",
+    "id": "ilpatriota-2000",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Norimberga",
+    "slug": "historical-norimberga-2025",
+    "year": 2025,
+    "poster": "https://pad.mymovies.it/filmclub/2025/07/321/locandina.jpg",
+    "actors": [
+      "Russel Crowe",
+      "Rami Malek",
+      "Michael Shannon"
+    ],
+    "director": "James Vanderbilt",
+    "id": "norimberga-2025",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "Le Crociate - Kingdom of Heaven",
+    "slug": "historical-le-crociate-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/04/036/locandina.jpg",
+    "actors": [
+      "Orlando Bloom",
+      "Eva Green",
+      "Liam Neeson"
+    ],
+    "director": "Ridley Scott",
+    "id": "lecrociatekingdomofheaven-2005",
+    "genres": [
+      "Historical"
+    ]
+  },
+  {
+    "title": "The Nun",
+    "slug": "horror-the-nun-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2018/06/059/locandina.jpg",
+    "actors": [
+      "Taissa Farmiga",
+      "Demián Bichir",
+      "Jonas Bloquet"
+    ],
+    "director": "Corin Hardy",
+    "id": "thenun-2018",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "The Nun 2",
+    "slug": "horror-the-nun-2-2023",
+    "year": 2023,
+    "poster": "https://pad.mymovies.it/filmclub/2019/11/058/locandina.jpg",
+    "actors": [
+      "Taissa Farmiga",
+      "Jonas Bloquet",
+      "Storm Reid"
+    ],
+    "director": "Michael Chaves",
+    "id": "thenun2-2023",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "28 giorni dopo",
+    "slug": "horror-28-giorni-dopo-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2003/06/012/locandina.jpg",
+    "actors": [
+      "Cillian Murphy",
+      "Naomie Harris",
+      "Brendan Gleeson"
+    ],
+    "director": "Danny Boyle",
+    "id": "28giornidopo-2002",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "28 settimane dopo",
+    "slug": "horror-28-settimane-dopo-2026",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/01/135/locandina.jpg",
+    "actors": [
+      "Jodie Comer",
+      "Aaron Taylor-Johnson",
+      "Jack O'Connell"
+    ],
+    "director": "Danny Boyle",
+    "id": "28settimanedopo-2007",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "28 anni dopo",
+    "slug": "horror-28-anni-dopo-2025",
+    "year": 2025,
+    "poster": "https://pad.mymovies.it/filmclub/2024/12/045/locandinapg2.jpg",
+    "actors": [
+      "Jodie Comer",
+      "Aaron Taylor-Johnson",
+      "Jack O'Connell"
+    ],
+    "director": "Danny Boyle",
+    "id": "28annidopo-2025",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "A Quiet Place",
+    "slug": "horror-a-quiet-place-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2017/11/153/locandina.jpg",
+    "actors": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds"
+    ],
+    "director": "John Krasinski",
+    "id": "aquietplace-2018",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "A Quiet Place Part II",
+    "slug": "horror-a-quiet-place-2-2020",
+    "year": 2020,
+    "poster": "https://pad.mymovies.it/filmclub/2019/06/023/locandina.jpg",
+    "actors": [
+      "Emily Blunt",
+      "Cillian Murphy",
+      "Millicent Simmonds"
+    ],
+    "director": "John Krasinski",
+    "id": "aquietplacepartii-2020",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "A Quiet Place: Day One",
+    "slug": "horror-a-quiet-place-3-2024",
+    "year": 2024,
+    "poster": "https://pad.mymovies.it/filmclub/2023/10/195/locandinapg1.jpg",
+    "actors": [
+      "Lupita Nyong'o",
+      "Joseph Quinn",
+      "Alex Wolff"
+    ],
+    "director": "Michael Sarnoski",
+    "id": "aquietplacedayone-2024",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "IT",
+    "slug": "horror-it-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2009/04/029/locandina.jpg",
+    "actors": [
+      "Bill Skarsgård",
+      "Jaeden Martell",
+      "Finn Wolfhard"
+    ],
+    "director": "Andy Muschietti",
+    "id": "it-2017",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "Midsommar",
+    "slug": "horror-midsommar-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2019/02/152/locandina.jpg",
+    "actors": [
+      "Florence Pugh",
+      "Jack Reynor",
+      "Will Poulter"
+    ],
+    "director": "Ari Aster",
+    "id": "midsommar-2019",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "Natale sul Nilo",
+    "slug": "italian-comedy-natale-sul-nilo-2002",
+    "year": 2002,
+    "poster": "https://pad.mymovies.it/filmclub/2002/12/012/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Boldi",
+      "Nadia Rinaldi"
+    ],
+    "director": "Neri Parenti",
+    "id": "natalesulnilo-2002",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Natale a New York",
+    "slug": "italian-comedy-natale-a-new-york-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/106/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Ghini",
+      "Sabrina Ferilli"
+    ],
+    "director": "Neri Parenti",
+    "id": "nataleanewyork-2006",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Natale a Miami",
+    "slug": "italian-comedy-natale-a-miami-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/11/157/Locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Boldi",
+      "Paolo Conticini"
+    ],
+    "director": "Neri Parenti",
+    "id": "nataleamiami-2005",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Natale a Rio",
+    "slug": "italian-comedy-natale-a-rio-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2008/08/165/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Ghini",
+      "Michelle Hunziker"
+    ],
+    "director": "Neri Parenti",
+    "id": "nataleario-2008",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Natale a Beverly Hills",
+    "slug": "italian-comedy-natale-a-beverly-hills-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/09/003/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Ghini",
+      "Paola Cortellesi"
+    ],
+    "director": "Neri Parenti",
+    "id": "nataleabeverlyhills-2009",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Natale in India",
+    "slug": "italian-comedy-natale-in-india-2003",
+    "year": 2003,
+    "poster": "https://pad.mymovies.it/filmclub/2003/12/015/locandina.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Christian De Sica",
+      "Enzo Salvi"
+    ],
+    "director": "Neri Parenti",
+    "id": "nataleinindia-2003",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Natale in Crociera",
+    "slug": "italian-comedy-natale-in-crociera-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/11/026/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Aida Yespica",
+      "Fabio De Luigi"
+    ],
+    "director": "Neri Parenti",
+    "id": "nataleincrociera-2007",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Vacanze di Natale",
+    "slug": "italian-comedy-vacanze-di-natale-1983",
+    "year": 1983,
+    "poster": "https://pad.mymovies.it/filmclub/sacwebphoto/1001136612.jpg",
+    "actors": [
+      "Jerry Calà",
+      "Christian De Sica",
+      "Claudio Amendola"
+    ],
+    "director": "Carlo Vanzina",
+    "id": "vacanzedinatale-1983",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Vacanze di Natale '90",
+    "slug": "italian-comedy-vacanze-di-natale-90-1990",
+    "year": 1990,
+    "poster": "https://pad.mymovies.it/filmclub/2006/02/244/locandina.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Christian De Sica",
+      "Andrea Roncato"
+    ],
+    "director": "Enrico Oldoini",
+    "id": "vacanzedinatale90-1990",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Vacanze di Natale '91",
+    "slug": "italian-comedy-vacanze-di-natale-91-1991",
+    "year": 1991,
+    "poster": "https://pad.mymovies.it/filmclub/sacwebphoto/1001136821.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Christian De Sica",
+      "Ornella Muti"
+    ],
+    "director": "Enrico Oldoini",
+    "id": "vacanzedinatale91-1991",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Vacanze di Natale '95",
+    "slug": "italian-comedy-vacanze-di-natale-95-1995",
+    "year": 1995,
+    "poster": "https://pad.mymovies.it/filmclub/2005/11/168/imm.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Christian De Sica",
+      "Cristian De Sica"
+    ],
+    "director": "Neri Parenti",
+    "id": "vacanzedinatale95-1995",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Vacanze di Natale 2000",
+    "slug": "italian-comedy-vacanze-di-natale-2000",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2005/10/241/imm.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Christian De Sica",
+      "Megan Gale"
+    ],
+    "director": "Carlo Vanzina",
+    "id": "vacanzedinatale2000-1999",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Paparazzi",
+    "slug": "italian-comedy-paparazzi-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2006/09/175/imm.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Boldi",
+      "Nino Frassica"
+    ],
+    "director": "Neri Parenti",
+    "id": "paparazzi-1998",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Tifosi",
+    "slug": "italian-comedy-tifosi-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2006/09/109/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Boldi",
+      "Diego Abatantuono"
+    ],
+    "director": "Neri Parenti",
+    "id": "tifosi-1999",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Christmas in Love",
+    "slug": "italian-comedy-christmas-in-love-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/12/011/locandina.jpg",
+    "actors": [
+      "Christian De Sica",
+      "Massimo Boldi",
+      "Gabriel Garko"
+    ],
+    "director": "Neri Parenti",
+    "id": "christmasinlove-2004",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Olé",
+    "slug": "italian-comedy-ole-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2006/11/108/locandina.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Vincenzo Salemme",
+      "Enzo Salvi"
+    ],
+    "director": "Carlo Vanzina",
+    "id": "ole-2006",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Matrimonio alle Bahamas",
+    "slug": "italian-comedy-matrimonio-alle-bahamas-2007",
+    "year": 2007,
+    "poster": "https://pad.mymovies.it/filmclub/2007/10/172/locandina.jpg",
+    "actors": [
+      "Massimo Boldi",
+      "Biagio Izzo",
+      "Anna Maria Barbera"
+    ],
+    "director": "Claudio Risi",
+    "id": "matrimonioallebahamas-2007",
+    "genres": [
+      "Italian Comedy"
+    ]
+  },
+  {
+    "title": "Black Swan",
+    "slug": "psychological-black-swan-2010",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg",
+    "actors": [
+      "Natalie Portman",
+      "Mila Kunis",
+      "Vincent Cassel"
+    ],
+    "director": "Darren Aronofsky",
+    "id": "blackswan-2010",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Shutter Island",
+    "slug": "psychological-shutter-island-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2009/03/099/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
+    ],
+    "director": "Martin Scorsese",
+    "id": "shutterisland-2010",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "slug": "psychological-fight-club-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2001/11/012/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "director": "David Fincher",
+    "id": "fightclub-1999",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "American Psycho",
+    "slug": "psychological-american-psycho-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2001/05/109/locandina.jpg",
+    "actors": [
+      "Christian Bale",
+      "Willem Dafoe",
+      "Jared Leto"
+    ],
+    "director": "Mary Harron",
+    "id": "americanpsycho-2000",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Nightcrawler",
+    "slug": "psychological-nightcrawler-2014",
+    "year": 2014,
+    "poster": "https://pad.mymovies.it/filmclub/2014/08/023/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Rene Russo",
+      "Riz Ahmed"
+    ],
+    "director": "Dan Gilroy",
+    "id": "nightcrawler-2014",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Requiem for a Dream",
+    "slug": "psychological-requiem-for-a-dream-2000",
+    "year": 2000,
+    "poster": "https://pad.mymovies.it/filmclub/2004/02/503/locandina.jpg",
+    "actors": [
+      "Jared Leto",
+      "Jennifer Connelly",
+      "Ellen Burstyn"
+    ],
+    "director": "Darren Aronofsky",
+    "id": "requiemforadream-2000",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Donnie Darko",
+    "slug": "psychological-donnie-darko-2001",
+    "year": 2001,
+    "poster": "https://pad.mymovies.it/filmclub/2004/09/053/locandinapg5.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "Drew Barrymore"
+    ],
+    "director": "Richard Kelly",
+    "id": "donniedarko-2001",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Enemy",
+    "slug": "psychological-enemy-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2013/09/169/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Mélanie Laurent",
+      "Sarah Gadon"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "enemy-2013",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Get Out",
+    "slug": "psychological-get-out-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2016/10/027/locandina.jpg",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "director": "Jordan Peele",
+    "id": "getout-2017",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Il Codice Da Vinci",
+    "slug": "psychological-il-codice-da-vinci-2006",
+    "year": 2006,
+    "poster": "https://pad.mymovies.it/filmclub/2005/05/088/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen"
+    ],
+    "director": "Ron Howard",
+    "id": "ilcodicedavinci-2006",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Angeli e Demoni",
+    "slug": "psychological-angeli-e-demoni-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2008/10/022/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Ewan McGregor",
+      "Ayelet Zurer"
+    ],
+    "director": "Ron Howard",
+    "id": "angeliedemoni-2009",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Inferno",
+    "slug": "psychological-inferno-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2015/02/113/locandina.jpg",
+    "actors": [
+      "Tom Hanks",
+      "Felicity Jones",
+      "Irrfan Khan"
+    ],
+    "director": "Ron Howard",
+    "id": "inferno-2016",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Il silenzio degli innocenti",
+    "slug": "psychological-il-silenzio-degli-innocenti-1991",
+    "year": 1991,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/058/locandina.jpg",
+    "actors": [
+      "Anthony Hopkins",
+      "Jodie Foster",
+      "Ted Levine"
+    ],
+    "director": "Jonathan Demme",
+    "id": "ilsilenziodegliinnocenti-1991",
+    "genres": [
+      "Psychological"
+    ]
+  },
+  {
+    "title": "Amore e altri rimedi",
+    "slug": "romance-amore-e-altri-rimedi-2010",
+    "year": 2010,
+    "poster": "https://lelettricidifilm.altervista.org/res/img/a2df123535a8a1c61497757746b6c587.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Anne Hathaway",
+      "Oliver Platt"
+    ],
+    "director": "Edward Zwick",
+    "id": "amoreealtririmedi-2010",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Come farsi lasciare in 10 giorni",
+    "slug": "romance-come-farsi-lasciare-in-10-giorni-2003",
+    "year": 2003,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTA1NzExN15BMl5BanBnXkFtZTYwNjc3MjM3._V1_FMjpg_UX1000_.jpg",
+    "actors": [
+      "Matthew McConaughey",
+      "Kate Hudson",
+      "Adam Goldberg"
+    ],
+    "director": "Donald Petrie",
+    "id": "comefarsilasciarein10giorni-2003",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Le pagine della nostra vita",
+    "slug": "romance-le-pagine-della-nostra-vita-2005",
+    "year": 2005,
+    "poster": "https://static.wixstatic.com/media/568758_f9013d8fc3dc49cd9c0f3b4568ac638a~mv2.jpg",
+    "actors": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "Sam Shepard"
+    ],
+    "director": "Nick Cassavetes",
+    "id": "lepaginedellanostravita-2005",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Vi presento Joe Black",
+    "slug": "romance-vi-presento-joe-black-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2006/06/145/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Claire Forlani"
+    ],
+    "director": "Martin Brest",
+    "id": "vipresentojoeblack-1998",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Romeo + Giulietta",
+    "slug": "romance-romeo-e-giulietta-1996",
+    "year": 1996,
+    "poster": "https://pad.mymovies.it/filmclub/2003/01/018/locandina.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Claire Danes",
+      "John Leguizamo"
+    ],
+    "director": "Baz Luhrmann",
+    "id": "romeogiulietta-1996",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Titanic",
+    "slug": "romance-titanic-1997",
+    "year": 1997,
+    "poster": "https://pad.mymovies.it/filmclub/2004/06/506/locandinapg9.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "director": "James Cameron",
+    "id": "titanic-1997",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "L'uomo bicentenario",
+    "slug": "romance-l-uomo-bicentenario-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2007/01/002/locandina.jpg",
+    "actors": [
+      "Robin Williams",
+      "Embeth Davidtz",
+      "Sam Neill"
+    ],
+    "director": "Chris Columbus",
+    "id": "luomobicentenario-1999",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Vento di Passioni",
+    "slug": "romance-vento-di-passioni-1994",
+    "year": 1994,
+    "poster": "https://pad.mymovies.it/filmclub/2006/12/120/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Aidan Quinn"
+    ],
+    "director": "Edward Zwick",
+    "id": "ventodipassioni-1994",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Se mi lasci ti cancello",
+    "slug": "romance-se-mi-lasci-ti-cancello-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/10/012/locandina.jpg",
+    "actors": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst"
+    ],
+    "director": "Michel Gondry",
+    "id": "semilasciticancello-2004",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Nothing Hill",
+    "slug": "romance-nothing-hill-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2006/03/539/locandina.jpg",
+    "actors": [
+      "Hugh Grant",
+      "Julia Roberts",
+      "Rhys Ifans"
+    ],
+    "director": "Roger Michell",
+    "id": "nothinghill-1999",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Crazy, Stupid, Love",
+    "slug": "romance-crazy-stupid-love-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/12/064/locandina.jpg",
+    "actors": [
+      "Steve Carell",
+      "Ryan Gosling",
+      "Emma Stone"
+    ],
+    "director": "Glenn Ficarra & John Requa",
+    "id": "crazystupidlove-2011",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "500 giorni insieme",
+    "slug": "romance-500-giorni-insieme-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/01/103/locandina.jpg",
+    "actors": [
+      "Joseph G.Levitt",
+      "Zooey Deschanel",
+      "Geoffrey Arend"
+    ],
+    "director": "Marc Webb",
+    "id": "500giorniinsieme-2009",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Il lato positivo",
+    "slug": "romance-il-lato-positivo-2012",
+    "year": 2012,
+    "poster": "https://pad.mymovies.it/filmclub/2011/07/206/locandina.jpg",
+    "actors": [
+      "Bradley Cooper",
+      "Jennifer Lawrence",
+      "Robert De Niro"
+    ],
+    "director": "David O. Russell",
+    "id": "illatopositivo-2012",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "A Star Is Born",
+    "slug": "romance-a-star-is-born-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2015/03/216/locandina.jpg",
+    "actors": [
+      "Bradley Cooper",
+      "Lady Gaga",
+      "Sam Elliott"
+    ],
+    "director": "Bradley Cooper",
+    "id": "astarisborn-2018",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "I segreti di Brokeback Mountain",
+    "slug": "romance-brokeback-mountain-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/07/079/locandina.jpg",
+    "actors": [
+      "Heath Ledger",
+      "Jake Gyllenhaal",
+      "Michelle Williams"
+    ],
+    "director": "Ang Lee",
+    "id": "isegretidibrokebackmountain-2005",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Her",
+    "slug": "romance-her-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2012/02/004/locandina.jpg",
+    "actors": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams"
+    ],
+    "director": "Spike Jonze",
+    "id": "her-2013",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "50 volte il primo bacio",
+    "slug": "romance-50-first-dates-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/06/016/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Drew Barrymore",
+      "Rob Schneider"
+    ],
+    "director": "Peter Segal",
+    "id": "50volteilprimobacio-2004",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Prima o poi me lo sposo",
+    "slug": "romance-the-wedding-singer-1998",
+    "year": 1998,
+    "poster": "https://pad.mymovies.it/filmclub/2006/09/199/locandinapg2.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Drew Barrymore",
+      "Christine Taylor"
+    ],
+    "director": "Frank Coraci",
+    "id": "primaopoimelosposo-1998",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "La febbre del sabato sera",
+    "slug": "romance-la-febbre-del-sabato-sera-1977",
+    "year": 1977,
+    "poster": "https://pad.mymovies.it/filmclub/2007/20/687/locandina.jpg",
+    "actors": [
+      "John Travolta",
+      "Karen Lynn Gorney",
+      "Barry Miller"
+    ],
+    "director": "John Badham",
+    "id": "lafebbredelsabatosera-1977",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "2 cuori e una provetta",
+    "slug": "romance-the-switch-2010",
+    "year": 2010,
+    "poster": "https://pad.mymovies.it/filmclub/2010/05/007/locandina.jpg",
+    "actors": [
+      "Jason Bateman",
+      "Jennifer Aniston",
+      "Jeff Goldblum"
+    ],
+    "director": "Josh Gordon & Will Speck",
+    "id": "2cuorieunaprovetta-2010",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "title": "Inception",
+    "slug": "sci-fi-inception-2010",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_UF1000,1000_QL80_.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph G.Levitt",
+      "Elliot Page"
+    ],
+    "director": "Christopher Nolan",
+    "id": "inception-2010",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "slug": "sci-fi-interstellar-2014",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_UF1000,1000_QL80_.jpg",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "director": "Christopher Nolan",
+    "id": "interstellar-2014",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Blade Runner 2049",
+    "slug": "sci-fi-blade-runner-2049-2017",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+    "actors": [
+      "Ryan Gosling",
+      "Ana de Armas",
+      "Jared Leto"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "bladerunner2049-2017",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Ex Machina",
+    "slug": "sci-fi-ex-machina-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2014/09/110/locandina.jpg",
+    "actors": [
+      "Domhnall Gleeson",
+      "Oscar Isaac",
+      "Alicia Vikander"
+    ],
+    "director": "Alex Garland",
+    "id": "exmachina-2015",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "The Martian",
+    "slug": "sci-fi-the-martian-2015",
+    "year": 2015,
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10980706_p_v13_ar.jpg",
+    "actors": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Chiwetel Ejiofor"
+    ],
+    "director": "Ridley Scott",
+    "id": "themartian-2015",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "In Time",
+    "slug": "sci-fi-in-time-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2011/07/182/locandina.jpg",
+    "actors": [
+      "Justin Timberlake",
+      "Amanda Seyfried",
+      "Cillian Murphy"
+    ],
+    "director": "Andrew Niccol",
+    "id": "intime-2011",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Arrival",
+    "slug": "sci-fi-arrival-2016",
+    "year": 2016,
+    "poster": "https://pad.mymovies.it/filmclub/2015/06/128/locandina.jpg",
+    "actors": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "director": "Denis Villeneuve",
+    "id": "arrival-2016",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Cloverfield",
+    "slug": "sci-fi-cloverfield-2008",
+    "year": 2008,
+    "poster": "https://pad.mymovies.it/filmclub/2007/08/100/locandina.jpg",
+    "actors": [
+      "Lizzy Caplan",
+      "Michael Stahl-David",
+      "Jessica Lucas"
+    ],
+    "director": "Matt Reeves",
+    "id": "cloverfield-2008",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "The Day After Tomorrow",
+    "slug": "scifi-the-day-after-tomorrow-2004",
+    "year": 2004,
+    "poster": "https://pad.mymovies.it/filmclub/2004/05/010/locandina.jpg",
+    "actors": [
+      "Dennis Quaid",
+      "Jake Gyllenhaal",
+      "Emmy Rossum"
+    ],
+    "director": "Roland Emmerich",
+    "id": "thedayaftertomorrow-2004",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Life",
+    "slug": "scifi-life-2017",
+    "year": 2017,
+    "poster": "https://pad.mymovies.it/filmclub/2016/10/158/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Ryan Reynolds",
+      "Rebecca Ferguson"
+    ],
+    "director": "Daniel Espinosa",
+    "id": "life-2017",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Tenet",
+    "slug": "scifi-tenet-2020",
+    "year": 2020,
+    "poster": "https://pad.mymovies.it/filmclub/2019/10/296/locandina.jpg",
+    "actors": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki"
+    ],
+    "director": "Christopher Nolan",
+    "id": "tenet-2020",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "First Man",
+    "slug": "sci-fi-first-man-2018",
+    "year": 2018,
+    "poster": "https://pad.mymovies.it/filmclub/2016/12/245/locandina.jpg",
+    "actors": [
+      "Ryan Gosling",
+      "Claire Foy",
+      "Jason Clarke"
+    ],
+    "director": "Damien Chazelle",
+    "id": "firstman-2018",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Ad Astra",
+    "slug": "scifi-ad-astra-2019",
+    "year": 2019,
+    "poster": "https://pad.mymovies.it/filmclub/2017/09/180/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Tommy Lee Jones",
+      "Ruth Negga"
+    ],
+    "director": "James Gray",
+    "id": "adastra-2019",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "La guerra dei mondi",
+    "slug": "sciFi-la-guerra-dei-mondi-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2004/12/015/locandina.jpg",
+    "actors": [
+      "Tom Cruise",
+      "Dakota Fanning",
+      "Tim Robbins"
+    ],
+    "director": "Steven Spielberg",
+    "id": "laguerradeimondi-2005",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "L'alba del pianeta delle scimmie",
+    "slug": "sciFi-l-alba-del-pianeta-delle-scimmie-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/04/037/locandina.jpg",
+    "actors": [
+      "James Franco",
+      "Andy Serkis",
+      "Freida Pinto"
+    ],
+    "director": "Rupert Wyatt",
+    "id": "lalbadelpianetadellescimmie-2011",
+    "genres": [
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Invictus",
+    "slug": "sport-invictus-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/06/030/locandina.jpg",
+    "actors": [
+      "Morgan Freeman",
+      "Matt Damon",
+      "Tony Kgoroge"
+    ],
+    "director": "Clint Eastwood",
+    "id": "invictus-2009",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "The Blind Side",
+    "slug": "sport-the-blind-side-2009",
+    "year": 2009,
+    "poster": "https://pad.mymovies.it/filmclub/2009/08/024/locandina.jpg",
+    "actors": [
+      "Sandra Bullock",
+      "Quinton Aaron",
+      "Tim McGraw"
+    ],
+    "director": "John Lee Hancock",
+    "id": "theblindside-2009",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Cinderella Man",
+    "slug": "sport-cinderella-man-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/06/009/locandina.jpg",
+    "actors": [
+      "Russell Crowe",
+      "Renée Zellweger",
+      "Paul Giamatti"
+    ],
+    "director": "Ron Howard",
+    "id": "cinderellaman-2005",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Southpaw",
+    "slug": "sport-southpaw-2015",
+    "year": 2015,
+    "poster": "https://pad.mymovies.it/filmclub/2015/03/252/locandina.jpg",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Forest Whitaker",
+      "Rachel McAdams"
+    ],
+    "director": "Antoine Fuqua",
+    "id": "southpaw-2015",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Hurricane",
+    "slug": "sport-hurricane-1999",
+    "year": 1999,
+    "poster": "https://pad.mymovies.it/filmclub/2003/11/508/locandina.jpg",
+    "actors": [
+      "Denzel Washington",
+      "Vicellous Shannon",
+      "John Hannah"
+    ],
+    "director": "Norman Jewison",
+    "id": "hurricane-1999",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Rush",
+    "slug": "sport-rush-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/203/locandina.jpg",
+    "actors": [
+      "Chris Hemsworth",
+      "Daniel Brühl",
+      "Olivia Wilde"
+    ],
+    "director": "Ron Howard",
+    "id": "rush-2013",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "L'arte di vincere",
+    "slug": "sport-l-arte-di-vincere-2011",
+    "year": 2011,
+    "poster": "https://pad.mymovies.it/filmclub/2010/03/070/locandina.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman"
+    ],
+    "director": "Bennett Miller",
+    "id": "lartedivincere-2011",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "F1",
+    "slug": "sport-f1-2025",
+    "year": 2025,
+    "poster": "https://pad.mymovies.it/filmclub/2024/06/119/locandinapg1.jpg",
+    "actors": [
+      "Brad Pitt",
+      "Damson Idris",
+      "Kerry Condon"
+    ],
+    "director": "Joseph Kosinski",
+    "id": "f1-2025",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Hustle",
+    "slug": "sport-hustle-2022",
+    "year": 2022,
+    "poster": "https://pad.mymovies.it/filmclub/2022/05/039/locandina.jpg",
+    "actors": [
+      "Adam Sandler",
+      "Juancho Hernangómez",
+      "Queen Latifah"
+    ],
+    "director": "Jeremiah Zagar",
+    "id": "hustle-2022",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Imbattibile",
+    "slug": "sport-imbattibile-2013",
+    "year": 2013,
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/206/locandina.jpg",
+    "actors": [
+      "Nick Cheung",
+      "Eddie Peng",
+      "Mei Ting"
+    ],
+    "director": "Dante Lam",
+    "id": "imbattibile-2013",
+    "genres": [
+      "Sport"
+    ]
+  },
+  {
+    "title": "Coach Carter",
+    "slug": "sport-coach-carter-2005",
+    "year": 2005,
+    "poster": "https://pad.mymovies.it/filmclub/2005/04/013/locandina.jpg",
+    "actors": [
+      "Samuel L.Jackson",
+      "Rick Gonzalez",
+      "Channing Tatum"
+    ],
+    "director": "Thomas Carter",
+    "id": "coachcarter-2005",
+    "genres": [
+      "Sport"
+    ]
+  }
+]
