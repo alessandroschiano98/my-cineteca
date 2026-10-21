@@ -2190,7 +2190,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un orco solitario accetta di salvare una principessa per riavere la propria palude. Il viaggio con un asino parlante mette in discussione molti luoghi comuni delle fiabe."
+    "synopsis": "Un orco solitario accetta di salvare una principessa per riavere la propria palude. Il viaggio con un asino parlante mette in discussione molti luoghi comuni delle fiabe.",
+    "voiceActors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ]
   },
   {
     "title": "Shrek 2",
@@ -2207,7 +2212,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Shrek e Fiona incontrano i genitori di lei nel regno di Molto Molto Lontano. L'accoglienza poco calorosa nasconde piani per un matrimonio ritenuto più adatto."
+    "synopsis": "Shrek e Fiona incontrano i genitori di lei nel regno di Molto Molto Lontano. L'accoglienza poco calorosa nasconde piani per un matrimonio ritenuto più adatto.",
+    "voiceActors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ]
   },
   {
     "title": "La città incantata",
@@ -2224,7 +2234,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Una bambina entra in un mondo popolato da spiriti dopo che i genitori subiscono una trasformazione. Per aiutarli deve lavorare in uno stabilimento termale e trovare il proprio coraggio."
+    "synopsis": "Una bambina entra in un mondo popolato da spiriti dopo che i genitori subiscono una trasformazione. Per aiutarli deve lavorare in uno stabilimento termale e trovare il proprio coraggio.",
+    "voiceActors": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ]
   },
   {
     "title": "Up",
@@ -2241,7 +2256,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un anziano vedovo trasforma la propria casa in un mezzo volante per mantenere una promessa. Un piccolo esploratore imbarcato per sbaglio rende il viaggio imprevedibile."
+    "synopsis": "Un anziano vedovo trasforma la propria casa in un mezzo volante per mantenere una promessa. Un piccolo esploratore imbarcato per sbaglio rende il viaggio imprevedibile.",
+    "voiceActors": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "Christopher Plummer"
+    ]
   },
   {
     "title": "Scooby-Doo",
@@ -2292,7 +2312,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un disastro ambientale provocato da Homer mette Springfield sotto una gigantesca cupola. I Simpson devono affrontare l'ira della città e ritrovare un modo per restare uniti."
+    "synopsis": "Un disastro ambientale provocato da Homer mette Springfield sotto una gigantesca cupola. I Simpson devono affrontare l'ira della città e ritrovare un modo per restare uniti.",
+    "voiceActors": [
+      "Dan Castellaneta",
+      "Julie Kavner",
+      "Nancy Cartwright"
+    ]
   },
   {
     "title": "Monster House",
@@ -2309,7 +2334,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Tre ragazzi sospettano che la casa di un vicino sia una creatura vivente. Con Halloween alle porte decidono di scoprire il segreto che si nasconde al suo interno."
+    "synopsis": "Tre ragazzi sospettano che la casa di un vicino sia una creatura vivente. Con Halloween alle porte decidono di scoprire il segreto che si nasconde al suo interno.",
+    "voiceActors": [
+      "Mitchel Musso",
+      "Sam Lerner",
+      "Spencer Locke"
+    ]
   },
   {
     "title": "Totò Sapore e la magica storia della pizza",
@@ -2326,7 +2356,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Nella Napoli settecentesca, un giovane cuoco riceve pentole magiche che lo aiutano a inseguire i propri sogni. Amore, rivalità e una strega ostile complicano il suo cammino."
+    "synopsis": "Nella Napoli settecentesca, un giovane cuoco riceve pentole magiche che lo aiutano a inseguire i propri sogni. Amore, rivalità e una strega ostile complicano il suo cammino.",
+    "voiceActors": [
+      "Gabriele Cirilli",
+      "Gigi Finizio",
+      "Giuliana Lojodice"
+    ]
   },
   {
     "title": "Monster & Co.",
@@ -2343,7 +2378,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Due mostri producono energia spaventando i bambini, finché una piccola umana entra nel loro mondo. Proteggerla li porta a mettere in discussione tutto ciò che sanno."
+    "synopsis": "Due mostri producono energia spaventando i bambini, finché una piccola umana entra nel loro mondo. Proteggerla li porta a mettere in discussione tutto ciò che sanno.",
+    "voiceActors": [
+      "John Goodman",
+      "Billy Crystal",
+      "Steve Buscemi"
+    ]
   },
   {
     "title": "Toy Story",
@@ -2360,7 +2400,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Il cowboy Woody teme di perdere il proprio posto quando arriva Buzz Lightyear. La rivalità tra i giocattoli lascia spazio alla necessità di tornare insieme dal loro bambino."
+    "synopsis": "Il cowboy Woody teme di perdere il proprio posto quando arriva Buzz Lightyear. La rivalità tra i giocattoli lascia spazio alla necessità di tornare insieme dal loro bambino.",
+    "voiceActors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ]
   },
   {
     "title": "Toy Story 2",
@@ -2377,7 +2422,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Woody viene rubato da un collezionista e scopre di appartenere a una serie di giocattoli famosa. Gli amici organizzano il salvataggio mentre lui deve scegliere il proprio futuro."
+    "synopsis": "Woody viene rubato da un collezionista e scopre di appartenere a una serie di giocattoli famosa. Gli amici organizzano il salvataggio mentre lui deve scegliere il proprio futuro.",
+    "voiceActors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ]
   },
   {
     "title": "Toy Story 3",
@@ -2394,7 +2444,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Con Andy ormai pronto per il college, i giocattoli finiscono in un asilo. L'accoglienza promettente nasconde regole che li costringono a organizzare una fuga."
+    "synopsis": "Con Andy ormai pronto per il college, i giocattoli finiscono in un asilo. L'accoglienza promettente nasconde regole che li costringono a organizzare una fuga.",
+    "voiceActors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ]
   },
   {
     "title": "Toy Story 4",
@@ -2411,7 +2466,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Woody cerca di aiutare Forky, un giocattolo convinto di essere spazzatura, durante una vacanza. L'incontro con una vecchia amica gli offre una prospettiva diversa sul proprio ruolo."
+    "synopsis": "Woody cerca di aiutare Forky, un giocattolo convinto di essere spazzatura, durante una vacanza. L'incontro con una vecchia amica gli offre una prospettiva diversa sul proprio ruolo.",
+    "voiceActors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts"
+    ]
   },
   {
     "title": "Cars",
@@ -2428,7 +2488,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un'auto da corsa ambiziosa resta bloccata in una cittadina fuori dalle grandi strade. Conoscere gli abitanti cambia il suo modo di intendere il successo."
+    "synopsis": "Un'auto da corsa ambiziosa resta bloccata in una cittadina fuori dalle grandi strade. Conoscere gli abitanti cambia il suo modo di intendere il successo.",
+    "voiceActors": [
+      "Owen Wilson",
+      "Paul Newman",
+      "Bonnie Hunt"
+    ]
   },
   {
     "title": "Alla ricerca di Nemo",
@@ -2445,7 +2510,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un pesce pagliaccio attraversa l'oceano per cercare il figlio catturato da un sub. Lo accompagna Dory, una nuova amica con problemi di memoria e grande ottimismo."
+    "synopsis": "Un pesce pagliaccio attraversa l'oceano per cercare il figlio catturato da un sub. Lo accompagna Dory, una nuova amica con problemi di memoria e grande ottimismo.",
+    "voiceActors": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ]
   },
   {
     "title": "Ratatouille",
@@ -2462,7 +2532,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un topo appassionato di cucina arriva a Parigi e stringe un'insolita alleanza con un aiutante di ristorante. Insieme cercano spazio in un mondo che non li considera adatti."
+    "synopsis": "Un topo appassionato di cucina arriva a Parigi e stringe un'insolita alleanza con un aiutante di ristorante. Insieme cercano spazio in un mondo che non li considera adatti.",
+    "voiceActors": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano"
+    ]
   },
   {
     "title": "Gli Incredibili",
@@ -2479,7 +2554,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Una famiglia di supereroi vive in incognito dopo il divieto di usare i poteri. Un incarico segreto riaccende la voglia d'avventura e attira una minaccia inattesa."
+    "synopsis": "Una famiglia di supereroi vive in incognito dopo il divieto di usare i poteri. Un incarico segreto riaccende la voglia d'avventura e attira una minaccia inattesa.",
+    "voiceActors": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ]
   },
   {
     "title": "Madagascar",
@@ -2496,7 +2576,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Quattro animali dello zoo di New York finiscono accidentalmente in Madagascar. La vita selvaggia mette alla prova amicizia, abitudini e istinti mai sperimentati."
+    "synopsis": "Quattro animali dello zoo di New York finiscono accidentalmente in Madagascar. La vita selvaggia mette alla prova amicizia, abitudini e istinti mai sperimentati.",
+    "voiceActors": [
+      "Ben Stiller",
+      "Chris Rock",
+      "Jada Pinkett Smith"
+    ]
   },
   {
     "title": "Madagascar 2",
@@ -2513,7 +2598,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un tentativo di tornare a New York porta gli animali dello zoo in una riserva africana. L'incontro con le proprie origini riapre domande su identità e appartenenza."
+    "synopsis": "Un tentativo di tornare a New York porta gli animali dello zoo in una riserva africana. L'incontro con le proprie origini riapre domande su identità e appartenenza.",
+    "voiceActors": [
+      "Ben Stiller",
+      "Chris Rock",
+      "Tom McGrath"
+    ]
   },
   {
     "title": "Happy Feet",
@@ -2530,7 +2620,12 @@
     "genres": [
       "Cartoon"
     ],
-    "synopsis": "Un giovane pinguino imperatore non sa cantare come gli altri, ma possiede un talento per il ballo. La sua diversità lo spinge a cercare il proprio posto nel mondo."
+    "synopsis": "Un giovane pinguino imperatore non sa cantare come gli altri, ma possiede un talento per il ballo. La sua diversità lo spinge a cercare il proprio posto nel mondo.",
+    "voiceActors": [
+      "Elijah Wood",
+      "Robin Williams",
+      "Brittany Murphy"
+    ]
   },
   {
     "title": "Lonely Hearts",

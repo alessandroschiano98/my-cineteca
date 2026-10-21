@@ -28,3 +28,10 @@ export function rankGenres(movies) {
   for (const movie of movies) for (const genre of new Set(movie.genres)) counts.set(genre, (counts.get(genre) || 0) + 1);
   return [...counts].map(([name, count]) => ({ name, count })).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
 }
+
+export function isVoiceRole(movie, name) {
+  return (movie.voiceActors || []).some(voice => personKey(voice) === personKey(name));
+}
+export function movieOnScreenActors(movie) {
+  return movieActors(movie).filter(name => !isVoiceRole(movie, name));
+}
