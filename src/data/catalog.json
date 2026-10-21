@@ -6675,5 +6675,42 @@
     "poster": "https://pad.mymovies.it/filmclub/2021/08/005/locandinapg2.jpg",
     "synopsis": "Richard Williams elabora un piano ambizioso per trasformare le figlie Venus e Serena in campionesse di tennis. L’intera famiglia affronta ostacoli economici, pressioni sportive e scelte difficili per costruire il loro futuro.",
     "addedAt": "2026-10-21T17:27:55.974295+00:00"
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "director": "Tony Kaye",
+    "actors": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D’Angelo",
+      "Fairuza Balk"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Dopo il carcere, un ex militante neonazista cerca di lasciarsi alle spalle l’odio e di impedire al fratello minore di seguirne le orme. Il ritorno a casa lo costringe a confrontarsi con le conseguenze delle proprie scelte.",
+    "id": "americanhistoryx-1998",
+    "poster": "https://pad.mymovies.it/filmclub/2002/08/168/locandina.jpg",
+    "addedAt": "2026-10-21T17:57:46.071033+00:00"
+  },
+  {
+    "title": "Michael",
+    "year": 2026,
+    "director": "Antoine Fuqua",
+    "actors": [
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long",
+      "Miles Teller"
+    ],
+    "genres": [
+      "Biography",
+      "Musical"
+    ],
+    "synopsis": "Dall’infanzia nei Jackson 5 all’affermazione come solista, Michael Jackson cerca di trasformare un talento precoce in una visione artistica personale. Musica, famiglia e pressioni del successo accompagnano il cammino verso la celebrità mondiale.",
+    "id": "michael-2026",
+    "poster": "https://pad.mymovies.it/filmclub/2022/02/184/locandinapg2.jpg",
+    "addedAt": "2026-10-21T17:57:47.674525+00:00"
   }
 ]
