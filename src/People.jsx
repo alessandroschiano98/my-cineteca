@@ -17,7 +17,7 @@ export function ActorPages({ route, actors, genres, Poster, onMovie }) {
 }
 
 export function CinemaStats({ movies, actors, genres, onGenre }) {
-  const directors = useMemo(() => indexPeople(movies, movieDirectors).slice(0, 5), [movies]);
+  const directors = useMemo(() => indexPeople(movies, movieDirectors).filter(director => director.key !== 'neriparenti').slice(0, 5), [movies]);
   const genreRanking = useMemo(() => rankGenres(movies).slice(0, 3), [movies]);
   const topActors = actors.slice(0, 10);
   function rankingRow(name, count, index, max, href, onClick) {
