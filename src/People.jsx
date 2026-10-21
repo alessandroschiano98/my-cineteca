@@ -19,7 +19,7 @@ export function ActorPages({ route, actors, genres, Poster, onMovie }) {
 export function CinemaStats({ movies, actors, genres, onGenre }) {
   const directors = useMemo(() => indexPeople(movies, movieDirectors).filter(director => director.key !== 'neriparenti').slice(0, 5), [movies]);
   const genreRanking = useMemo(() => rankGenres(movies).slice(0, 3), [movies]);
-  const topActors = actors.slice(0, 10);
+  const topActors = actors.filter(actor => !['christiandesica', 'massimoboldi'].includes(actor.key)).slice(0, 10);
   function rankingRow(name, count, index, max, href, onClick) {
     const content = <><span className="rank-number">{String(index + 1).padStart(2, '0')}</span><span className="rank-person"><span className="rank-name">{name}</span><span className="rank-track" aria-hidden="true"><span style={{ width: `${count / max * 100}%` }}/></span></span><span className="rank-count">{count}<small>film</small></span></>;
     return href ? <a className="rank-row" key={name} href={href} onClick={onClick}>{content}</a> : <div className="rank-row" key={name}>{content}</div>;
