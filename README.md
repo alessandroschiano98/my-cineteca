@@ -1,12 +1,12 @@
 # My Cineteca
 
-Archivio personale in React. 379 film originali conservati in `src/data/catalog.json`.
+Archivio personale in React. 387 film con brevi trame conservati in `src/data/catalog.json`.
 
 ## Aprire il sito
 
 Dalla cartella del progetto esegui `npm run dev` e apri l'indirizzo mostrato.
 Per aggiungere film apri lo stesso indirizzo con `/?gestione` (di solito http://127.0.0.1:5173/?gestione), poi premi **Aggiungi film**.
-Compila titolo, anno, genere e regista; cast e locandina sono facoltativi. Il modulo suggerisce i titoli già presenti e impedisce duplicati con lo stesso titolo normalizzato e anno. Un remake con anno diverso resta consentito.
+Compila titolo, anno, genere, regista e breve trama; cast e locandina sono facoltativi. Il modulo suggerisce i titoli già presenti e impedisce duplicati con lo stesso titolo normalizzato e anno. Un remake con anno diverso resta consentito.
 Il salvataggio aggiorna il catalogo su disco; non dipende dalla memoria del browser. Non aprire più moduli di gestione contemporaneamente.
 
 ## Aggiornamenti con Codex

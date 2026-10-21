@@ -13,7 +13,8 @@
     "id": "madmaxfuryroad-2015",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Nel deserto di un futuro devastato, Max aiuta Furiosa e alcune prigioniere a fuggire da un tiranno. La ricerca della libertà diventa un inseguimento senza tregua."
   },
   {
     "title": "Braveheart",
@@ -29,7 +30,8 @@
     "id": "braveheart-1995",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Dopo una tragedia personale, William Wallace guida gli scozzesi contro il dominio inglese. La ribellione lo porta tra grandi battaglie, alleanze e tradimenti."
   },
   {
     "title": "Training Day",
@@ -45,7 +47,8 @@
     "id": "trainingday-2001",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Al suo primo giorno nella narcotici, un giovane agente affianca un detective carismatico. I metodi del collega trasformano il turno in una prova di coscienza."
   },
   {
     "title": "John Wick",
@@ -61,7 +64,8 @@
     "id": "johnwick-2014",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un ex sicario cerca una vita tranquilla, finché un'aggressione lo riporta nel mondo criminale. Chi lo ha provocato scopre quanto sia temuto il suo nome."
   },
   {
     "title": "Il Gladiatore",
@@ -77,7 +81,8 @@
     "id": "ilgladiatore-2000",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Tradito e ridotto in schiavitù, un generale romano diventa gladiatore. Nell'arena cerca una strada per sfidare l'imperatore e onorare la famiglia perduta."
   },
   {
     "title": "007: Casino Royale",
@@ -93,7 +98,8 @@
     "id": "007casinoroyale-2006",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Alla prima missione da 007, Bond affronta un finanziere del terrorismo al tavolo da poker. La collaborazione con Vesper Lynd mette alla prova anche la sua freddezza."
   },
   {
     "title": "007: Quantum of Solace",
@@ -109,7 +115,8 @@
     "id": "007quantumofsolace-2008",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Segnato dal tradimento, Bond segue una rete criminale fino in Bolivia. Un progetto apparentemente ecologico nasconde un piano per controllare una risorsa essenziale."
   },
   {
     "title": "007: Skyfall",
@@ -125,7 +132,8 @@
     "id": "007skyfall-2012",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un attacco all'MI6 costringe Bond a difendere M da un nemico legato al suo passato. La missione lo obbliga ad affrontare le proprie fragilità."
   },
   {
     "title": "007: Spectre",
@@ -141,7 +149,8 @@
     "id": "007spectre-2015",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un messaggio dal passato conduce Bond sulle tracce di un'organizzazione segreta. Una donna in pericolo e una nuova politica dell'intelligence complicano l'indagine."
   },
   {
     "title": "007: No Time to Die",
@@ -157,7 +166,8 @@
     "id": "007notimetodie-2021",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Il ritiro di Bond viene interrotto dal rapimento di uno scienziato. La missione intreccia una minaccia globale ai legami personali che credeva di essersi lasciato alle spalle."
   },
   {
     "title": "Top Gun: Maverick",
@@ -173,7 +183,8 @@
     "id": "topgunmaverick-2022",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Maverick torna a Top Gun per preparare giovani piloti a una missione estrema. Tra gli allievi c'è il figlio di Goose, che riapre una ferita mai guarita."
   },
   {
     "title": "The Equalizer",
@@ -189,7 +200,8 @@
     "id": "theequalizer-2014",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un uomo dal passato segreto interviene per aiutare una giovane sfruttata dalla criminalità. La sua ricerca di giustizia lo mette contro un'organizzazione spietata."
   },
   {
     "title": "The Equalizer 2",
@@ -205,7 +217,8 @@
     "id": "theequalizer2-2018",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un ex agente continua ad aiutare chi non può difendersi. L'omicidio di una persona vicina lo costringe a cercare risposte tra vecchi alleati e nuove minacce."
   },
   {
     "title": "Safe House - Nessuno è al sicuro",
@@ -221,7 +234,8 @@
     "id": "safehousenessunoealsicuro-2012",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un giovane agente custodisce un rifugio della CIA a Città del Capo. Un attacco improvviso lo costringe a fuggire con un ex operativo ricercato."
   },
   {
     "title": "The Score",
@@ -237,7 +251,8 @@
     "id": "thescore-2001",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un ladro vicino al ritiro accetta un ultimo colpo a Montréal. Per rubare un prezioso scettro deve collaborare con un giovane complice dalle ambizioni difficili da controllare."
   },
   {
     "title": "Codice Genesi",
@@ -253,7 +268,8 @@
     "id": "codicegenesi-2010",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "In un'America devastata, un viandante protegge un libro che considera essenziale per il futuro. Un capo locale vuole impadronirsene per rafforzare il proprio potere."
   },
   {
     "title": "Django Unchained",
@@ -269,7 +285,8 @@
     "id": "djangounchained-2012",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Uno schiavo liberato da un cacciatore di taglie diventa il suo compagno di lavoro. Insieme si avvicinano alla piantagione dove è prigioniera la moglie di Django."
   },
   {
     "title": "Revenant - Redivivo",
@@ -285,7 +302,8 @@
     "id": "revenantredivivo-2015",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Ferito da un orso e abbandonato dai compagni, un cacciatore lotta per sopravvivere. A sostenerlo sono il ricordo della famiglia e il desiderio di giustizia."
   },
   {
     "title": "Robin Hood",
@@ -301,7 +319,8 @@
     "id": "robinhood-2010",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Dopo la morte di re Riccardo, un arciere torna in Inghilterra assumendo un'identità inattesa. Tra soprusi e intrighi di corte si avvicina alla causa della gente comune."
   },
   {
     "title": "Il Gladiatore II",
@@ -317,7 +336,8 @@
     "id": "ilgladiatoreii-2024",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un giovane prigioniero viene portato a Roma e costretto a combattere nell'arena. La sua storia si intreccia alle ambizioni di un mercante e alla crisi dell'impero."
   },
   {
     "title": "The Town",
@@ -333,7 +353,8 @@
     "id": "thetown-2010",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un rapinatore di Boston si innamora di una donna coinvolta in un suo colpo. Cambiare vita significa affrontare la propria banda e le indagini dell'FBI."
   },
   {
     "title": "Gangs of New York",
@@ -349,7 +370,8 @@
     "id": "gangsofnewyork-2002",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Nella New York ottocentesca, un giovane torna nel quartiere dove fu ucciso suo padre. La vendetta si intreccia agli scontri tra immigrati, bande e potere politico."
   },
   {
     "title": "Kill Bill: Volume 1",
@@ -365,7 +387,8 @@
     "id": "killbillvolume1-2003",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Sopravvissuta a un attentato durante le proprie nozze, una ex assassina si risveglia dal coma. Parte alla ricerca degli antichi compagni per regolare i conti."
   },
   {
     "title": "Kill Bill: Volume 2",
@@ -381,7 +404,8 @@
     "id": "killbillvolume2-2004",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "La Sposa prosegue la caccia alla squadra che l'ha tradita. Il percorso verso Bill riporta alla luce l'addestramento, gli affetti e le ragioni della vendetta."
   },
   {
     "title": "The Covenant",
@@ -397,7 +421,8 @@
     "id": "thecovenant-2023",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "In Afghanistan, un interprete salva la vita a un sergente americano. Tornato a casa, il militare cerca di sottrarre lui e la sua famiglia ai talebani."
   },
   {
     "title": "Rounders",
@@ -413,7 +438,8 @@
     "id": "rounders-1998",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un talento del poker prova a lasciare il gioco dopo una grave perdita. Il ritorno di un amico indebitato lo trascina nuovamente ai tavoli clandestini."
   },
   {
     "title": "Jarhead",
@@ -429,7 +455,8 @@
     "id": "jarhead-2005",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un giovane marine viene inviato nel deserto durante la guerra del Golfo. Tra addestramento, attesa e tensione scopre un conflitto diverso da quello immaginato."
   },
   {
     "title": "Man on Fire",
@@ -445,7 +472,8 @@
     "id": "manonfire-2004",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un ex militare protegge una bambina a Città del Messico. Il loro legame gli restituisce uno scopo, finché un rapimento scatena la sua reazione."
   },
   {
     "title": "American Sniper",
@@ -461,7 +489,8 @@
     "id": "americansniper-2014",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "La vita del tiratore scelto Chris Kyle si divide tra le missioni in Iraq e la famiglia. Il ritorno a casa non allontana il peso della guerra."
   },
   {
     "title": "Triple Frontier",
@@ -477,7 +506,8 @@
     "id": "triplefrontier-2019",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Cinque ex militari organizzano una rapina contro un narcotrafficante in Sud America. Quando il piano si complica, la ricchezza promessa mette in crisi amicizia e lealtà."
   },
   {
     "title": "Wanted",
@@ -493,7 +523,8 @@
     "id": "wanted-2008",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un impiegato scopre capacità straordinarie e viene reclutato da una confraternita di assassini. L'addestramento gli offre una nuova vita, insieme a molte domande."
   },
   {
     "title": "Mr. & Mrs. Smith",
@@ -509,7 +540,8 @@
     "id": "mrmrssmith-2005",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Una coppia annoiata scopre che entrambi i coniugi lavorano come sicari. La crisi matrimoniale diventa esplosiva quando ricevono incarichi incompatibili."
   },
   {
     "title": "Troy",
@@ -525,7 +557,8 @@
     "id": "troy-2004",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "La fuga di Elena con Paride accende la guerra tra Greci e Troiani. Achille ed Ettore affrontano un conflitto in cui amore, orgoglio e gloria hanno un prezzo altissimo."
   },
   {
     "title": "Face/Off",
@@ -541,7 +574,8 @@
     "id": "faceoff-1997",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Per sventare un attentato, un agente assume chirurgicamente il volto del suo nemico. Il criminale riesce a impossessarsi dell'identità dell'agente, ribaltando la caccia."
   },
   {
     "title": "Lone Survivor",
@@ -557,7 +591,8 @@
     "id": "lonesurvivor-2013",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Quattro militari americani in missione in Afghanistan vengono scoperti e accerchiati. In territorio ostile, devono prendere decisioni che mettono alla prova il loro legame."
   },
   {
     "title": "Snakes on a Plane",
@@ -573,7 +608,8 @@
     "id": "snakesonaplane-2006",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un agente accompagna in aereo un testimone importante. Per impedirgli di arrivare a destinazione, un boss fa liberare a bordo centinaia di serpenti velenosi."
   },
   {
     "title": "From Paris with Love",
@@ -589,7 +625,8 @@
     "id": "frompariswithlove-2010",
     "genres": [
       "Action"
-    ]
+    ],
+    "synopsis": "Un impiegato dell'ambasciata americana a Parigi sogna il lavoro operativo. Un agente dai metodi brutali lo coinvolge in una corsa contro una minaccia terroristica."
   },
   {
     "title": "Harry Potter e la pietra filosofale",
@@ -605,7 +642,8 @@
     "id": "harrypotterelapietrafilosofale-2001",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un ragazzo cresciuto senza conoscere i genitori scopre di essere un mago. A Hogwarts trova amici, un mondo meraviglioso e indizi sul proprio passato."
   },
   {
     "title": "Harry Potter e la camera dei segreti",
@@ -621,7 +659,8 @@
     "id": "harrypotterelacameradeisegreti-2002",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Nel secondo anno a Hogwarts, misteriose aggressioni terrorizzano la scuola. Harry e gli amici indagano su una camera segreta e una leggenda tornata a far paura."
   },
   {
     "title": "Harry Potter e il prigioniero di Azkaban",
@@ -637,7 +676,8 @@
     "id": "harrypottereilprigionierodiazkaban-2004",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "L'evasione di Sirius Black allarma il mondo magico. Harry scopre che il fuggitivo è legato alla sua famiglia, mentre nuove presenze rendono Hogwarts meno sicura."
   },
   {
     "title": "Harry Potter e il calice di fuoco",
@@ -653,7 +693,8 @@
     "id": "harrypottereilcalicedifuoco-2005",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Harry viene scelto inaspettatamente per un torneo magico pericoloso. Le prove e le rivalità tra scuole nascondono una minaccia che va oltre la competizione."
   },
   {
     "title": "Harry Potter e l'Ordine della Fenice",
@@ -669,7 +710,8 @@
     "id": "harrypotterelordinedellafenice-2007",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Il Ministero nega il ritorno di Voldemort e impone nuove regole a Hogwarts. Harry organizza studenti per imparare a difendersi, mentre visioni inquietanti lo tormentano."
   },
   {
     "title": "Harry Potter e il principe mezzosangue",
@@ -685,7 +727,8 @@
     "id": "harrypottereilprincipemezzosangue-2009",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Harry e Silente cercano nel passato di Voldemort la chiave per affrontarlo. Un vecchio manuale e le tensioni tra amici complicano l'anno a Hogwarts."
   },
   {
     "title": "Harry Potter e i Doni della Morte - Parte 1",
@@ -701,7 +744,8 @@
     "id": "harrypottereidonidellamorteparte1-2010",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Harry, Ron e Hermione lasciano Hogwarts per cercare gli oggetti che custodiscono l'anima di Voldemort. Braccati e isolati, devono affidarsi alla loro amicizia."
   },
   {
     "title": "Harry Potter e i Doni della Morte - Parte 2",
@@ -717,7 +761,8 @@
     "id": "harrypottereidonidellamorteparte2-2011",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "La ricerca degli Horcrux riporta Harry e gli amici a Hogwarts. La scuola diventa il centro dello scontro decisivo per il futuro del mondo magico."
   },
   {
     "title": "Pirati dei Caraibi - La maledizione della prima luna",
@@ -733,7 +778,8 @@
     "id": "piratideicaraibilamaledizionedellaprimaluna-2003",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un fabbro si allea con Jack Sparrow per liberare Elizabeth Swann. Ad attenderli ci sono una nave leggendaria e un equipaggio colpito da una maledizione."
   },
   {
     "title": "Pirati dei Caraibi - La maledizione del forziere fantasma",
@@ -749,7 +795,8 @@
     "id": "piratideicaraibilamaledizionedelforzierefantasma-2006",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Jack Sparrow deve saldare un debito con Davy Jones, signore degli abissi. Will ed Elizabeth vengono coinvolti nella ricerca di un forziere dal contenuto prezioso."
   },
   {
     "title": "Pirati dei Caraibi - Ai confini del mondo",
@@ -765,7 +812,8 @@
     "id": "piratideicaraibiaiconfinidelmondo-2007",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Will, Elizabeth e i loro alleati cercano Jack Sparrow oltre i confini conosciuti. I pirati devono fronteggiare chi vuole cancellare per sempre il loro mondo."
   },
   {
     "title": "Pirati dei Caraibi - Oltre i confini del mare",
@@ -781,7 +829,8 @@
     "id": "piratideicaraibioltreiconfinidelmare-2011",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Jack Sparrow corre verso la fonte della giovinezza. Una donna del suo passato e il temibile Barbanera trasformano la spedizione in una sfida di inganni."
   },
   {
     "title": "Pirati dei Caraibi - La vendetta di Salazar",
@@ -797,7 +846,8 @@
     "id": "piratideicaraibilavendettadisalazar-2017",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un capitano maledetto torna a cacciare i pirati, soprattutto Jack Sparrow. Jack si unisce a due giovani nella ricerca del tridente di Poseidone."
   },
   {
     "title": "Ritorno al Futuro",
@@ -813,7 +863,8 @@
     "id": "ritornoalfuturo-1985",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Marty McFly viaggia accidentalmente nel 1955 con l'invenzione di Doc Brown. Dopo aver alterato l'incontro dei propri genitori, deve rimediare prima di tornare a casa."
   },
   {
     "title": "Ritorno al Futuro II",
@@ -829,7 +880,8 @@
     "id": "ritornoalfuturoii-1989",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Marty e Doc visitano il futuro per risolvere un problema familiare. Un oggetto finito nelle mani sbagliate cambia il passato, imponendo una nuova corsa nel tempo."
   },
   {
     "title": "Ritorno al Futuro III",
@@ -845,7 +897,8 @@
     "id": "ritornoalfuturoiii-1990",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Marty raggiunge Doc nel Far West del 1885. Per riportarlo nel presente deve affrontare un antenato di Biff e trovare energia per la macchina del tempo."
   },
   {
     "title": "Il labirinto del fauno",
@@ -861,7 +914,8 @@
     "id": "illabirintodelfauno-2006",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Nella Spagna franchista, una bambina scopre un mondo sotterraneo abitato da creature misteriose. Le prove affidatele da un fauno si intrecciano alla violenza della realtà."
   },
   {
     "title": "Prince of Persia",
@@ -877,7 +931,8 @@
     "id": "princeofpersia-2010",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un principe accusato di tradimento fugge insieme a una principessa. Un pugnale capace di modificare il tempo diventa il centro di una lotta per il potere."
   },
   {
     "title": "Il Re",
@@ -893,7 +948,8 @@
     "id": "ilre-2019",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Il giovane Enrico eredita il trono inglese dopo una vita lontana dalla corte. Tra consiglieri e guerra con la Francia deve scegliere che sovrano diventare."
   },
   {
     "title": "I sogni segreti di Walter Mitty",
@@ -909,7 +965,8 @@
     "id": "isognisegretidiwaltermitty-2013",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un impiegato che evade dalla routine sognando a occhi aperti parte alla ricerca di un fotografo. Il viaggio trasforma le fantasie in avventure reali."
   },
   {
     "title": "Una notte al museo",
@@ -925,7 +982,8 @@
     "id": "unanottealmuseo-2006",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un padre trova lavoro come guardiano di un museo. Nel turno notturno scopre che le esposizioni prendono vita, creando un caos imprevedibile."
   },
   {
     "title": "Una notte al museo 2",
@@ -941,7 +999,8 @@
     "id": "unanottealmuseo2-2009",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Larry raggiunge lo Smithsonian per aiutare gli amici del museo. Tra nuove figure storiche e un faraone ambizioso deve impedire che un antico potere venga sfruttato."
   },
   {
     "title": "Il ponte per Terabithia",
@@ -957,7 +1016,8 @@
     "id": "ilponteperterabithia-2007",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Due compagni di scuola inventano un regno fantastico nei boschi vicino a casa. L'amicizia e l'immaginazione diventano un rifugio dalle difficoltà quotidiane."
   },
   {
     "title": "La fabbrica di cioccolato",
@@ -973,7 +1033,8 @@
     "id": "lafabbricadicioccolato-2005",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Un bambino povero vince una visita alla fabbrica di Willy Wonka. Il viaggio tra invenzioni dolciarie e sorprese rivela il carattere dei giovani ospiti."
   },
   {
     "title": "Le cronache di Spiderwick",
@@ -989,7 +1050,8 @@
     "id": "lecronachedispiderwick-2008",
     "genres": [
       "Adventure"
-    ]
+    ],
+    "synopsis": "Tre fratelli scoprono in una vecchia casa una guida alle creature fantastiche. Il libro li coinvolge nella difesa di un mondo invisibile agli adulti."
   },
   {
     "title": "Un weekend da bamboccioni",
@@ -1005,7 +1067,8 @@
     "id": "unweekenddabamboccioni-2010",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Cinque amici d'infanzia si ritrovano dopo la morte dell'allenatore di basket. Un weekend con le famiglie riporta a galla ricordi, rivalità e voglia di tornare ragazzi."
   },
   {
     "title": "Un weekend da bamboccioni 2",
@@ -1021,7 +1084,8 @@
     "id": "unweekenddabamboccioni2-2013",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Tornati a vivere vicini, alcuni amici affrontano l'estate tra figli, vecchie conoscenze e scherzi. La rivalità con degli universitari rende tutto più movimentato."
   },
   {
     "title": "Vita da camper",
@@ -1037,7 +1101,8 @@
     "id": "vitadacamper-2006",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un padre sostituisce le vacanze da sogno della famiglia con un viaggio in camper. Guasti e incontri stravaganti mettono alla prova la convivenza e i suoi piani."
   },
   {
     "title": "Come ammazzare il capo e vivere felici",
@@ -1053,7 +1118,8 @@
     "id": "comeammazzareilcapoeviverefelici-2011",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Tre amici esasperati dai superiori decidono che eliminarli sia l'unica via d'uscita. Il loro piano criminale rivela quanto siano inesperti."
   },
   {
     "title": "Come ammazzare il capo 2",
@@ -1069,7 +1135,8 @@
     "id": "comeammazzareilcapo2-2014",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Tre amici improvvisano un rapimento per vendicarsi di un imprenditore che li ha ingannati. La persona scelta come ostaggio si rivela tutt'altro che prevedibile."
   },
   {
     "title": "Una settimana da Dio",
@@ -1085,7 +1152,8 @@
     "id": "unasettimanadadio-2003",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un giornalista insoddisfatto accusa Dio di trascurarlo e riceve per prova i suoi poteri. Ottenere tutto ciò che desidera si dimostra più complicato del previsto."
   },
   {
     "title": "Una notte da leoni",
@@ -1101,7 +1169,8 @@
     "id": "unanottedaleoni-2009",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Tre amici si svegliano a Las Vegas senza ricordare l'addio al celibato. Lo sposo è scomparso e devono ricostruire una notte piena di indizi assurdi."
   },
   {
     "title": "Una notte da leoni 2",
@@ -1117,7 +1186,8 @@
     "id": "unanottedaleoni2-2011",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un matrimonio in Thailandia riunisce gli amici per una festa tranquilla. Il risveglio a Bangkok, senza memoria e con una persona scomparsa, cambia i programmi."
   },
   {
     "title": "Una notte da leoni 3",
@@ -1133,7 +1203,8 @@
     "id": "unanottedaleoni3-2013",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un viaggio per aiutare Alan viene interrotto da un criminale alla ricerca di Chow. Gli amici devono ritrovarlo prima che la situazione precipiti."
   },
   {
     "title": "Terapia d'urto",
@@ -1149,7 +1220,8 @@
     "id": "terapiadurto-2003",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un uomo mite viene condannato a seguire una terapia per controllare la rabbia. Il terapeuta invadente sembra deciso a rendergli la vita ancora più difficile."
   },
   {
     "title": "Il grande Lebowski",
@@ -1165,7 +1237,8 @@
     "id": "ilgrandelebowski-1998",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Scambiato per un milionario, un fannullone chiede un risarcimento per il tappeto rovinato. La richiesta lo trascina in un bizzarro caso di rapimento."
   },
   {
     "title": "American Pie",
@@ -1181,7 +1254,8 @@
     "id": "americanpie-1999",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Quattro amici prossimi al diploma fanno un patto per vivere la prima esperienza sessuale. Tra feste e figuracce scoprono quanto sia complicato crescere."
   },
   {
     "title": "American Pie 2",
@@ -1197,7 +1271,8 @@
     "id": "americanpie2-2001",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Dopo il primo anno di college, alcuni amici affittano una casa al mare. L'estate offre nuove avventure sentimentali e molte occasioni per combinare guai."
   },
   {
     "title": "American Pie - Il matrimonio",
@@ -1213,7 +1288,8 @@
     "id": "americanpieilmatrimonio-2003",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Jim e Michelle preparano il matrimonio con l'aiuto degli amici. Tra parenti da conquistare e feste fuori controllo, arrivare all'altare è una sfida."
   },
   {
     "title": "American Reunion",
@@ -1229,7 +1305,8 @@
     "id": "americanreunion-2012",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Gli ex compagni di scuola tornano per una rimpatriata. Tra nuove responsabilità e vecchi desideri cercano di capire quanto siano cambiati."
   },
   {
     "title": "Superbad",
@@ -1245,7 +1322,8 @@
     "id": "superbad-2007",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due amici vogliono procurare alcolici per una festa prima del diploma. Una notte di imprevisti mette alla prova il loro rapporto e le ambizioni sentimentali."
   },
   {
     "title": "Palle al balzo - Dodgeball",
@@ -1261,7 +1339,8 @@
     "id": "pallealbalzododgeball-2004",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Il proprietario di una palestra rischia di perdere tutto. Con i clienti forma una squadra di dodgeball per vincere il denaro necessario a salvarla."
   },
   {
     "title": "Zohan - Tutte le donne vengono al pettine",
@@ -1277,7 +1356,8 @@
     "id": "zohantutteledonnevengonoalpettine-2008",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un agente israeliano finge la propria morte e va a New York per diventare parrucchiere. Il sogno di tranquillità deve fare i conti con il passato."
   },
   {
     "title": "Cambia la vita con un click",
@@ -1293,7 +1373,8 @@
     "id": "cambialavitaconunclick-2006",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un architetto ottiene un telecomando capace di controllare la sua vita. Saltare i momenti scomodi sembra comodo, finché il dispositivo anticipa le sue scelte."
   },
   {
     "title": "Zoolander",
@@ -1309,7 +1390,8 @@
     "id": "zoolander-2001",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un modello in crisi viene avvicinato da uno stilista che nasconde un piano criminale. Tra rivalità e pose leggendarie cerca una nuova ragione per brillare."
   },
   {
     "title": "Zoolander 2",
@@ -1325,7 +1407,8 @@
     "id": "zoolander2-2016",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Derek e Hansel tornano nella moda per indagare sulla morte di alcune celebrità. La missione li porta a Roma, tra nuovi rivali e vecchi segreti."
   },
   {
     "title": "Fratellastri a 40 anni",
@@ -1341,7 +1424,8 @@
     "id": "fratellastria40anni-2008",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due adulti ancora mantenuti dai genitori si ritrovano fratellastri. La convivenza imposta scatena una guerra domestica e un'improbabile alleanza."
   },
   {
     "title": "Daddy's Home",
@@ -1357,7 +1441,8 @@
     "id": "daddyshome-2015",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un patrigno cerca un rapporto con i figli della moglie. L'arrivo del loro padre biologico trasforma la famiglia in un terreno di competizione."
   },
   {
     "title": "Gli Stagisti",
@@ -1373,7 +1458,8 @@
     "id": "glistagisti-2013",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due venditori disoccupati ottengono uno stage presso Google. Per conquistare un posto devono collaborare con giovani esperti e adattarsi a un mondo sconosciuto."
   },
   {
     "title": "Elf",
@@ -1389,7 +1475,8 @@
     "id": "elf-2003",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Cresciuto tra gli elfi, Buddy scopre di essere umano e va a New York a cercare suo padre. L'entusiasmo natalizio sconvolge la vita della famiglia."
   },
   {
     "title": "2 Single a Nozze",
@@ -1405,7 +1492,8 @@
     "id": "2singleanozze-2005",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due amici si imbucano ai matrimoni per conoscere donne. Alle nozze della figlia di un politico, uno si innamora e mette in crisi le loro regole."
   },
   {
     "title": "Candidato a Sorpresa",
@@ -1421,7 +1509,8 @@
     "id": "candidatoasorpresa-2012",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un politico abituato a vincere affronta un avversario inesperto sostenuto da potenti finanziatori. La campagna degenera in una sfida di scandali e colpi bassi."
   },
   {
     "title": "Austin Powers: Il Controspione",
@@ -1437,7 +1526,8 @@
     "id": "austinpowersilcontrospione-1997",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Congelato negli anni Sessanta, Austin Powers si risveglia in un mondo diverso. Deve fermare il Dottor Male adattandosi a nuove abitudini e vecchie tentazioni."
   },
   {
     "title": "Austin Powers: La Spia Che Ci Provava",
@@ -1453,7 +1543,8 @@
     "id": "austinpowerslaspiacheciprovava-1999",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Il Dottor Male torna nel passato per rubare il segreto del fascino di Austin Powers. L'agente lo insegue affiancato da una nuova collega."
   },
   {
     "title": "Blades of Glory",
@@ -1469,7 +1560,8 @@
     "id": "bladesofglory-2007",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due pattinatori rivali vengono banditi dalle gare individuali. Per tornare sul ghiaccio decidono di competere insieme in una coppia fuori dagli schemi."
   },
   {
     "title": "Parto col Folle",
@@ -1485,7 +1577,8 @@
     "id": "partocolfolle-2010",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un futuro padre attraversa gli Stati Uniti per assistere alla nascita del figlio. Bloccato a terra, viaggia con un aspirante attore imprevedibile."
   },
   {
     "title": "Masterminds",
@@ -1501,7 +1594,8 @@
     "id": "masterminds-2016",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un addetto al trasporto valori partecipa a una rapina per conquistare una collega. Il bottino attira tradimenti e inseguitori, complicando il piano di fuga."
   },
   {
     "title": "Indovina perché ti odio",
@@ -1517,7 +1611,8 @@
     "id": "indovinaperchetiodio-2012",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un padre irresponsabile ricompare alla vigilia delle nozze del figlio. Debiti e vecchie ferite minacciano il matrimonio e il futuro dello sposo."
   },
   {
     "title": "Io vi dichiaro marito e marito",
@@ -1533,7 +1628,8 @@
     "id": "iovidichiaromaritoemarito-2007",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due vigili del fuoco si fingono una coppia per ottenere tutele previdenziali. La messinscena li obbliga ad affrontare pregiudizi e conseguenze inattese."
   },
   {
     "title": "L'altra sporca ultima meta",
@@ -1549,7 +1645,8 @@
     "id": "laltrasporcaultimameta-2005",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un ex campione di football finisce in carcere e allena i detenuti. La partita contro le guardie diventa una sfida di orgoglio e riscatto."
   },
   {
     "title": "Una scatenata dozzina",
@@ -1565,7 +1662,8 @@
     "id": "unascatenatadozzina-2003",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un allenatore e una scrittrice si trasferiscono con dodici figli per inseguire opportunità professionali. Coordinare la famiglia si rivela più impegnativo del previsto."
   },
   {
     "title": "Il ritorno della scatenata dozzina",
@@ -1581,7 +1679,8 @@
     "id": "ilritornodellascatenatadozzina-2005",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "I Baker vanno in vacanza al lago e incontrano un'altra famiglia numerosa. La rivalità tra i padri trasforma il soggiorno in una gara assurda."
   },
   {
     "title": "Un biglietto in due",
@@ -1597,7 +1696,8 @@
     "id": "unbigliettoindue-1987",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un professionista cerca di tornare a casa per il Ringraziamento. Il viaggio con un logorroico venditore, tra voli cancellati e contrattempi, diventa un'odissea."
   },
   {
     "title": "Agente Smart",
@@ -1613,7 +1713,8 @@
     "id": "agentesmart-2008",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un analista dei servizi segreti ottiene un incarico sul campo. Affiancato dall'Agente 99 deve sventare un complotto malgrado la propria goffaggine."
   },
   {
     "title": "Big Mama",
@@ -1629,7 +1730,8 @@
     "id": "bigmama-2000",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un agente assume l'identità di un'anziana signora per sorvegliare una testimone. La missione lo porta a gestire una famiglia e sentimenti inattesi."
   },
   {
     "title": "L'isola delle coppie",
@@ -1645,7 +1747,8 @@
     "id": "lisoladellecoppie-2009",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Quattro coppie raggiungono un resort tropicale per rilassarsi. Le sedute obbligatorie di terapia mettono a nudo problemi che preferirebbero ignorare."
   },
   {
     "title": "Tu, io e Dupree",
@@ -1661,7 +1764,8 @@
     "id": "tuioedupree-2006",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Una coppia di novelli sposi ospita un amico senza casa e senza lavoro. La sua presenza invadente trasforma la generosità in una prova per il matrimonio."
   },
   {
     "title": "Tutti pazzi per Mary",
@@ -1677,7 +1781,8 @@
     "id": "tuttipazzipermary-1998",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un uomo cerca la ragazza dei suoi sogni dopo una disastrosa serata al liceo. Il detective incaricato di trovarla finisce tra i suoi pretendenti."
   },
   {
     "title": "Tropic Thunder",
@@ -1693,7 +1798,8 @@
     "id": "tropicthunder-2008",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Una troupe gira un film di guerra nella giungla, ma gli attori si ritrovano in un conflitto reale. Convinti di recitare, non comprendono il pericolo."
   },
   {
     "title": "Starsky & Hutch",
@@ -1709,7 +1815,8 @@
     "id": "starskyhutch-2004",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due poliziotti dai caratteri opposti indagano su un traffico di droga negli anni Settanta. Una soffiata li avvicina a un imprenditore apparentemente rispettabile."
   },
   {
     "title": "Una pallottola spuntata",
@@ -1725,7 +1832,8 @@
     "id": "unapallottolaspuntata-1988",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Il maldestro tenente Frank Drebin indaga su un attentato contro un collega. Gli indizi portano a un piano che minaccia una visita della regina d'Inghilterra."
   },
   {
     "title": "Ti presento i miei",
@@ -1741,7 +1849,8 @@
     "id": "tipresentoimiei-2000",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Un infermiere conosce i genitori della fidanzata per ottenere il consenso alle nozze. Il futuro suocero, ex agente della CIA, lo sottopone a un esame spietato."
   },
   {
     "title": "Libera uscita",
@@ -1757,7 +1866,8 @@
     "id": "liberauscita-2011",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Due mogli concedono ai mariti una settimana di libertà matrimoniale. La fantasia di tornare single si scontra con una realtà meno semplice del previsto."
   },
   {
     "title": "Juno",
@@ -1773,7 +1883,8 @@
     "id": "juno-2007",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Una liceale rimane incinta e cerca una famiglia adottiva. Mentre affronta le proprie scelte scopre contraddizioni e fragilità del mondo adulto."
   },
   {
     "title": "Duplex",
@@ -1789,7 +1900,8 @@
     "id": "duplex-2003",
     "genres": [
       "American Comedy"
-    ]
+    ],
+    "synopsis": "Una coppia compra la casa dei sogni, ma deve condividerla con un'anziana inquilina. Le sue abitudini esasperanti trasformano la convivenza in una guerra quotidiana."
   },
   {
     "title": "Ferrari",
@@ -1805,7 +1917,8 @@
     "id": "ferrari-2023",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Nell'estate del 1957, Enzo Ferrari affronta difficoltà economiche e una crisi familiare. La preparazione della Mille Miglia diventa decisiva per il futuro della scuderia."
   },
   {
     "title": "Edison",
@@ -1821,7 +1934,8 @@
     "id": "edison-2005",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Thomas Edison e George Westinghouse competono per imporre il proprio sistema di distribuzione dell’elettricità. Invenzioni, investimenti e rivalità personali accompagnano la corsa a illuminare l’America."
   },
   {
     "title": "Ray",
@@ -1837,7 +1951,8 @@
     "id": "ray-2004",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Dall'infanzia nel Sud al successo, Ray Charles costruisce un linguaggio musicale unico. La carriera si intreccia alla cecità, ai rapporti familiari e alle dipendenze."
   },
   {
     "title": "Malcolm X",
@@ -1853,7 +1968,8 @@
     "id": "malcolmx-1992",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Malcolm X attraversa il carcere, la conversione religiosa e l'impegno per i diritti dei neri americani. Le sue idee cambiano insieme alle esperienze e agli scontri politici."
   },
   {
     "title": "Oppenheimer",
@@ -1869,7 +1985,8 @@
     "id": "oppenheimer-2023",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Robert Oppenheimer guida il progetto americano per costruire la bomba atomica. Il successo scientifico lascia spazio ai dilemmi morali e a un duro confronto politico."
   },
   {
     "title": "Napoleon",
@@ -1885,7 +2002,8 @@
     "id": "napoleon-2023",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "L'ascesa di Napoleone si sviluppa tra campagne militari e ambizioni politiche. Il rapporto tormentato con Giuseppina accompagna la sua ricerca di potere."
   },
   {
     "title": "Bohemian Rhapsody",
@@ -1901,7 +2019,8 @@
     "id": "bohemianrhapsody-2018",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Freddie Mercury trova nei Queen lo spazio per una voce e una personalità fuori dal comune. Il successo si intreccia alla ricerca di identità e appartenenza."
   },
   {
     "title": "Elvis",
@@ -1917,7 +2036,8 @@
     "id": "elvis-2022",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Elvis Presley passa dalle prime esibizioni alla fama mondiale sotto la guida del colonnello Parker. Il loro legame rivela il prezzo personale della celebrità."
   },
   {
     "title": "The Social Network",
@@ -1933,7 +2053,8 @@
     "id": "thesocialnetwork-2010",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Uno studente di Harvard trasforma un'idea in una piattaforma rivoluzionaria. La nascita di Facebook alimenta scontri su amicizia, proprietà e ambizione."
   },
   {
     "title": "The Founder",
@@ -1949,7 +2070,8 @@
     "id": "thefounder-2016",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Un venditore scopre il ristorante dei fratelli McDonald e intuisce il potenziale del loro sistema. L'espansione commerciale mette progressivamente in discussione l'accordo iniziale."
   },
   {
     "title": "La teoria del tutto",
@@ -1965,7 +2087,8 @@
     "id": "lateoriadeltutto-2014",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Stephen Hawking si innamora di Jane mentre studia cosmologia a Cambridge. La diagnosi di una malattia degenerativa cambia il futuro della coppia e della ricerca."
   },
   {
     "title": "Ali",
@@ -1981,7 +2104,8 @@
     "id": "ali-2001",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Muhammad Ali affronta gli anni decisivi tra ring, fede e lotte civili. Opporsi alla guerra del Vietnam mette in gioco molto più del titolo mondiale."
   },
   {
     "title": "Air",
@@ -1997,7 +2121,8 @@
     "id": "air-2023",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Un dirigente Nike punta su Michael Jordan per rilanciare il settore basket. Convincere la famiglia richiede una proposta capace di cambiare le regole degli sponsor."
   },
   {
     "title": "Sully",
@@ -2013,7 +2138,8 @@
     "id": "sully-2016",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Dopo un'avaria, Sully Sullenberger fa ammarare il suo aereo sull'Hudson. Mentre il pubblico lo celebra, un'indagine esamina ogni decisione presa in cabina."
   },
   {
     "title": "Gotti",
@@ -2029,7 +2155,8 @@
     "id": "gotti-2018",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "John Gotti scala la gerarchia mafiosa di New York coltivando un'immagine appariscente. Il potere criminale si intreccia ai rapporti familiari e alle indagini federali."
   },
   {
     "title": "Rocketman",
@@ -2045,7 +2172,8 @@
     "id": "rocketman-2019",
     "genres": [
       "Biography"
-    ]
+    ],
+    "synopsis": "Il pianista Reginald Dwight si trasforma nella star Elton John. Il viaggio musicale segue il successo, i rapporti difficili e la ricerca di equilibrio personale."
   },
   {
     "title": "Shrek",
@@ -2061,7 +2189,8 @@
     "id": "shrek-2001",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un orco solitario accetta di salvare una principessa per riavere la propria palude. Il viaggio con un asino parlante mette in discussione molti luoghi comuni delle fiabe."
   },
   {
     "title": "Shrek 2",
@@ -2077,7 +2206,8 @@
     "id": "shrek2-2004",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Shrek e Fiona incontrano i genitori di lei nel regno di Molto Molto Lontano. L'accoglienza poco calorosa nasconde piani per un matrimonio ritenuto più adatto."
   },
   {
     "title": "La città incantata",
@@ -2093,7 +2223,8 @@
     "id": "lacittaincantata-2001",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Una bambina entra in un mondo popolato da spiriti dopo che i genitori subiscono una trasformazione. Per aiutarli deve lavorare in uno stabilimento termale e trovare il proprio coraggio."
   },
   {
     "title": "Up",
@@ -2109,7 +2240,8 @@
     "id": "up-2009",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un anziano vedovo trasforma la propria casa in un mezzo volante per mantenere una promessa. Un piccolo esploratore imbarcato per sbaglio rende il viaggio imprevedibile."
   },
   {
     "title": "Scooby-Doo",
@@ -2125,7 +2257,8 @@
     "id": "scoobydoo-2002",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Dopo una separazione, gli investigatori della Mystery Inc. si ritrovano in un parco a tema. Le strane trasformazioni dei visitatori richiedono di superare i vecchi contrasti."
   },
   {
     "title": "Scooby-Doo 2",
@@ -2141,7 +2274,8 @@
     "id": "scoobydoo2-2004",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "I mostri dei vecchi casi della Mystery Inc. sembrano tornare in vita. La squadra deve smascherare chi li controlla mentre la propria reputazione viene messa in discussione."
   },
   {
     "title": "I Simpson - Il film",
@@ -2157,7 +2291,8 @@
     "id": "isimpsonilfilm-2007",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un disastro ambientale provocato da Homer mette Springfield sotto una gigantesca cupola. I Simpson devono affrontare l'ira della città e ritrovare un modo per restare uniti."
   },
   {
     "title": "Monster House",
@@ -2173,7 +2308,8 @@
     "id": "monsterhouse-2006",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Tre ragazzi sospettano che la casa di un vicino sia una creatura vivente. Con Halloween alle porte decidono di scoprire il segreto che si nasconde al suo interno."
   },
   {
     "title": "Totò Sapore e la magica storia della pizza",
@@ -2189,7 +2325,8 @@
     "id": "totosaporeelamagicastoriadellapizza-2003",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Nella Napoli settecentesca, un giovane cuoco riceve pentole magiche che lo aiutano a inseguire i propri sogni. Amore, rivalità e una strega ostile complicano il suo cammino."
   },
   {
     "title": "Monster & Co.",
@@ -2205,7 +2342,8 @@
     "id": "monsterco-2001",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Due mostri producono energia spaventando i bambini, finché una piccola umana entra nel loro mondo. Proteggerla li porta a mettere in discussione tutto ciò che sanno."
   },
   {
     "title": "Toy Story",
@@ -2221,7 +2359,8 @@
     "id": "toystory-1995",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Il cowboy Woody teme di perdere il proprio posto quando arriva Buzz Lightyear. La rivalità tra i giocattoli lascia spazio alla necessità di tornare insieme dal loro bambino."
   },
   {
     "title": "Toy Story 2",
@@ -2237,7 +2376,8 @@
     "id": "toystory2-1999",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Woody viene rubato da un collezionista e scopre di appartenere a una serie di giocattoli famosa. Gli amici organizzano il salvataggio mentre lui deve scegliere il proprio futuro."
   },
   {
     "title": "Toy Story 3",
@@ -2253,7 +2393,8 @@
     "id": "toystory3-2010",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Con Andy ormai pronto per il college, i giocattoli finiscono in un asilo. L'accoglienza promettente nasconde regole che li costringono a organizzare una fuga."
   },
   {
     "title": "Toy Story 4",
@@ -2269,7 +2410,8 @@
     "id": "toystory4-2019",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Woody cerca di aiutare Forky, un giocattolo convinto di essere spazzatura, durante una vacanza. L'incontro con una vecchia amica gli offre una prospettiva diversa sul proprio ruolo."
   },
   {
     "title": "Cars",
@@ -2285,7 +2427,8 @@
     "id": "cars-2006",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un'auto da corsa ambiziosa resta bloccata in una cittadina fuori dalle grandi strade. Conoscere gli abitanti cambia il suo modo di intendere il successo."
   },
   {
     "title": "Alla ricerca di Nemo",
@@ -2301,7 +2444,8 @@
     "id": "allaricercadinemo-2003",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un pesce pagliaccio attraversa l'oceano per cercare il figlio catturato da un sub. Lo accompagna Dory, una nuova amica con problemi di memoria e grande ottimismo."
   },
   {
     "title": "Ratatouille",
@@ -2317,7 +2461,8 @@
     "id": "ratatouille-2007",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un topo appassionato di cucina arriva a Parigi e stringe un'insolita alleanza con un aiutante di ristorante. Insieme cercano spazio in un mondo che non li considera adatti."
   },
   {
     "title": "Gli Incredibili",
@@ -2333,7 +2478,8 @@
     "id": "gliincredibili-2004",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Una famiglia di supereroi vive in incognito dopo il divieto di usare i poteri. Un incarico segreto riaccende la voglia d'avventura e attira una minaccia inattesa."
   },
   {
     "title": "Madagascar",
@@ -2349,7 +2495,8 @@
     "id": "madagascar-2005",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Quattro animali dello zoo di New York finiscono accidentalmente in Madagascar. La vita selvaggia mette alla prova amicizia, abitudini e istinti mai sperimentati."
   },
   {
     "title": "Madagascar 2",
@@ -2365,7 +2512,8 @@
     "id": "madagascar2-2005",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un tentativo di tornare a New York porta gli animali dello zoo in una riserva africana. L'incontro con le proprie origini riapre domande su identità e appartenenza."
   },
   {
     "title": "Happy Feet",
@@ -2381,7 +2529,8 @@
     "id": "happyfeet-2006",
     "genres": [
       "Cartoon"
-    ]
+    ],
+    "synopsis": "Un giovane pinguino imperatore non sa cantare come gli altri, ma possiede un talento per il ballo. La sua diversità lo spinge a cercare il proprio posto nel mondo."
   },
   {
     "title": "Lonely Hearts",
@@ -2397,7 +2546,8 @@
     "id": "lonelyhearts-2006",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Due investigatori cercano una coppia che seduce e deruba donne sole. L'indagine sui delitti si intreccia alle ferite personali degli uomini incaricati di fermarli."
   },
   {
     "title": "Deja Vu",
@@ -2413,7 +2563,8 @@
     "id": "dejavu-2006",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Dopo un attentato a un traghetto, un agente viene coinvolto in un sistema di sorveglianza sperimentale. Osservare il passato gli offre indizi e possibilità sempre più inquietanti."
   },
   {
     "title": "Heat - La sfida",
@@ -2429,7 +2580,8 @@
     "id": "heatlasfida-1995",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un investigatore di Los Angeles dà la caccia a una banda di rapinatori esperti. I due capi si riconoscono come avversari simili, mentre il lavoro consuma le loro vite private."
   },
   {
     "title": "Donnie Brasco",
@@ -2445,7 +2597,8 @@
     "id": "donniebrasco-1997",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un agente sotto copertura entra nella mafia newyorkese e conquista la fiducia di un anziano affiliato. L'amicizia che nasce rende sempre più doloroso il confine tra missione e lealtà."
   },
   {
     "title": "Pulp Fiction",
@@ -2461,7 +2614,8 @@
     "id": "pulpfiction-1994",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Nella criminalità di Los Angeles si incrociano le vicende di due sicari, un pugile e la moglie di un boss. Incontri casuali e decisioni sbagliate cambiano il corso delle loro giornate."
   },
   {
     "title": "Casinò",
@@ -2477,7 +2631,8 @@
     "id": "casino-1995",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un esperto scommettitore gestisce un casinò di Las Vegas per conto della mafia. Denaro, amicizia e una relazione tormentata minacciano l'equilibrio costruito con tanta cura."
   },
   {
     "title": "Le Iene",
@@ -2493,7 +2648,8 @@
     "id": "leiene-1992",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Dopo una rapina fallita, alcuni criminali si rifugiano in un magazzino. Convinti che ci sia una spia tra loro, cominciano a sospettare gli uni degli altri."
   },
   {
     "title": "Seven",
@@ -2509,7 +2665,8 @@
     "id": "seven-1995",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un detective prossimo al ritiro e un giovane collega inseguono un assassino che si ispira ai sette peccati capitali. Ogni delitto sembra una tappa di un piano preciso."
   },
   {
     "title": "Gone Baby Gone",
@@ -2525,7 +2682,8 @@
     "id": "gonebabygone-2007",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Due investigatori privati cercano una bambina scomparsa in un quartiere di Boston. L'indagine li conduce verso scelte morali per cui la legge non offre risposte semplici."
   },
   {
     "title": "Pride and Glory",
@@ -2541,7 +2699,8 @@
     "id": "prideandglory-2008",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un poliziotto indaga sulla morte di alcuni colleghi e scopre segnali di corruzione. Il caso mette in crisi i legami con una famiglia profondamente radicata nel corpo di polizia."
   },
   {
     "title": "The Departed",
@@ -2557,7 +2716,8 @@
     "id": "thedeparted-2006",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "A Boston, un poliziotto si infiltra nella banda di un boss mentre un suo uomo entra nelle forze dell'ordine. Entrambi cercano la talpa avversaria prima di essere scoperti."
   },
   {
     "title": "The Gentlemen",
@@ -2573,7 +2733,8 @@
     "id": "thegentlemen-2019",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un imprenditore del mercato della cannabis vuole cedere il proprio impero britannico. La notizia scatena tentativi di ricatto e accordi tra criminali dalle maniere raffinate."
   },
   {
     "title": "La 25ª ora",
@@ -2589,7 +2750,8 @@
     "id": "la25ora-2002",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Nelle ore che precedono l'ingresso in carcere, un uomo trascorre un'ultima giornata a New York. Gli incontri con amici, padre e compagna lo portano a ripensare alle proprie scelte."
   },
   {
     "title": "Prova a prendermi",
@@ -2605,7 +2767,8 @@
     "id": "provaaprendermi-2002",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un giovane truffatore cambia identità e professione per incassare assegni falsi. Un agente dell'FBI lo insegue attraverso gli anni, sviluppando con lui un rapporto insolito."
   },
   {
     "title": "Blood Diamond",
@@ -2621,7 +2784,8 @@
     "id": "blooddiamond-2006",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Durante la guerra civile in Sierra Leone, un contrabbandiere cerca un diamante scoperto da un pescatore. I loro interessi si intrecciano alla ricerca del figlio rapito dell'uomo."
   },
   {
     "title": "Killers of the Flower Moon",
@@ -2637,7 +2801,8 @@
     "id": "killersoftheflowermoon-2023",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Nell'Oklahoma degli anni Venti, una serie di morti colpisce gli Osage arricchiti dal petrolio. Una storia familiare rivela la violenza nascosta dietro avidità e apparente rispettabilità."
   },
   {
     "title": "Nessuna verità",
@@ -2653,7 +2818,8 @@
     "id": "nessunaverita-2008",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un agente sul campo e il suo superiore cercano di infiltrare una rete terroristica. Metodi diversi e alleanze fragili rendono difficile distinguere fiducia e manipolazione."
   },
   {
     "title": "Il fuoco della vendetta",
@@ -2669,7 +2835,8 @@
     "id": "ilfuocodellavendetta-2004",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un ex agente accetta di proteggere una bambina a Città del Messico. Il loro legame gli restituisce uno scopo, finché il rapimento della piccola lo spinge a una caccia senza tregua."
   },
   {
     "title": "Ocean's Eleven",
@@ -2685,7 +2852,8 @@
     "id": "oceanseleven-2001",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Danny Ocean raduna specialisti per rapinare tre casinò di Las Vegas nella stessa notte. Il piano include un proprietario potente e una complicazione sentimentale molto personale."
   },
   {
     "title": "Ocean's Twelve",
@@ -2701,7 +2869,8 @@
     "id": "oceanstwelve-2004",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "La banda di Ocean deve restituire il denaro rubato e accetta nuovi colpi in Europa. Un ladro rivale e un'indagine internazionale rendono ogni mossa più rischiosa."
   },
   {
     "title": "Ocean's Thirteen",
@@ -2717,7 +2886,8 @@
     "id": "oceansthirteen-2007",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un magnate tradisce un amico della banda di Ocean durante un affare alberghiero. Danny riunisce il gruppo per colpire il suo nuovo casinò nella notte dell'inaugurazione."
   },
   {
     "title": "Now You See Me - I maghi del crimine",
@@ -2733,7 +2903,8 @@
     "id": "nowyouseemeimaghidelcrimine-2013",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Quattro illusionisti mettono in scena spettacoli che sembrano includere vere rapine. Un agente dell'FBI cerca il trucco che lega le esibizioni a un piano più ampio."
   },
   {
     "title": "Now You See Me 2",
@@ -2749,7 +2920,8 @@
     "id": "nowyouseeme2-2016",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "I Quattro Cavalieri tornano alla ribalta, ma finiscono sotto il controllo di un imprenditore tecnologico. Per liberarsi devono organizzare un colpo fondato sull'inganno e sulla fiducia reciproca."
   },
   {
     "title": "Il collezionista di ossa",
@@ -2765,7 +2937,8 @@
     "id": "ilcollezionistadiossa-1999",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un investigatore immobilizzato e una giovane poliziotta seguono gli indizi lasciati da un assassino. Le scene del crimine nascondono messaggi da interpretare prima del prossimo omicidio."
   },
   {
     "title": "Slevin - Patto criminale",
@@ -2781,7 +2954,8 @@
     "id": "slevinpattocriminale-2006",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un giovane scambiato per un debitore viene coinvolto nella faida tra due boss. Tra sicari e poliziotti, cerca di capire come sia finito al centro del conflitto."
   },
   {
     "title": "American Gangster",
@@ -2797,7 +2971,8 @@
     "id": "americangangster-2007",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un trafficante costruisce un impero della droga nella Harlem degli anni Settanta. Un investigatore determinato cerca di fermarlo mentre affronta anche la corruzione della polizia."
   },
   {
     "title": "Il Padrino",
@@ -2813,7 +2988,8 @@
     "id": "ilpadrino-1972",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Il figlio di un potente boss vorrebbe restare lontano dagli affari familiari. Un attentato contro il padre lo costringe però a riconsiderare il proprio ruolo nella famiglia Corleone."
   },
   {
     "title": "Il Padrino - Parte II",
@@ -2829,7 +3005,8 @@
     "id": "ilpadrinoparteii-1974",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Michael Corleone cerca di consolidare il potere familiare mentre aumentano sospetti e tradimenti. La sua storia si intreccia all'ascesa del giovane Vito nella New York del passato."
   },
   {
     "title": "C'era una volta in America",
@@ -2845,7 +3022,8 @@
     "id": "ceraunavoltainamerica-1984",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un ex gangster torna nei luoghi dell'infanzia e ripensa agli amici cresciuti con lui. Memoria, amore e rimorso attraversano decenni di criminalità americana."
   },
   {
     "title": "Jackie Brown",
@@ -2861,7 +3039,8 @@
     "id": "jackiebrown-1997",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Una hostess sorpresa a trasportare denaro criminale viene stretta tra un trafficante e gli agenti federali. Per salvarsi prepara un piano che richiede di ingannare entrambi."
   },
   {
     "title": "I Fratelli Sisters",
@@ -2877,7 +3056,8 @@
     "id": "ifratellisisters-2018",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Due fratelli sicari inseguono un cercatore d'oro nel West ottocentesco. La missione mette alla prova il loro legame e il desiderio di immaginare una vita diversa."
   },
   {
     "title": "Out of Sight",
@@ -2893,7 +3073,8 @@
     "id": "outofsight-1998",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un rapinatore evaso prende in ostaggio un'agente federale e tra loro nasce un'attrazione inattesa. La caccia prosegue mentre i rispettivi ruoli li spingono su fronti opposti."
   },
   {
     "title": "Taxi Driver",
@@ -2909,7 +3090,8 @@
     "id": "taxidriver-1976",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un reduce del Vietnam lavora di notte come tassista a New York. Solitudine e disgusto per la città alimentano un'idea sempre più ossessiva di redenzione."
   },
   {
     "title": "Nella giungla di cemento",
@@ -2925,7 +3107,8 @@
     "id": "nellagiungladicemento-1993",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un giovane cresciuto tra violenza e criminalità a Los Angeles cerca una via d'uscita. Le amicizie e le scelte del passato rendono difficile cambiare direzione."
   },
   {
     "title": "Scarface",
@@ -2941,7 +3124,8 @@
     "id": "scarface-1983",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un immigrato cubano entra nel traffico di droga a Miami e punta al vertice. La conquista del potere esaspera ambizione, sospetti e conflitti personali."
   },
   {
     "title": "Prisoners",
@@ -2957,7 +3141,8 @@
     "id": "prisoners-2013",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Quando due bambine scompaiono, un padre decide di agire da solo mentre la polizia indaga. La ricerca della verità mette alla prova i suoi limiti morali."
   },
   {
     "title": "End of Watch",
@@ -2973,7 +3158,8 @@
     "id": "endofwatch-2012",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Due agenti pattugliano insieme i quartieri più difficili di Los Angeles. La loro amicizia viene messa in pericolo quando alcune operazioni attirano l'attenzione di un cartello."
   },
   {
     "title": "Pelham 123",
@@ -2989,7 +3175,8 @@
     "id": "pelham123-2009",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un gruppo armato prende il controllo di un treno della metropolitana di New York. Un addetto ai trasporti si ritrova a negoziare con il capo dei sequestratori."
   },
   {
     "title": "Inside Man",
@@ -3005,7 +3192,8 @@
     "id": "insideman-2006",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Una rapina in banca si trasforma in un lungo confronto tra un detective e un criminale meticoloso. Un'intermediaria influente cerca di proteggere segreti che vanno oltre il bottino."
   },
   {
     "title": "Bronson",
@@ -3021,7 +3209,8 @@
     "id": "bronson-2008",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un detenuto inglese costruisce attraverso risse e provocazioni un'identità pubblica chiamata Charles Bronson. La ricerca di notorietà trasforma il carcere nel palcoscenico della sua vita."
   },
   {
     "title": "I soliti sospetti",
@@ -3035,7 +3224,8 @@
     "id": "isolitisospetti-1995",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un interrogatorio cerca di ricostruire l'esplosione di una nave e l'incontro tra cinque criminali. Sul racconto aleggia il nome di un boss tanto misterioso quanto temuto."
   },
   {
     "title": "La promessa",
@@ -3051,7 +3241,8 @@
     "id": "lapromessa-2001",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Alla vigilia della pensione, un investigatore promette alla madre di una bambina uccisa di trovare il colpevole. L'impegno si trasforma gradualmente in un'ossessione personale."
   },
   {
     "title": "Sicario",
@@ -3067,7 +3258,8 @@
     "id": "sicario-2015",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un'agente dell'FBI viene assegnata a una squadra contro i cartelli della droga al confine messicano. L'operazione la espone a metodi e obiettivi che fatica a comprendere."
   },
   {
     "title": "Soldado",
@@ -3083,7 +3275,8 @@
     "id": "soldado-2018",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Una nuova operazione contro i cartelli prevede il rapimento della figlia di un boss. Quando il piano cambia, gli uomini coinvolti devono scegliere tra ordini e lealtà."
   },
   {
     "title": "Sin City",
@@ -3099,7 +3292,8 @@
     "id": "sincity-2005",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "In una città dominata da violenza e corruzione si intrecciano storie di vendetta, protezione e sopravvivenza. Detective, criminali e donne in pericolo cercano giustizia ai margini della legge."
   },
   {
     "title": "Collateral",
@@ -3115,7 +3309,8 @@
     "id": "collateral-2004",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un tassista di Los Angeles accetta un cliente per una notte intera. Scopre presto che l'uomo è un sicario e che le fermate corrispondono alle sue vittime."
   },
   {
     "title": "Four Brothers",
@@ -3131,7 +3326,8 @@
     "id": "fourbrothers-2005",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Quattro fratelli adottivi tornano a Detroit dopo l'uccisione della madre. Il desiderio di capire cosa sia successo li mette contro interessi criminali e autorità corrotte."
   },
   {
     "title": "Shaft",
@@ -3147,7 +3343,8 @@
     "id": "shaft-2000",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un detective di New York cerca di fermare un giovane ricco accusato di un'aggressione razzista. Proteggere una testimone diventa essenziale per contrastare privilegi e intimidazioni."
   },
   {
     "title": "Le belve",
@@ -3163,7 +3360,8 @@
     "id": "lebelve-2012",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Due coltivatori di marijuana condividono un'attività redditizia e l'amore per la stessa donna. Il rapimento di lei da parte di un cartello li spinge a reagire."
   },
   {
     "title": "Blow",
@@ -3179,7 +3377,8 @@
     "id": "blow-2001",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Un giovane americano entra nel traffico di marijuana e poi nel mercato della cocaina. Il successo criminale promette ricchezza, ma rende sempre più fragili i rapporti personali."
   },
   {
     "title": "Escobar - Il fascino del male",
@@ -3195,7 +3394,8 @@
     "id": "escobarilfascinodelmale-2017",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Una giornalista colombiana si lega sentimentalmente a Pablo Escobar durante la sua ascesa. Il fascino iniziale lascia spazio al peso della violenza e del potere."
   },
   {
     "title": "Capone",
@@ -3211,7 +3411,8 @@
     "id": "capone-2020",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Negli ultimi anni di vita, Al Capone vive sorvegliato e tormentato dalla malattia. Ricordi confusi e sospetti su denaro nascosto popolano il suo isolamento."
   },
   {
     "title": "Oxford Murders - Teorema di un delitto",
@@ -3227,7 +3428,8 @@
     "id": "oxfordmurdersteoremadiundelitto-2008",
     "genres": [
       "Crime"
-    ]
+    ],
+    "synopsis": "Uno studente americano e un professore di logica indagano su una serie di omicidi a Oxford. I messaggi lasciati dall'assassino sembrano seguire una sequenza matematica."
   },
   {
     "title": "Il Pianista",
@@ -3243,7 +3445,8 @@
     "id": "ilpianista-2002",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un pianista ebreo cerca di sopravvivere nella Varsavia occupata dai nazisti. La musica e l'aiuto di poche persone restano punti di riferimento in una città devastata."
   },
   {
     "title": "Animali Notturni",
@@ -3259,7 +3462,8 @@
     "id": "animalinotturni-2016",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Una gallerista riceve dall'ex marito un romanzo violento e inquietante. La lettura si intreccia ai ricordi del loro rapporto e alle scelte che li hanno separati."
   },
   {
     "title": "Le ali della libertà",
@@ -3275,7 +3479,8 @@
     "id": "lealidellaliberta-1994",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Condannato per omicidio, un banchiere entra nel carcere di Shawshank e stringe amicizia con un detenuto di lunga esperienza. La speranza diventa una forma quotidiana di resistenza."
   },
   {
     "title": "Schindler's List",
@@ -3291,7 +3496,8 @@
     "id": "schindlerslist-1993",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un imprenditore tedesco impiega operai ebrei per sfruttare le opportunità della guerra. Di fronte alle persecuzioni, il suo rapporto con il denaro e la responsabilità cambia."
   },
   {
     "title": "Sleepers",
@@ -3307,7 +3513,8 @@
     "id": "sleepers-1996",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Quattro amici crescono in un quartiere difficile di New York e finiscono in un riformatorio. Anni dopo, il passato riemerge e li costringe a confrontarsi con le violenze subite."
   },
   {
     "title": "The Truman Show",
@@ -3323,7 +3530,8 @@
     "id": "thetrumanshow-1998",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un uomo conduce una vita apparentemente perfetta in una cittadina ordinata. Piccole anomalie alimentano però il dubbio che il mondo intorno a lui nasconda qualcosa."
   },
   {
     "title": "Gran Torino",
@@ -3339,7 +3547,8 @@
     "id": "grantorino-2008",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un veterano scontroso vive isolato in un quartiere cambiato dall'immigrazione. Il rapporto con una famiglia vicina lo coinvolge nella difesa di un ragazzo minacciato da una gang."
   },
   {
     "title": "Boogie Nights - L'altra Hollywood",
@@ -3355,7 +3564,8 @@
     "id": "boogienightslaltrahollywood-1997",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un giovane viene scoperto da un regista e diventa una star del cinema per adulti. La nuova famiglia professionale affronta successo, eccessi e trasformazioni dell'industria."
   },
   {
     "title": "Mystic River",
@@ -3371,7 +3581,8 @@
     "id": "mysticriver-2003",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "L'omicidio di una ragazza riunisce tre uomini segnati da un trauma infantile. L'indagine e il dolore riaprono sospetti che minacciano di distruggere ogni legame."
   },
   {
     "title": "Frankenstein",
@@ -3387,7 +3598,8 @@
     "id": "frankenstein-2025",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Victor Frankenstein sfida i limiti della scienza per dare vita a una creatura. Il loro rapporto mette in gioco ambizione, rifiuto e bisogno di essere riconosciuti."
   },
   {
     "title": "Collateral Beauty",
@@ -3403,7 +3615,8 @@
     "id": "collateralbeauty-2016",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un pubblicitario devastato da una perdita scrive lettere ad Amore, Tempo e Morte. Gli amici cercano di raggiungerlo mentre anche le loro vite attraversano momenti difficili."
   },
   {
     "title": "The Basketball Diaries",
@@ -3419,7 +3632,8 @@
     "id": "thebasketballdiaries-1995",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un adolescente di New York sogna un futuro nel basket e nella scrittura. L'avvicinamento alla droga minaccia il talento, le amicizie e il rapporto con la madre."
   },
   {
     "title": "Buon compleanno Mr. Grape",
@@ -3435,7 +3649,8 @@
     "id": "buoncompleannomrgrape-1993",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un giovane di provincia sostiene una famiglia segnata da molte difficoltà. L'incontro con una ragazza di passaggio gli permette di immaginare possibilità diverse."
   },
   {
     "title": "The Beach",
@@ -3451,7 +3666,8 @@
     "id": "thebeach-2000",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un viaggiatore raggiunge una spiaggia segreta in Thailandia, dove vive una comunità isolata. L'apparente paradiso rivela presto regole e tensioni difficili da ignorare."
   },
   {
     "title": "La maschera di ferro",
@@ -3467,7 +3683,8 @@
     "id": "lamascheradiferro-1998",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Nella Francia di Luigi XIV, alcuni ex moschettieri scoprono un segreto che può cambiare il regno. Il loro piano li mette davanti a un conflitto tra fedeltà e giustizia."
   },
   {
     "title": "C'era una volta a... Hollywood",
@@ -3483,7 +3700,8 @@
     "id": "ceraunavoltaahollywood-2019",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un attore televisivo e la sua controfigura cercano spazio nella Hollywood del 1969. Le loro giornate si incrociano con quelle di una giovane star e con un'epoca in cambiamento."
   },
   {
     "title": "Joker",
@@ -3499,7 +3717,8 @@
     "id": "joker-2019",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un aspirante comico vive ai margini di Gotham tra lavoro precario e problemi personali. L'indifferenza della città alimenta una trasformazione sempre più inquietante."
   },
   {
     "title": "A Beautiful Mind",
@@ -3515,7 +3734,8 @@
     "id": "abeautifulmind-2001",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Il matematico John Nash cerca un'idea capace di distinguerlo dai colleghi. La carriera e il matrimonio devono confrontarsi con una malattia che altera il suo rapporto con la realtà."
   },
   {
     "title": "Patch Adams",
@@ -3531,7 +3751,8 @@
     "id": "patchadams-1998",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Uno studente di medicina sceglie di curare le persone anche attraverso umorismo e vicinanza. Il suo approccio entra in conflitto con le regole dell'ambiente accademico."
   },
   {
     "title": "Million Dollar Baby",
@@ -3547,7 +3768,8 @@
     "id": "milliondollarbaby-2004",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Una donna determinata convince un allenatore disilluso a prepararla per la boxe. Il lavoro in palestra costruisce un legame che supera le differenze tra le loro vite."
   },
   {
     "title": "The Fighter",
@@ -3563,7 +3785,8 @@
     "id": "thefighter-2010",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un pugile cerca l'occasione per affermarsi mentre il fratello, suo allenatore, combatte le dipendenze. Le tensioni familiari rendono difficile scegliere la propria strada."
   },
   {
     "title": "Brothers",
@@ -3579,7 +3802,8 @@
     "id": "brothers-2009",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un militare scomparso in Afghanistan viene creduto morto, avvicinando la moglie al fratello di lui. Il suo ritorno mette alla prova una famiglia segnata dalla guerra."
   },
   {
     "title": "Warrior",
@@ -3595,7 +3819,8 @@
     "id": "warrior-2011",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Due fratelli separati da anni si preparano allo stesso torneo di arti marziali miste. Il percorso sportivo riapre ferite legate al padre e al passato familiare."
   },
   {
     "title": "Non è mai troppo tardi",
@@ -3611,7 +3836,8 @@
     "id": "nonemaitroppotardi-2007",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Due uomini malati, molto diversi tra loro, condividono una stanza d'ospedale. Decidono di partire per realizzare una lista di desideri rimasti troppo a lungo in sospeso."
   },
   {
     "title": "Emancipation",
@@ -3627,7 +3853,8 @@
     "id": "emancipation-2022",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Uno schiavo fugge da un campo di lavoro durante la guerra civile americana. Attraversa territori ostili e paludi per cercare libertà e ricongiungersi alla famiglia."
   },
   {
     "title": "Forrest Gump",
@@ -3643,7 +3870,8 @@
     "id": "forrestgump-1994",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un uomo dal cuore semplice attraversa decenni di storia americana senza perdere la propria gentilezza. A guidarlo sono l'affetto per la madre e l'amore per Jenny."
   },
   {
     "title": "The Great Gatsby",
@@ -3659,7 +3887,8 @@
     "id": "thegreatgatsby-2013",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un giovane arrivato a New York conosce il misterioso vicino Gatsby e le sue feste sontuose. Dietro la ricchezza scopre il desiderio di riconquistare un amore passato."
   },
   {
     "title": "L'Avvocato del Diavolo",
@@ -3675,7 +3904,8 @@
     "id": "lavvocatodeldiavolo-1997",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un giovane avvocato viene assunto da un prestigioso studio di New York. Il successo professionale e il carisma del capo nascondono un prezzo sempre più inquietante."
   },
   {
     "title": "Leon",
@@ -3691,7 +3921,8 @@
     "id": "leon-1994",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Una ragazzina sopravvive all'uccisione della famiglia e trova rifugio da un sicario solitario. Tra loro nasce un legame che mette in discussione la vita dell'uomo."
   },
   {
     "title": "Sweeney Todd: Il diabolico barbiere di Fleet Street",
@@ -3707,7 +3938,8 @@
     "id": "sweeneytoddildiabolicobarbieredifleetstreet-2007",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un barbiere torna a Londra dopo anni di lontananza e cerca chi ha distrutto la sua famiglia. L'alleanza con una venditrice di pasticci accompagna un progetto di vendetta."
   },
   {
     "title": "Salvate il Soldato Ryan",
@@ -3723,7 +3955,8 @@
     "id": "salvateilsoldatoryan-1998",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Dopo lo sbarco in Normandia, una squadra americana deve trovare un soldato e riportarlo a casa. La missione attraversa il fronte e interroga il valore di una singola vita."
   },
   {
     "title": "House of Gucci",
@@ -3739,7 +3972,8 @@
     "id": "houseofgucci-2021",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Il matrimonio tra Patrizia Reggiani e Maurizio Gucci apre le porte di una celebre dinastia della moda. Ambizioni, conflitti familiari e lotte per il controllo incrinano il rapporto."
   },
   {
     "title": "The Last Duel",
@@ -3755,7 +3989,8 @@
     "id": "thelastduel-2021",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Nella Francia medievale, una donna accusa un nobile di violenza e il marito chiede giustizia. Le versioni dei protagonisti conducono a uno scontro regolato dal duello."
   },
   {
     "title": "Silence",
@@ -3771,7 +4006,8 @@
     "id": "silence-2016",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Due gesuiti raggiungono il Giappone del Seicento per cercare il loro maestro. La persecuzione dei cristiani mette alla prova fede, coscienza e capacità di resistere."
   },
   {
     "title": "J. Edgar",
@@ -3787,7 +4023,8 @@
     "id": "jedgar-2011",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "La vita di J. Edgar Hoover segue la costruzione del suo potere alla guida dell'FBI. Dietro l'immagine pubblica emergono ossessioni, segreti e rapporti privati complessi."
   },
   {
     "title": "Demolition",
@@ -3803,7 +4040,8 @@
     "id": "demolition-2015",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Dopo la morte della moglie, un uomo comincia a smontare oggetti e abitudini della propria vita. Un rapporto inatteso lo aiuta a dare forma a un dolore che non comprende."
   },
   {
     "title": "12 anni schiavo",
@@ -3819,7 +4057,8 @@
     "id": "12annischiavo-2013",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un musicista nero nato libero viene rapito e venduto come schiavo. La lotta per conservare identità e dignità accompagna la speranza di tornare alla propria famiglia."
   },
   {
     "title": "Green Book",
@@ -3835,7 +4074,8 @@
     "id": "greenbook-2018",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un buttafuori italoamericano accompagna un pianista nero in tournée nel Sud degli Stati Uniti. Il viaggio negli anni Sessanta li confronta con razzismo e reciproci pregiudizi."
   },
   {
     "title": "Qualcuno volò sul nido del cuculo",
@@ -3851,7 +4091,8 @@
     "id": "qualcunovolosulnidodelcuculo-1975",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un detenuto si fa trasferire in un ospedale psichiatrico sperando in condizioni migliori. Il conflitto con l'infermiera responsabile coinvolge gli altri pazienti e il loro desiderio di autonomia."
   },
   {
     "title": "Match Point",
@@ -3867,7 +4108,8 @@
     "id": "matchpoint-2005",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un ex tennista entra nell'alta società londinese attraverso una relazione sentimentale. L'attrazione per un'altra donna minaccia l'equilibrio costruito e lo porta a scelte rischiose."
   },
   {
     "title": "Il curioso caso di Benjamin Button",
@@ -3883,7 +4125,8 @@
     "id": "ilcuriosocasodibenjaminbutton-2008",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un uomo nasce con l'aspetto di un anziano e ringiovanisce nel corso della vita. Il tempo rende il suo incontro con l'amore tanto prezioso quanto complicato."
   },
   {
     "title": "Oliver Twist",
@@ -3899,7 +4142,8 @@
     "id": "olivertwist-2005",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un orfano fugge dalle difficili condizioni di un istituto e raggiunge Londra. L'accoglienza di una banda di piccoli ladri lo espone a pericoli e incontri decisivi."
   },
   {
     "title": "8 Mile",
@@ -3915,7 +4159,8 @@
     "id": "8mile-2002",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un giovane operaio di Detroit sogna di emergere come rapper. Le sfide sul palco si intrecciano ai problemi familiari e alla paura di non essere all'altezza."
   },
   {
     "title": "Come un tuono",
@@ -3931,7 +4176,8 @@
     "id": "comeuntuono-2012",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un motociclista scopre di avere un figlio e cerca denaro per sostenerlo. Le sue scelte incrociano la vita di un poliziotto, con conseguenze che attraversano le generazioni."
   },
   {
     "title": "Quasi Amici",
@@ -3947,7 +4193,8 @@
     "id": "quasiamici-2011",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un ricco aristocratico tetraplegico assume un giovane senza esperienza come assistente. Il confronto tra mondi lontani dà origine a un'amicizia capace di cambiare entrambi."
   },
   {
     "title": "Il diavolo veste Prada",
@@ -3963,7 +4210,8 @@
     "id": "ildiavolovesteprada-2006",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Una giovane aspirante giornalista diventa assistente della direttrice di una rivista di moda. Le richieste del lavoro mettono alla prova ambizioni, relazioni e priorità."
   },
   {
     "title": "Don Jon",
@@ -3979,7 +4227,8 @@
     "id": "donjon-2013",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un giovane soddisfatto delle proprie abitudini fatica a distinguere intimità e fantasia. Due incontri lo portano a mettere in discussione il modo in cui vive le relazioni."
   },
   {
     "title": "Cast Away",
@@ -3995,7 +4244,8 @@
     "id": "castaway-2000",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un incidente aereo lascia un dirigente aziendale solo su un'isola deserta. La sopravvivenza gli impone di reinventare le abitudini e il proprio rapporto con il tempo."
   },
   {
     "title": "Il miglio verde",
@@ -4011,7 +4261,8 @@
     "id": "ilmiglioverde-1999",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un secondino del braccio della morte incontra un detenuto dalla forza imponente e dall'animo gentile. Eventi inspiegabili lo spingono a interrogarsi su colpa e giustizia."
   },
   {
     "title": "The Others",
@@ -4027,7 +4278,8 @@
     "id": "theothers-2001",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "In una casa isolata, una madre protegge i figli sensibili alla luce mantenendo regole rigidissime. L'arrivo di nuovi domestici coincide con presenze e rumori inquietanti."
   },
   {
     "title": "Derailed",
@@ -4043,7 +4295,8 @@
     "id": "derailed-2005",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Due pendolari sposati iniziano una relazione, ma un incontro in albergo cambia tutto. Il tentativo di tenere nascosto il tradimento li espone a minacce e ricatti."
   },
   {
     "title": "The Wrestler",
@@ -4059,7 +4312,8 @@
     "id": "thewrestler-2008",
     "genres": [
       "Drama"
-    ]
+    ],
+    "synopsis": "Un wrestler invecchiato continua a esibirsi malgrado le conseguenze sul corpo. Quando la salute vacilla, prova a ricostruire i rapporti con la figlia e una donna che gli è vicina."
   },
   {
     "title": "Batman Begins",
@@ -4075,7 +4329,8 @@
     "id": "batmanbegins-2005",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Bruce Wayne torna a Gotham dopo anni di viaggio e addestramento. Per combattere criminalità e corruzione costruisce l'identità di Batman, affrontando una minaccia legata al proprio passato."
   },
   {
     "title": "Il cavaliere oscuro",
@@ -4091,7 +4346,8 @@
     "id": "ilcavaliereoscuro-2008",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Batman e le autorità cercano di sottrarre Gotham alla criminalità organizzata. L'arrivo del Joker trasforma la lotta in una sfida che mette in crisi regole e certezze."
   },
   {
     "title": "Il cavaliere oscuro - Il ritorno",
@@ -4107,7 +4363,8 @@
     "id": "ilcavaliereoscuroilritorno-2012",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Dopo anni di isolamento, Bruce Wayne deve tornare a proteggere Gotham. Un avversario chiamato Bane e una ladra sfuggente sconvolgono gli equilibri della città."
   },
   {
     "title": "Iron Man",
@@ -4123,7 +4380,8 @@
     "id": "ironman-2008",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Rapito durante un viaggio di lavoro, un industriale degli armamenti costruisce un'armatura per fuggire. Tornato a casa decide di usare l'invenzione per cambiare il proprio ruolo nel mondo."
   },
   {
     "title": "Iron Man 2",
@@ -4139,7 +4397,8 @@
     "id": "ironman2-2010",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "L'identità pubblica di Iron Man attira pressioni politiche e nuovi avversari. Tony Stark cerca di risolvere anche un problema che minaccia la sua salute."
   },
   {
     "title": "Iron Man 3",
@@ -4155,7 +4414,8 @@
     "id": "ironman3-2013",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Una serie di attacchi attribuiti al Mandarino colpisce il mondo di Tony Stark. Privato delle abituali certezze, deve capire quanto conti l'uomo al di là dell'armatura."
   },
   {
     "title": "Spider-Man",
@@ -4171,7 +4431,8 @@
     "id": "spiderman-2002",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Il morso di un ragno dona a Peter Parker capacità straordinarie. Mentre scopre amore e responsabilità, un pericoloso avversario emerge dal mondo della ricerca."
   },
   {
     "title": "Spider-Man 2",
@@ -4187,7 +4448,8 @@
     "id": "spiderman2-2004",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Peter fatica a conciliare studi, affetti e doveri di Spider-Man. Un brillante scienziato trasformato da un incidente mette ulteriormente alla prova le sue scelte."
   },
   {
     "title": "Spider-Man 3",
@@ -4203,7 +4465,8 @@
     "id": "spiderman3-2007",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Un misterioso simbionte amplifica i poteri e l'aggressività di Peter Parker. Nuovi nemici e vecchi rancori minacciano le sue relazioni più importanti."
   },
   {
     "title": "The Amazing Spider-Man",
@@ -4219,7 +4482,8 @@
     "id": "theamazingspiderman-2012",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Peter Parker cerca risposte sulla scomparsa dei genitori e acquisisce poteri inaspettati. L'indagine lo avvicina a uno scienziato impegnato in una ricerca rischiosa."
   },
   {
     "title": "The Amazing Spider-Man 2",
@@ -4235,7 +4499,8 @@
     "id": "theamazingspiderman2-2014",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Peter affronta nuovi avversari mentre cerca di proteggere Gwen dalle conseguenze della propria doppia vita. Un vecchio amico riporta a galla segreti della Oscorp."
   },
   {
     "title": "Spider-Man: Homecoming",
@@ -4251,7 +4516,8 @@
     "id": "spidermanhomecoming-2017",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Dopo l'incontro con gli Avengers, Peter vorrebbe dimostrare di essere pronto per missioni importanti. Un traffico di armi tecnologiche lo porta contro un nemico molto vicino alla quotidianità."
   },
   {
     "title": "Spider-Man: Far From Home",
@@ -4267,7 +4533,8 @@
     "id": "spidermanfarfromhome-2019",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Peter parte per una gita scolastica in Europa sperando di avvicinarsi alla ragazza che gli piace. Nick Fury gli chiede però di affrontare una nuova minaccia insieme a Mysterio."
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -4283,7 +4550,8 @@
     "id": "spidermannowayhome-2021",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Con l'identità di Spider-Man resa pubblica, Peter chiede aiuto a Doctor Strange. Un incantesimo apre conseguenze impreviste che oltrepassano i confini del suo universo."
   },
   {
     "title": "Thor",
@@ -4299,7 +4567,8 @@
     "id": "thor-2011",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Il principe Thor viene bandito da Asgard e mandato sulla Terra senza i suoi poteri. Mentre impara l'umiltà, lotte dinastiche mettono in pericolo il suo regno."
   },
   {
     "title": "Thor: The Dark World",
@@ -4315,7 +4584,8 @@
     "id": "thorthedarkworld-2013",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Un'antica forza minaccia l'equilibrio dei mondi e coinvolge Jane Foster. Thor deve trovare un modo per fermarla, anche cercando un'alleanza difficile con Loki."
   },
   {
     "title": "Thor: Ragnarok",
@@ -4331,7 +4601,8 @@
     "id": "thorragnarok-2017",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Thor si ritrova prigioniero su un pianeta lontano, costretto a combattere nell'arena. Per salvare Asgard da Hela deve organizzare una fuga con alleati inattesi."
   },
   {
     "title": "Thor: Love and Thunder",
@@ -4347,7 +4618,8 @@
     "id": "thorloveandthunder-2022",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Thor interrompe la ricerca di pace per affrontare un nemico deciso a colpire gli dei. Al suo fianco torna Jane Foster, che ora impugna il martello Mjolnir."
   },
   {
     "title": "The Batman",
@@ -4363,7 +4635,8 @@
     "id": "thebatman-2022",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Un assassino prende di mira i potenti di Gotham lasciando enigmi per Batman. L'indagine porta il giovane vigilante dentro una rete di corruzione legata anche alla sua famiglia."
   },
   {
     "title": "Guardiani della Galassia",
@@ -4379,7 +4652,8 @@
     "id": "guardianidellagalassia-2014",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Un avventuriero spaziale ruba un oggetto ricercato da molti nemici. Per sopravvivere si allea con quattro fuorilegge, formando una squadra tanto improbabile quanto necessaria."
   },
   {
     "title": "Guardiani della Galassia Vol. 2",
@@ -4395,7 +4669,8 @@
     "id": "guardianidellagalassiavol2-2017",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "I Guardiani affrontano una nuova missione mentre Peter Quill incontra un uomo legato alle sue origini. La scoperta riapre domande su famiglia, fiducia e appartenenza."
   },
   {
     "title": "Guardiani della Galassia Vol. 3",
@@ -4411,7 +4686,8 @@
     "id": "guardianidellagalassiavol3-2023",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Una minaccia contro Rocket costringe i Guardiani a esplorarne il passato. Per proteggere l'amico devono affrontare uno scienziato ossessionato dall'idea di perfezione."
   },
   {
     "title": "Deadpool",
@@ -4427,7 +4703,8 @@
     "id": "deadpool-2016",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Un mercenario malato accetta un trattamento sperimentale che gli dona capacità rigenerative. Trasformato e segnato dall'esperienza, cerca il responsabile assumendo l'identità di Deadpool."
   },
   {
     "title": "Deadpool 2",
@@ -4443,7 +4720,8 @@
     "id": "deadpool2-2018",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "Deadpool cerca di proteggere un giovane mutante inseguito da un soldato proveniente dal futuro. Per affrontare la minaccia mette insieme una squadra dai risultati imprevedibili."
   },
   {
     "title": "Deadpool 3",
@@ -4459,7 +4737,8 @@
     "id": "deadpool3-2024",
     "genres": [
       "Heroes"
-    ]
+    ],
+    "synopsis": "La possibilità di perdere il proprio universo interrompe la nuova routine di Deadpool. Per tentare di salvarlo cerca l'aiuto di un Wolverine diverso da quello che conosceva."
   },
   {
     "title": "1917",
@@ -4475,7 +4754,8 @@
     "id": "1917-2019",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Due soldati britannici devono attraversare il territorio nemico durante la Prima guerra mondiale. Portano un messaggio urgente per impedire un attacco destinato a trasformarsi in una trappola."
   },
   {
     "title": "Niente di nuovo sul fronte occidentale",
@@ -4491,7 +4771,8 @@
     "id": "nientedinuovosulfronteoccidentale-2022",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un giovane tedesco si arruola con entusiasmo durante la Prima guerra mondiale. La vita in trincea distrugge rapidamente l'immagine eroica del conflitto che gli era stata promessa."
   },
   {
     "title": "Operazione Valchiria",
@@ -4507,7 +4788,8 @@
     "id": "operazionevalchiria-2008",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un gruppo di ufficiali tedeschi prepara un attentato contro Hitler. Il piano richiede di coordinare uomini, ordini e comunicazioni prima che il regime scopra il complotto."
   },
   {
     "title": "The Imitation Game",
@@ -4523,7 +4805,8 @@
     "id": "theimitationgame-2014",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Il matematico Alan Turing lavora per decifrare i codici nazisti durante la Seconda guerra mondiale. La ricerca di una soluzione rivoluzionaria si intreccia ai segreti della sua vita privata."
   },
   {
     "title": "Fury",
@@ -4539,7 +4822,8 @@
     "id": "fury-2014",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Negli ultimi mesi della Seconda guerra mondiale, un giovane soldato entra nell'equipaggio di un carro armato. L'avanzata in Germania lo espone alla brutalità del fronte."
   },
   {
     "title": "BlacKkKlansman",
@@ -4555,7 +4839,8 @@
     "id": "blackkklansman-2018",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un poliziotto afroamericano avvia un'indagine sul Ku Klux Klan parlando al telefono con i suoi membri. Un collega bianco lo aiuta a sostenere l'identità durante gli incontri."
   },
   {
     "title": "Hacksaw Ridge",
@@ -4571,7 +4856,8 @@
     "id": "hacksawridge-2016",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un giovane americano si arruola ma rifiuta di impugnare un'arma per motivi di fede. Come soccorritore deve dimostrare sul fronte del Pacifico il valore delle proprie convinzioni."
   },
   {
     "title": "Dunkirk",
@@ -4587,7 +4873,8 @@
     "id": "dunkirk-2017",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Migliaia di soldati alleati restano intrappolati sulle spiagge di Dunkerque. Sulla terra, in mare e nei cieli prende forma una difficile operazione per riportarli a casa."
   },
   {
     "title": "Bastardi senza gloria",
@@ -4603,7 +4890,8 @@
     "id": "bastardisenzagloria-2009",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Nella Francia occupata, un gruppo di soldati ebrei americani conduce azioni contro i nazisti. Il loro percorso incrocia quello di una donna che gestisce un cinema a Parigi."
   },
   {
     "title": "L'Ultimo Samurai",
@@ -4619,7 +4907,8 @@
     "id": "lultimosamurai-2003",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un ex ufficiale americano viene assunto per addestrare l'esercito giapponese. L'incontro con i samurai ribelli lo porta a ripensare le proprie convinzioni e il peso del passato."
   },
   {
     "title": "Zero Dark Thirty",
@@ -4635,7 +4924,8 @@
     "id": "zerodarkthirty-2012",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un'analista della CIA segue per anni la caccia a Osama bin Laden. L'indagine attraversa indizi fragili, attentati e pressioni per arrivare a una possibile pista decisiva."
   },
   {
     "title": "Il Patriota",
@@ -4651,7 +4941,8 @@
     "id": "ilpatriota-2000",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un padre vedovo cerca di tenere la propria famiglia lontana dalla guerra d'indipendenza americana. La violenza del conflitto lo costringe a tornare a combattere."
   },
   {
     "title": "Norimberga",
@@ -4667,7 +4958,8 @@
     "id": "norimberga-2025",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Durante i preparativi del processo di Norimberga, uno psichiatra americano deve valutare alcuni dirigenti nazisti. Il confronto con Hermann Göring apre un inquietante duello psicologico."
   },
   {
     "title": "Le Crociate - Kingdom of Heaven",
@@ -4683,7 +4975,8 @@
     "id": "lecrociatekingdomofheaven-2005",
     "genres": [
       "Historical"
-    ]
+    ],
+    "synopsis": "Un fabbro francese raggiunge la Terra Santa e trova un posto tra i difensori di Gerusalemme. Tra fede, politica e guerra deve scegliere quali ideali meritino di essere protetti."
   },
   {
     "title": "The Nun",
@@ -4699,7 +4992,8 @@
     "id": "thenun-2018",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Una giovane novizia e un sacerdote indagano sulla morte di una suora in un monastero rumeno. La ricerca li avvicina a una presenza che assume un volto religioso."
   },
   {
     "title": "The Nun 2",
@@ -4715,7 +5009,8 @@
     "id": "thenun2-2023",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Una serie di morti sospette riporta suor Irene davanti alla minaccia del demone Valak. Il percorso conduce in Francia, dove un collegio nasconde nuovi pericoli."
   },
   {
     "title": "28 giorni dopo",
@@ -4731,7 +5026,8 @@
     "id": "28giornidopo-2002",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Un uomo si risveglia dal coma in una Londra deserta, colpita da un contagio che scatena aggressività estrema. Con altri superstiti cerca un luogo sicuro."
   },
   {
     "title": "28 settimane dopo",
@@ -4747,7 +5043,8 @@
     "id": "28settimanedopo-2007",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Dopo l'epidemia, una zona di Londra viene ripopolata sotto controllo militare. Il ritorno di due ragazzi alla casa di famiglia mette in crisi le misure di sicurezza."
   },
   {
     "title": "28 anni dopo",
@@ -4763,7 +5060,8 @@
     "id": "28annidopo-2025",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Molti anni dopo il contagio, alcuni superstiti vivono su un'isola isolata. Un ragazzo attraversa il passaggio verso la terraferma, scoprendo quanto sia cambiato il mondo esterno."
   },
   {
     "title": "A Quiet Place",
@@ -4779,7 +5077,8 @@
     "id": "aquietplace-2018",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Una famiglia sopravvive in silenzio per sfuggire a creature che cacciano attraverso i suoni. Ogni gesto quotidiano richiede attenzione, soprattutto quando si avvicina una nascita."
   },
   {
     "title": "A Quiet Place Part II",
@@ -4795,7 +5094,8 @@
     "id": "aquietplacepartii-2020",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Dopo aver perso il proprio rifugio, una famiglia deve esplorare nuovi territori senza attirare le creature. L'incontro con altri superstiti rivela che i pericoli non sono soltanto sonori."
   },
   {
     "title": "A Quiet Place: Day One",
@@ -4811,7 +5111,8 @@
     "id": "aquietplacedayone-2024",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Una donna si trova a New York quando comincia un attacco di creature sensibili ai rumori. Nel caos cerca una via attraverso la città insieme a un compagno inatteso."
   },
   {
     "title": "IT",
@@ -4827,7 +5128,8 @@
     "id": "it-2017",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "In una cittadina del Maine, alcuni ragazzi emarginati indagano sulla scomparsa di bambini. Una presenza capace di assumere le loro paure li costringe ad affrontarsi e a restare uniti."
   },
   {
     "title": "Midsommar",
@@ -4843,7 +5145,8 @@
     "id": "midsommar-2019",
     "genres": [
       "Horror"
-    ]
+    ],
+    "synopsis": "Una giovane coppia in crisi raggiunge un villaggio svedese per una festa estiva. Le tradizioni della comunità diventano progressivamente più inquietanti e difficili da comprendere."
   },
   {
     "title": "Natale sul Nilo",
@@ -4859,7 +5162,8 @@
     "id": "natalesulnilo-2002",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Una vacanza in Egitto mette insieme famiglie, militari e viaggiatori in cerca di svago. Gelosie e scambi di persona trasformano il soggiorno sul Nilo in un susseguirsi di equivoci."
   },
   {
     "title": "Natale a New York",
@@ -4875,7 +5179,8 @@
     "id": "nataleanewyork-2006",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Durante le feste, diversi italiani raggiungono New York tra progetti sentimentali e voglia di avventura. Bugie e incontri imprevisti complicano i piani di tutti."
   },
   {
     "title": "Natale a Miami",
@@ -4891,7 +5196,8 @@
     "id": "nataleamiami-2005",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Due amici partono con i rispettivi padri per una vacanza a Miami. Tra flirt, gelosie e tentativi di ricominciare, le generazioni finiscono per contendersi la scena."
   },
   {
     "title": "Natale a Rio",
@@ -4907,7 +5213,8 @@
     "id": "nataleario-2008",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Due famiglie in vacanza in Brasile vedono intrecciarsi i propri soggiorni. Scambi di identità, ambizioni e problemi sentimentali rendono Rio il teatro di continui equivoci."
   },
   {
     "title": "Natale a Beverly Hills",
@@ -4923,7 +5230,8 @@
     "id": "nataleabeverlyhills-2009",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Le vacanze natalizie a Beverly Hills fanno incontrare italiani con relazioni e interessi diversi. Segreti, ritorni dal passato e corteggiamenti mettono a rischio gli equilibri di coppia."
   },
   {
     "title": "Natale in India",
@@ -4939,7 +5247,8 @@
     "id": "nataleinindia-2003",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Un viaggio in India riunisce coppie e famiglie alle prese con rivalità e attrazioni. Avventure impreviste ed equivoci accompagnano il tentativo di godersi le vacanze."
   },
   {
     "title": "Natale in Crociera",
@@ -4955,7 +5264,8 @@
     "id": "nataleincrociera-2007",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Una crociera natalizia raccoglie viaggiatori che vorrebbero inseguire nuovi amori o nascondere vecchie bugie. Gli spazi condivisi della nave rendono difficile evitare gli incontri scomodi."
   },
   {
     "title": "Vacanze di Natale",
@@ -4971,7 +5281,8 @@
     "id": "vacanzedinatale-1983",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "A Cortina, famiglie di diversa estrazione sociale trascorrono le feste sulla neve. Amori, aspirazioni e tradimenti si intrecciano nel clima mondano delle vacanze."
   },
   {
     "title": "Vacanze di Natale '90",
@@ -4987,7 +5298,8 @@
     "id": "vacanzedinatale90-1990",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Tra alberghi, piste da sci e locali, diversi vacanzieri inseguono occasioni sentimentali. Le feste natalizie mettono a confronto desideri, status sociale e molte bugie."
   },
   {
     "title": "Vacanze di Natale '91",
@@ -5003,7 +5315,8 @@
     "id": "vacanzedinatale91-1991",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Una vacanza sulla neve fa incrociare coppie, corteggiatori e famiglie. I tentativi di nascondere tradimenti e differenze sociali producono una catena di situazioni imbarazzanti."
   },
   {
     "title": "Vacanze di Natale '95",
@@ -5019,7 +5332,8 @@
     "id": "vacanzedinatale95-1995",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "A Natale, un gruppo di italiani raggiunge una località sciistica americana. Tra corteggiamenti e imprevisti, la vacanza mette alla prova rapporti di coppia e rivalità."
   },
   {
     "title": "Vacanze di Natale 2000",
@@ -5035,7 +5349,8 @@
     "id": "vacanzedinatale2000-1999",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "A Cortina si incontrano famiglie e personaggi impegnati a esibire benessere e sedurre nuovi partner. Le feste diventano una corsa tra bugie e figuracce."
   },
   {
     "title": "Paparazzi",
@@ -5051,7 +5366,8 @@
     "id": "paparazzi-1998",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Un gruppo di fotografi insegue celebrità e scandali nella vita mondana italiana. La caccia allo scatto esclusivo si intreccia alle loro piccole rivalità e ambizioni."
   },
   {
     "title": "Tifosi",
@@ -5067,7 +5383,8 @@
     "id": "tifosi-1999",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Le vicende di diversi appassionati di calcio si incrociano durante una giornata di campionato. La fedeltà alla squadra provoca incontri, tensioni e situazioni fuori controllo."
   },
   {
     "title": "Christmas in Love",
@@ -5083,7 +5400,8 @@
     "id": "christmasinlove-2004",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Una vacanza natalizia in montagna riunisce famiglie e coppie con molti segreti da gestire. Vecchie relazioni e nuovi incontri complicano i progetti sentimentali."
   },
   {
     "title": "Olé",
@@ -5099,7 +5417,8 @@
     "id": "ole-2006",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Due insegnanti accompagnano una classe in gita in Spagna. Tra rivalità personali, corteggiamenti e studenti intraprendenti, mantenere il controllo del viaggio diventa un'impresa."
   },
   {
     "title": "Matrimonio alle Bahamas",
@@ -5115,7 +5434,8 @@
     "id": "matrimonioallebahamas-2007",
     "genres": [
       "Italian Comedy"
-    ]
+    ],
+    "synopsis": "Una ragazza italiana e un giovane americano progettano di sposarsi alle Bahamas. L'incontro tra le famiglie mette in scena differenze sociali, pregiudizi e continui imprevisti."
   },
   {
     "title": "Black Swan",
@@ -5131,7 +5451,8 @@
     "id": "blackswan-2010",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Una ballerina ottiene il ruolo principale nel Lago dei cigni e cerca una perfezione assoluta. La competizione e le pressioni personali confondono progressivamente realtà e percezione."
   },
   {
     "title": "Shutter Island",
@@ -5147,7 +5468,8 @@
     "id": "shutterisland-2010",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Due agenti raggiungono un ospedale psichiatrico su un'isola per indagare su una scomparsa. Una tempesta e il comportamento del personale alimentano sospetti sempre più inquietanti."
   },
   {
     "title": "Fight Club",
@@ -5163,7 +5485,8 @@
     "id": "fightclub-1999",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un impiegato insonne incontra un uomo anticonformista e fonda con lui un club di combattimenti clandestini. L'esperimento prende una direzione che sfugge alle intenzioni iniziali."
   },
   {
     "title": "American Psycho",
@@ -5179,7 +5502,8 @@
     "id": "americanpsycho-2000",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un giovane finanziere di Manhattan coltiva un'immagine di successo impeccabile. Dietro la routine fatta di status e consumi si nascondono ossessioni e impulsi violenti."
   },
   {
     "title": "Nightcrawler",
@@ -5195,7 +5519,8 @@
     "id": "nightcrawler-2014",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un uomo ambizioso scopre il mercato delle immagini di incidenti e crimini notturni. La ricerca di servizi sempre più spettacolari erode rapidamente ogni limite etico."
   },
   {
     "title": "Requiem for a Dream",
@@ -5211,7 +5536,8 @@
     "id": "requiemforadream-2000",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Quattro persone inseguono sogni di successo, amore e riconoscimento. Le dipendenze trasformano le promesse di una vita migliore in una spirale sempre più difficile da interrompere."
   },
   {
     "title": "Donnie Darko",
@@ -5227,7 +5553,8 @@
     "id": "donniedarko-2001",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un adolescente tormentato da visioni incontra una figura mascherata che annuncia una catastrofe. Eventi inspiegabili incrinano il confine tra destino, tempo e malattia."
   },
   {
     "title": "Enemy",
@@ -5243,7 +5570,8 @@
     "id": "enemy-2013",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un professore scopre un attore identico a lui e decide di cercarlo. L'incontro alimenta un'ossessione che sconvolge l'equilibrio delle loro vite."
   },
   {
     "title": "Get Out",
@@ -5259,7 +5587,8 @@
     "id": "getout-2017",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un giovane afroamericano visita per la prima volta la famiglia della fidanzata bianca. L'accoglienza cordiale lascia emergere comportamenti strani e un disagio crescente."
   },
   {
     "title": "Il Codice Da Vinci",
@@ -5275,7 +5604,8 @@
     "id": "ilcodicedavinci-2006",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un esperto di simbologia viene coinvolto in un omicidio al Louvre. Insieme a una crittografa segue una catena di indizi legati ad arte, religione e società segrete."
   },
   {
     "title": "Angeli e Demoni",
@@ -5291,7 +5621,8 @@
     "id": "angeliedemoni-2009",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Un'emergenza in Vaticano porta Robert Langdon sulle tracce di un antico gruppo ostile alla Chiesa. La ricerca si svolge contro il tempo tra monumenti e indizi nascosti."
   },
   {
     "title": "Inferno",
@@ -5307,7 +5638,8 @@
     "id": "inferno-2016",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Robert Langdon si risveglia a Firenze senza ricordare gli ultimi eventi. Inseguito da sconosciuti, cerca di decifrare un messaggio legato a Dante e a una minaccia globale."
   },
   {
     "title": "Il silenzio degli innocenti",
@@ -5323,7 +5655,8 @@
     "id": "ilsilenziodegliinnocenti-1991",
     "genres": [
       "Psychological"
-    ]
+    ],
+    "synopsis": "Una giovane allieva dell'FBI cerca l'aiuto di Hannibal Lecter per trovare un assassino. Il confronto con il detenuto diventa un delicato scambio di indizi e confessioni."
   },
   {
     "title": "Amore e altri rimedi",
@@ -5339,7 +5672,8 @@
     "id": "amoreealtririmedi-2010",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un rappresentante farmaceutico e una giovane artista iniziano una relazione senza impegni. Il sentimento cresce mentre la malattia di lei rende più complesse le loro scelte."
   },
   {
     "title": "Come farsi lasciare in 10 giorni",
@@ -5355,7 +5689,8 @@
     "id": "comefarsilasciarein10giorni-2003",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Una giornalista vuole dimostrare come perdere un uomo in pochi giorni. Il corteggiatore scelto, però, ha scommesso di riuscire a farla innamorare nello stesso periodo."
   },
   {
     "title": "Le pagine della nostra vita",
@@ -5371,7 +5706,8 @@
     "id": "lepaginedellanostravita-2005",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "In una casa di cura, un uomo legge a una donna una storia d'amore iniziata molti anni prima. Il racconto segue due giovani separati dalle differenze sociali e dagli eventi."
   },
   {
     "title": "Vi presento Joe Black",
@@ -5387,7 +5723,8 @@
     "id": "vipresentojoeblack-1998",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un ricco imprenditore riceve la visita della Morte sotto sembianze umane. In cambio di altro tempo deve accompagnarla alla scoperta della vita e dei suoi legami."
   },
   {
     "title": "Romeo + Giulietta",
@@ -5403,7 +5740,8 @@
     "id": "romeogiulietta-1996",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Due giovani si innamorano in una città segnata dalla rivalità delle rispettive famiglie. La loro relazione cerca spazio tra violenza, aspettative e tentativi di sfuggire al destino."
   },
   {
     "title": "Titanic",
@@ -5419,7 +5757,8 @@
     "id": "titanic-1997",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Una giovane dell'alta società conosce un artista durante il viaggio inaugurale del Titanic. Il loro amore attraversa barriere sociali mentre la nave procede verso una notte decisiva."
   },
   {
     "title": "L'uomo bicentenario",
@@ -5435,7 +5774,8 @@
     "id": "luomobicentenario-1999",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un robot domestico sviluppa sensibilità e aspirazioni che sorprendono i proprietari. Nel corso di molti anni cerca di comprendere cosa significhi diventare umano."
   },
   {
     "title": "Vento di Passioni",
@@ -5451,7 +5791,8 @@
     "id": "ventodipassioni-1994",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Tre fratelli crescono con il padre nel Montana all'inizio del Novecento. L'arrivo di una giovane donna e la guerra cambiano gli equilibri della famiglia."
   },
   {
     "title": "Se mi lasci ti cancello",
@@ -5467,7 +5808,8 @@
     "id": "semilasciticancello-2004",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un uomo scopre che l'ex compagna ha cancellato i ricordi della loro relazione e sceglie lo stesso trattamento. Rivivere il passato durante la procedura rende la decisione più difficile."
   },
   {
     "title": "Nothing Hill",
@@ -5483,7 +5825,8 @@
     "id": "nothinghill-1999",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un libraio londinese incontra per caso una celebre attrice americana. La loro attrazione deve trovare spazio tra abitudini ordinarie, attenzione pubblica e vite molto diverse."
   },
   {
     "title": "Crazy, Stupid, Love",
@@ -5499,7 +5842,8 @@
     "id": "crazystupidlove-2011",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Dopo la crisi del matrimonio, un uomo impara a frequentare donne con l'aiuto di un seduttore esperto. Le nuove relazioni si intrecciano alle difficoltà della sua famiglia."
   },
   {
     "title": "500 giorni insieme",
@@ -5515,7 +5859,8 @@
     "id": "500giorniinsieme-2009",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un giovane ripercorre i momenti della relazione con una collega che non crede nell'amore eterno. I ricordi mettono a confronto aspettative romantiche e realtà."
   },
   {
     "title": "Il lato positivo",
@@ -5531,7 +5876,8 @@
     "id": "illatopositivo-2012",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Dopo un periodo di cure, un uomo torna a vivere dai genitori e vuole riconquistare la moglie. L'incontro con una donna segnata da un lutto apre una possibilità inattesa."
   },
   {
     "title": "A Star Is Born",
@@ -5547,7 +5893,8 @@
     "id": "astarisborn-2018",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un musicista famoso scopre il talento di una giovane cantante e se ne innamora. L'ascesa di lei si intreccia alle fragilità e alle dipendenze che segnano la vita di lui."
   },
   {
     "title": "I segreti di Brokeback Mountain",
@@ -5563,7 +5910,8 @@
     "id": "isegretidibrokebackmountain-2005",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Due giovani lavorano insieme come pastori nel Wyoming e sviluppano un legame profondo. Negli anni cercano di convivere con il sentimento e con le aspettative della società."
   },
   {
     "title": "Her",
@@ -5579,7 +5927,8 @@
     "id": "her-2013",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un uomo solitario acquista un sistema operativo capace di imparare e comunicare. Il legame con la sua voce artificiale diventa una relazione che ridefinisce l'intimità."
   },
   {
     "title": "50 volte il primo bacio",
@@ -5595,7 +5944,8 @@
     "id": "50volteilprimobacio-2004",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un uomo si innamora di una donna che ogni giorno dimentica gli eventi recenti. Per costruire una relazione deve trovare modi nuovi di farsi conoscere."
   },
   {
     "title": "Prima o poi me lo sposo",
@@ -5611,7 +5961,8 @@
     "id": "primaopoimelosposo-1998",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un cantante per matrimoni e una cameriera fanno amicizia mentre preparano le rispettive vite sentimentali. Le delusioni li spingono a guardare diversamente ciò che desiderano."
   },
   {
     "title": "La febbre del sabato sera",
@@ -5627,7 +5978,8 @@
     "id": "lafebbredelsabatosera-1977",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Un giovane commesso di Brooklyn trova nella discoteca del sabato sera uno spazio per distinguersi. Il ballo e un incontro inatteso gli fanno immaginare un futuro diverso."
   },
   {
     "title": "2 cuori e una provetta",
@@ -5643,7 +5995,8 @@
     "id": "2cuorieunaprovetta-2010",
     "genres": [
       "Romance"
-    ]
+    ],
+    "synopsis": "Una donna decide di diventare madre ricorrendo a un donatore. Un gesto impulsivo del suo migliore amico durante la festa cambia una storia che riemergerà anni dopo."
   },
   {
     "title": "Inception",
@@ -5659,7 +6012,8 @@
     "id": "inception-2010",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un uomo capace di entrare nei sogni altrui riceve un incarico diverso dal solito: impiantare un'idea. La missione intreccia livelli di realtà e ricordi che non riesce a controllare."
   },
   {
     "title": "Interstellar",
@@ -5675,7 +6029,8 @@
     "id": "interstellar-2014",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Con la Terra sempre meno abitabile, un ex pilota parte per cercare un futuro tra le stelle. La missione lo separa dai figli e mette alla prova il suo rapporto con il tempo."
   },
   {
     "title": "Blade Runner 2049",
@@ -5691,7 +6046,8 @@
     "id": "bladerunner2049-2017",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un agente incaricato di cacciare replicanti scopre un indizio capace di destabilizzare la società. La ricerca lo conduce verso un vecchio investigatore e domande sulla propria identità."
   },
   {
     "title": "Ex Machina",
@@ -5707,7 +6063,8 @@
     "id": "exmachina-2015",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un programmatore viene invitato nella casa isolata del fondatore della sua azienda. Deve valutare un'intelligenza artificiale dall'aspetto umano, ma il test coinvolge anche lui."
   },
   {
     "title": "The Martian",
@@ -5723,7 +6080,8 @@
     "id": "themartian-2015",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Creduto morto durante una missione su Marte, un astronauta viene lasciato sul pianeta. Deve usare ingegno e conoscenze scientifiche per sopravvivere e comunicare con la Terra."
   },
   {
     "title": "In Time",
@@ -5739,7 +6097,8 @@
     "id": "intime-2011",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "In un mondo dove il tempo di vita è una moneta, un giovane riceve un'eredità inattesa. La fuga con la figlia di un potente lo porta a sfidare un sistema profondamente ingiusto."
   },
   {
     "title": "Arrival",
@@ -5755,7 +6114,8 @@
     "id": "arrival-2016",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Una linguista viene chiamata a comunicare con visitatori extraterrestri. Mentre le potenze mondiali temono un conflitto, cerca un significato oltre le normali strutture del linguaggio."
   },
   {
     "title": "Cloverfield",
@@ -5771,7 +6131,8 @@
     "id": "cloverfield-2008",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Durante una festa a New York, un attacco improvviso scatena il panico. Un gruppo di amici attraversa la città cercando di salvare una persona rimasta intrappolata."
   },
   {
     "title": "The Day After Tomorrow",
@@ -5787,7 +6148,8 @@
     "id": "thedayaftertomorrow-2004",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un cambiamento climatico improvviso scatena catastrofi e un gelo estremo. Uno scienziato cerca di raggiungere il figlio bloccato a New York mentre le autorità affrontano l'emergenza."
   },
   {
     "title": "Life",
@@ -5803,7 +6165,8 @@
     "id": "life-2017",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "L'equipaggio di una stazione spaziale studia un organismo recuperato da Marte. La scoperta assume rapidamente caratteristiche che trasformano la ricerca in una lotta per sopravvivere."
   },
   {
     "title": "Tenet",
@@ -5819,7 +6182,8 @@
     "id": "tenet-2020",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un agente viene coinvolto in un'operazione contro una minaccia che manipola il tempo. Comprendere eventi che sembrano procedere al contrario diventa essenziale per fermarla."
   },
   {
     "title": "First Man",
@@ -5835,7 +6199,8 @@
     "id": "firstman-2018",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Neil Armstrong affronta gli anni di addestramento che precedono la missione Apollo 11. Il percorso verso la Luna si intreccia ai rischi del lavoro e a un dolore familiare."
   },
   {
     "title": "Ad Astra",
@@ -5851,7 +6216,8 @@
     "id": "adastra-2019",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un astronauta parte per indagare su fenomeni che minacciano il sistema solare. La missione lo conduce verso la verità sul padre scomparso e sul proprio isolamento."
   },
   {
     "title": "La guerra dei mondi",
@@ -5867,7 +6233,8 @@
     "id": "laguerradeimondi-2005",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Un padre separato cerca di proteggere i due figli durante un'invasione extraterrestre. La fuga attraverso un'America in preda al panico mette alla prova il loro legame."
   },
   {
     "title": "L'alba del pianeta delle scimmie",
@@ -5883,7 +6250,8 @@
     "id": "lalbadelpianetadellescimmie-2011",
     "genres": [
       "Sci-Fi"
-    ]
+    ],
+    "synopsis": "Uno scienziato sperimenta una cura che aumenta l'intelligenza di uno scimpanzé. Il rapporto con l'animale e le conseguenze della ricerca aprono uno scontro sempre più ampio."
   },
   {
     "title": "Invictus",
@@ -5899,7 +6267,8 @@
     "id": "invictus-2009",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Dopo la fine dell'apartheid, Nelson Mandela vede nel rugby una possibilità di unire il Sudafrica. Il capitano della nazionale riceve una responsabilità che supera il campo da gioco."
   },
   {
     "title": "The Blind Side",
@@ -5915,7 +6284,8 @@
     "id": "theblindside-2009",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un adolescente senza una casa stabile viene accolto da una famiglia benestante. Il sostegno ricevuto e il talento nel football aprono possibilità che sembravano irraggiungibili."
   },
   {
     "title": "Cinderella Man",
@@ -5931,7 +6301,8 @@
     "id": "cinderellaman-2005",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Durante la Grande depressione, un pugile in difficoltà economiche ottiene un'occasione inattesa. Il ritorno sul ring diventa una lotta per la famiglia e una speranza condivisa."
   },
   {
     "title": "Southpaw",
@@ -5947,7 +6318,8 @@
     "id": "southpaw-2015",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un campione di pugilato vede crollare la propria vita dopo una tragedia. Per ricostruire il rapporto con la figlia cerca aiuto in una palestra lontana dai grandi successi."
   },
   {
     "title": "Hurricane",
@@ -5963,7 +6335,8 @@
     "id": "hurricane-1999",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un pugile viene condannato per un triplice omicidio e continua a proclamarsi innocente. Anni dopo, un giovane lettore e i suoi amici si impegnano per riesaminare il caso."
   },
   {
     "title": "Rush",
@@ -5979,7 +6352,8 @@
     "id": "rush-2013",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "La rivalità tra James Hunt e Niki Lauda domina una stagione di Formula 1. Personalità opposte e rischi estremi trasformano la competizione in un confronto sui limiti."
   },
   {
     "title": "L'arte di vincere",
@@ -5995,7 +6369,8 @@
     "id": "lartedivincere-2011",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Il dirigente di una squadra di baseball cerca di competere con club molto più ricchi. L'aiuto di un giovane esperto di dati lo porta a sfidare la tradizione sportiva."
   },
   {
     "title": "F1",
@@ -6011,7 +6386,8 @@
     "id": "f1-2025",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un ex pilota torna in Formula 1 per aiutare una scuderia in difficoltà. Il lavoro con un giovane talento riapre vecchie ferite e nuove ambizioni."
   },
   {
     "title": "Hustle",
@@ -6027,7 +6403,8 @@
     "id": "hustle-2022",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un osservatore di basket scopre in Spagna un giocatore dal potenziale straordinario. Decide di prepararlo per l'NBA, rischiando il proprio futuro professionale insieme al suo."
   },
   {
     "title": "Imbattibile",
@@ -6043,7 +6420,8 @@
     "id": "imbattibile-2013",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un ex campione di pugilato in difficoltà incontra un giovane deciso a competere nelle arti marziali miste. L'allenamento offre a entrambi una possibilità di riscatto."
   },
   {
     "title": "Coach Carter",
@@ -6059,6 +6437,148 @@
     "id": "coachcarter-2005",
     "genres": [
       "Sport"
-    ]
+    ],
+    "synopsis": "Un allenatore di basket scolastico impone ai giocatori regole severe anche sul rendimento in classe. La scelta di mettere lo studio prima delle vittorie divide la comunità."
+  },
+  {
+    "id": "barrysealunastoriaamericana-2017",
+    "title": "Barry Seal - Una storia americana",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Biography"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Sarah Wright",
+      "Domhnall Gleeson"
+    ],
+    "director": "Doug Liman",
+    "poster": "https://pad.mymovies.it/filmclub/2016/10/074/locandina.jpg",
+    "synopsis": "Un pilota americano viene reclutato dalla CIA per missioni clandestine in America Centrale. Il coinvolgimento nel traffico di droga lo porta a muoversi tra servizi segreti, cartelli e interessi sempre più pericolosi.",
+    "addedAt": "2026-10-21T17:27:55.964188+00:00"
+  },
+  {
+    "id": "rockofages-2012",
+    "title": "Rock of Ages",
+    "year": 2012,
+    "genres": [
+      "Musical"
+    ],
+    "actors": [
+      "Julianne Hough",
+      "Diego Boneta",
+      "Tom Cruise"
+    ],
+    "director": "Adam Shankman",
+    "poster": "https://pad.mymovies.it/filmclub/2011/06/123/locandina.jpg",
+    "synopsis": "Nella Los Angeles degli anni Ottanta, due giovani aspiranti artisti si incontrano in un locale rock. Tra musica, ambizioni e una celebre star imprevedibile, cercano un posto sul palco e nella vita.",
+    "addedAt": "2026-10-21T17:27:55.965244+00:00"
+  },
+  {
+    "id": "vanillasky-2001",
+    "title": "Vanilla Sky",
+    "year": 2001,
+    "genres": [
+      "Psychological",
+      "Romance"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Penélope Cruz",
+      "Cameron Diaz"
+    ],
+    "director": "Cameron Crowe",
+    "poster": "https://pad.mymovies.it/filmclub/2002/02/001/locandina.jpg",
+    "synopsis": "Un giovane editore ricco e sicuro di sé vede cambiare la propria vita dopo un incidente. Amore, ricordi e percezioni contrastanti rendono sempre più difficile capire ciò che sta vivendo.",
+    "addedAt": "2026-10-21T17:27:55.966194+00:00"
+  },
+  {
+    "id": "propostaindecente-1993",
+    "title": "Proposta indecente",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Robert Redford",
+      "Demi Moore",
+      "Woody Harrelson"
+    ],
+    "director": "Adrian Lyne",
+    "poster": "https://pad.mymovies.it/filmclub/2006/03/521/locandina.jpg",
+    "synopsis": "Una coppia in difficoltà economiche incontra un miliardario che propone una somma enorme in cambio di una notte con la donna. La decisione mette alla prova fiducia, desiderio e solidità del matrimonio.",
+    "addedAt": "2026-10-21T17:27:55.968577+00:00"
+  },
+  {
+    "id": "spygame-2001",
+    "title": "Spy Game",
+    "year": 2001,
+    "genres": [
+      "Action"
+    ],
+    "actors": [
+      "Robert Redford",
+      "Brad Pitt",
+      "Catherine McCormack"
+    ],
+    "director": "Tony Scott",
+    "poster": "https://pad.mymovies.it/filmclub/2001/12/006/locandina.jpg",
+    "synopsis": "Alla vigilia della pensione, un agente della CIA scopre che un suo ex allievo è prigioniero in Cina. Ripercorrendo le missioni condivise, cerca un modo per salvarlo contro gli interessi dei superiori.",
+    "addedAt": "2026-10-21T17:27:55.970715+00:00"
+  },
+  {
+    "id": "ilcastello-2001",
+    "title": "Il castello",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "actors": [
+      "Robert Redford",
+      "James Gandolfini",
+      "Mark Ruffalo"
+    ],
+    "director": "Rod Lurie",
+    "poster": "https://pad.mymovies.it/filmclub/2002/07/017/locandina.jpg",
+    "synopsis": "Un generale decorato viene rinchiuso in un carcere militare governato da un comandante autoritario. Il rispetto che conquista tra i detenuti accende un confronto sul significato di disciplina e dignità.",
+    "addedAt": "2026-10-21T17:27:55.972129+00:00"
+  },
+  {
+    "id": "brubaker-1980",
+    "title": "Brubaker",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Robert Redford",
+      "Yaphet Kotto",
+      "Jane Alexander"
+    ],
+    "director": "Stuart Rosenberg",
+    "poster": "https://pad.mymovies.it/filmclub/2006/12/042/locandina.jpg",
+    "synopsis": "Un nuovo direttore entra in un penitenziario sotto copertura per osservarne le condizioni. Scoperti abusi e corruzione, tenta riforme che incontrano resistenze dentro e fuori dal carcere.",
+    "addedAt": "2026-10-21T17:27:55.973011+00:00"
+  },
+  {
+    "id": "unafamigliavincentekingrichard-2021",
+    "title": "Una famiglia vincente - King Richard",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Sport"
+    ],
+    "actors": [
+      "Will Smith",
+      "Saniyya Sidney",
+      "Demi Singleton"
+    ],
+    "director": "Reinaldo Marcus Green",
+    "poster": "https://pad.mymovies.it/filmclub/2021/08/005/locandinapg2.jpg",
+    "synopsis": "Richard Williams elabora un piano ambizioso per trasformare le figlie Venus e Serena in campionesse di tennis. L’intera famiglia affronta ostacoli economici, pressioni sportive e scelte difficili per costruire il loro futuro.",
+    "addedAt": "2026-10-21T17:27:55.974295+00:00"
   }
 ]
