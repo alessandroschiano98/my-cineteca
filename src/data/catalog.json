@@ -6712,5 +6712,24 @@
     "id": "michael-2026",
     "poster": "https://pad.mymovies.it/filmclub/2022/02/184/locandinapg2.jpg",
     "addedAt": "2026-10-21T17:57:47.674525+00:00"
+  },
+  {
+    "id": "painhustlersilbusinessdeldolore-2023",
+    "title": "Pain Hustlers - Il business del dolore",
+    "year": 2023,
+    "director": "David Yates",
+    "actors": [
+      "Emily Blunt",
+      "Chris Evans",
+      "Catherine O’Hara",
+      "Andy Garcia"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "poster": "https://pad.mymovies.it/filmclub/2022/05/168/locandina.jpg",
+    "synopsis": "Una madre single in difficoltà trova lavoro in una piccola azienda farmaceutica e ottiene rapidamente successo nelle vendite. La promessa di una vita migliore la coinvolge però in pratiche commerciali sempre più pericolose, tra ambizione, corruzione e responsabilità personali.",
+    "addedAt": "2026-10-30T18:05:06.987477+00:00"
   }
 ]
