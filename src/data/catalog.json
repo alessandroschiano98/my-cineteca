@@ -6731,5 +6731,23 @@
     "poster": "https://pad.mymovies.it/filmclub/2022/05/168/locandina.jpg",
     "synopsis": "Una madre single in difficoltà trova lavoro in una piccola azienda farmaceutica e ottiene rapidamente successo nelle vendite. La promessa di una vita migliore la coinvolge però in pratiche commerciali sempre più pericolose, tra ambizione, corruzione e responsabilità personali.",
     "addedAt": "2026-10-30T18:05:06.987477+00:00"
+  },
+  {
+    "id": "unottimaannataagoodyear-2006",
+    "title": "Un'ottima annata - A Good Year",
+    "year": 2006,
+    "director": "Ridley Scott",
+    "actors": [
+      "Russell Crowe",
+      "Marion Cotillard",
+      "Albert Finney",
+      "Abbie Cornish"
+    ],
+    "genres": [
+      "Romance"
+    ],
+    "poster": "https://pad.mymovies.it/filmclub/2006/08/203/locandina.jpg",
+    "synopsis": "Un broker londinese eredita dallo zio una tenuta con vigneto in Provenza e parte deciso a venderla. Tra ricordi d’infanzia, incontri inattesi e l’attrazione per una donna del posto, comincia a mettere in discussione la vita che si è costruito.",
+    "addedAt": "2026-11-07T15:59:39.692990+00:00"
   }
 ]
