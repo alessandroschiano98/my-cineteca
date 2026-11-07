@@ -33,5 +33,6 @@ export function isVoiceRole(movie, name) {
   return (movie.voiceActors || []).some(voice => personKey(voice) === personKey(name));
 }
 export function movieOnScreenActors(movie) {
+  if (movie.castType === 'documentary') return [];
   return movieActors(movie).filter(name => !isVoiceRole(movie, name));
 }

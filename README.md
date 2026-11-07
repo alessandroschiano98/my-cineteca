@@ -18,3 +18,7 @@ Chiedi di cercare o aggiungere un film indicando questa cartella. La fonte aggio
 `npm run build` genera `dist/`, pronta per l'hosting statico esistente. Gli aggiornamenti locali diventano visibili online dopo una nuova pubblicazione. La gestione è disponibile solo nel server di sviluppo locale: la versione pubblica non include un endpoint di scrittura. Non esporre il server di sviluppo a internet. Per gestire i film direttamente online servirà un servizio con accesso autenticato.
 
 Ricerca per titolo, regista e cast; filtri per genere e decennio; ordinamento alfabetico, anno e ultimi aggiunti; vista griglia/elenco; schede film; scelta casuale. La data degli inserimenti precedenti non è nota: a parità di data si usa l'ordine alfabetico. Le locandine e i font provengono da servizi esterni; se una locandina manca, viene mostrata una copertina tipografica.
+
+## Serie TV
+
+La collezione TV è in src/data/series.json, separata da quella dei film. Ogni serie conta una sola volta nelle classifiche, anche se sono registrate più stagioni. watchedSeasons indica solo le stagioni confermate; null significa che il numero non è stato specificato. Per le antologie, seasons contiene i titoli e i cast delle stagioni viste. Le pagine degli attori TV e le classifiche si aggiornano dal catalogo, escludendo i ruoli di sola voce. Schede e locandine: TVmaze; trame originali in italiano.
